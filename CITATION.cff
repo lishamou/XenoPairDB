@@ -15,9 +15,6 @@ authors:
     given-names: Zuhui
 license:
   - MIT
-  - CC-BY-4.0
-  - CC-BY-NC-4.0
-  - CC0-1.0
 abstract: "Curated molecular axes, frozen computational priorities, donor-target mappings and reproducible exploratory analyses. Licenses apply to separate materials as defined in THIRD_PARTY_NOTICES.md."
 keywords:
   - xenotransplantation
