@@ -1,23 +1,9 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "Please cite the published Zenodo record and the original public sources."
-type: dataset
+authors: 
+- family-names: Mou
+  given-names: Lisha
+orcid: https://orcid.org/0000-0001-6232-8341
 title: "XenoPairDB: data and reproducible analyses for pig–human molecular incompatibilities and donor-engineering coverage"
-authors:
-  - family-names: Mou
-    given-names: Lisha
-  - family-names: Lu
-    given-names: Ying
-  - family-names: Wu
-    given-names: Zijing
-  - family-names: Zhang
-    given-names: Qishan
-  - family-names: Pu
-    given-names: Zuhui
-license:
-  - MIT
-abstract: "Curated molecular axes, frozen computational priorities, donor-target mappings and reproducible exploratory analyses. Licenses apply to separate materials as defined in THIRD_PARTY_NOTICES.md."
-keywords:
-  - xenotransplantation
-  - donor engineering
-  - molecular compatibility
-  - reproducible analysis
+version: v1.0.0
+date-released: 2026-11-14               
