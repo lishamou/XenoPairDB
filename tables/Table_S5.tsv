@@ -1,0 +1,7 @@
+Subset	Background	Estimate	95% resampling interval	Nominal p / BH q
+Literature-derived positives (n=8)	Full	0.849 (PS)	0.712–0.954	0.000100 / 0.000462
+Literature-derived positives (n=8)	Matched	0.112 (Mean difference)	0.048–0.179	0.005999 / 0.015856
+Excluding CD55 (n=7)	Full	0.828 (PS)	0.692–0.945	0.000100 / 0.000462
+Excluding complement (n=5)	Full	0.759 (PS)	0.607–0.913	0.016598 / 0.034119
+Excluding complement (n=5)	Matched	0.103 (Mean difference)	0.022–0.184	0.059194 / 0.109509
+Human 2012 subset (n=2)	Matched	0.057 (Mean difference)	-0.005–0.120	0.287271 / 0.368360

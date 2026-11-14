@@ -1,0 +1,180 @@
+ID   A0A4X1SUR0_PIG          Unreviewed;      1028 AA.
+AC   A0A4X1SUR0; A0A287A4M8;
+DT   18-SEP-2019, integrated into UniProtKB/TrEMBL.
+DT   18-SEP-2019, sequence version 1.
+DT   05-FEB-2025, entry version 26.
+DE   RecName: Full=Sodium/potassium-transporting ATPase subunit alpha {ECO:0000256|RuleBase:RU362084};
+GN   Name=ATP1A1 {ECO:0000313|Ensembl:ENSSSCP00000038823.2,
+GN   ECO:0000313|VGNC:VGNC:98735};
+OS   Sus scrofa (Pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Laurasiatheria; Artiodactyla; Suina; Suidae; Sus.
+OX   NCBI_TaxID=9823 {ECO:0000313|Ensembl:ENSSSCP00000038823.2, ECO:0000313|Proteomes:UP000008227};
+RN   [1] {ECO:0000313|Ensembl:ENSSSCP00000038823.2, ECO:0000313|Proteomes:UP000008227}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Duroc {ECO:0000313|Ensembl:ENSSSCP00000038823.2,
+RC   ECO:0000313|Proteomes:UP000008227};
+RG   Porcine genome sequencing project;
+RL   Submitted (NOV-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSSSCP00000038823.2}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (OCT-2024) to UniProtKB.
+CC   -!- FUNCTION: This is the catalytic component of the active enzyme, which
+CC       catalyzes the hydrolysis of ATP coupled with the exchange of sodium and
+CC       potassium ions across the plasma membrane. This action creates the
+CC       electrochemical gradient of sodium and potassium ions, providing the
+CC       energy for active transport of various nutrients. Could also be part of
+CC       an osmosensory signaling pathway that senses body-fluid sodium levels
+CC       and controls salt intake behavior as well as voluntary water intake to
+CC       regulate sodium homeostasis. {ECO:0000256|ARBA:ARBA00045576}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=K(+)(out) + Na(+)(in) + ATP + H2O = K(+)(in) + Na(+)(out) +
+CC         ADP + phosphate + H(+); Xref=Rhea:RHEA:18353, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:29101, ChEBI:CHEBI:29103,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:43474, ChEBI:CHEBI:456216;
+CC         EC=7.2.2.13; Evidence={ECO:0000256|ARBA:ARBA00049388};
+CC   -!- SUBUNIT: The sodium/potassium-transporting ATPase is composed of a
+CC       catalytic alpha subunit, an auxiliary non-catalytic beta subunit and an
+CC       additional regulatory subunit. Interacts with regulatory subunit FXYD1.
+CC       Interacts with regulatory subunit FXYD3. Interacts with SIK1. Interacts
+CC       with SLC35G1 and STIM1. Interacts with CLN3; this interaction regulates
+CC       the sodium/potassium-transporting ATPase complex localization at the
+CC       plasma membrane. Interacts with SCN7A; activates ATP1A1 P-type
+CC       sodium:potassium-exchanging transporter activity which indirectly
+CC       signals to nearby neurons to regulate sodium homeostasis.
+CC       {ECO:0000256|ARBA:ARBA00046754}.
+CC   -!- SUBCELLULAR LOCATION: Basolateral cell membrane
+CC       {ECO:0000256|ARBA:ARBA00004554}; Multi-pass membrane protein
+CC       {ECO:0000256|ARBA:ARBA00004554}. Cell membrane, sarcolemma
+CC       {ECO:0000256|ARBA:ARBA00004415}; Multi-pass membrane protein
+CC       {ECO:0000256|ARBA:ARBA00004415}. Cell membrane
+CC       {ECO:0000256|RuleBase:RU362084}; Multi-pass membrane protein
+CC       {ECO:0000256|RuleBase:RU362084}. Cell projection, axon
+CC       {ECO:0000256|ARBA:ARBA00004489}. Melanosome
+CC       {ECO:0000256|ARBA:ARBA00004223}.
+CC   -!- SIMILARITY: Belongs to the cation transport ATPase (P-type) (TC 3.A.3)
+CC       family. Type IIC subfamily. {ECO:0000256|ARBA:ARBA00006934,
+CC       ECO:0000256|RuleBase:RU362084}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   SMR; A0A4X1SUR0; -.
+DR   Ensembl; ENSSSCT00000062564.3; ENSSSCP00000038823.2; ENSSSCG00000006740.5.
+DR   VGNC; VGNC:98735; ATP1A1.
+DR   Proteomes; UP000008227; Chromosome 4.
+DR   GO; GO:0030424; C:axon; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016323; C:basolateral plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042470; C:melanosome; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042383; C:sarcolemma; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008556; F:P-type potassium transmembrane transporter activity; IEA:InterPro.
+DR   GO; GO:0006814; P:sodium ion transport; IEA:UniProtKB-KW.
+DR   CDD; cd02608; P-type_ATPase_Na-K_like; 1.
+DR   FunFam; 1.20.1110.10:FF:000163; -; 1.
+DR   FunFam; 2.70.150.10:FF:000106; Sodium/potassium-transporting ATPase subunit alpha; 1.
+DR   FunFam; 3.40.1110.10:FF:000001; Sodium/potassium-transporting ATPase subunit alpha; 1.
+DR   FunFam; 3.40.50.1000:FF:000004; Sodium/potassium-transporting ATPase subunit alpha; 1.
+DR   FunFam; 1.20.1110.10:FF:000095; Sodium/potassium-transporting ATPase subunit alpha-1; 2.
+DR   Gene3D; 3.40.1110.10; Calcium-transporting ATPase, cytoplasmic domain N; 1.
+DR   Gene3D; 2.70.150.10; Calcium-transporting ATPase, cytoplasmic transduction domain A; 1.
+DR   Gene3D; 1.20.1110.10; Calcium-transporting ATPase, transmembrane domain; 1.
+DR   Gene3D; 3.40.50.1000; HAD superfamily/HAD-like; 1.
+DR   InterPro; IPR006068; ATPase_P-typ_cation-transptr_C.
+DR   InterPro; IPR004014; ATPase_P-typ_cation-transptr_N.
+DR   InterPro; IPR023299; ATPase_P-typ_cyto_dom_N.
+DR   InterPro; IPR018303; ATPase_P-typ_P_site.
+DR   InterPro; IPR023298; ATPase_P-typ_TM_dom_sf.
+DR   InterPro; IPR008250; ATPase_P-typ_transduc_dom_A_sf.
+DR   InterPro; IPR050510; Cation_transp_ATPase_P-type.
+DR   InterPro; IPR036412; HAD-like_sf.
+DR   InterPro; IPR023214; HAD_sf.
+DR   InterPro; IPR005775; P-type_ATPase_IIC.
+DR   InterPro; IPR001757; P_typ_ATPase.
+DR   InterPro; IPR044492; P_typ_ATPase_HD_dom.
+DR   NCBIfam; TIGR01106; ATPase-IIC_X-K; 1.
+DR   NCBIfam; TIGR01494; ATPase_P-type; 2.
+DR   PANTHER; PTHR43294; SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA; 1.
+DR   PANTHER; PTHR43294:SF9; SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-1; 1.
+DR   Pfam; PF13246; Cation_ATPase; 1.
+DR   Pfam; PF00689; Cation_ATPase_C; 1.
+DR   Pfam; PF00690; Cation_ATPase_N; 1.
+DR   Pfam; PF00122; E1-E2_ATPase; 1.
+DR   PRINTS; PR00119; CATATPASE.
+DR   PRINTS; PR00121; NAKATPASE.
+DR   SFLD; SFLDG00002; C1.7:_P-type_atpase_like; 1.
+DR   SFLD; SFLDF00027; p-type_atpase; 1.
+DR   SMART; SM00831; Cation_ATPase_N; 1.
+DR   SUPFAM; SSF81653; Calcium ATPase, transduction domain A; 1.
+DR   SUPFAM; SSF81665; Calcium ATPase, transmembrane domain M; 1.
+DR   SUPFAM; SSF56784; HAD-like; 1.
+DR   SUPFAM; SSF81660; Metal cation-transporting ATPase, ATP-binding domain N; 1.
+DR   PROSITE; PS00154; ATPASE_E1_E2; 1.
+PE   3: Inferred from homology;
+KW   ATP-binding {ECO:0000256|ARBA:ARBA00022840, ECO:0000256|RuleBase:RU362084};
+KW   Cell membrane {ECO:0000256|ARBA:ARBA00022475};
+KW   Ion transport {ECO:0000256|ARBA:ARBA00023065,
+KW   ECO:0000256|RuleBase:RU362084};
+KW   Membrane {ECO:0000256|ARBA:ARBA00023136, ECO:0000256|RuleBase:RU362084};
+KW   Metal-binding {ECO:0000256|RuleBase:RU362084};
+KW   Nucleotide-binding {ECO:0000256|ARBA:ARBA00022741,
+KW   ECO:0000256|RuleBase:RU362084};
+KW   Potassium {ECO:0000256|ARBA:ARBA00022958, ECO:0000256|RuleBase:RU362084};
+KW   Potassium transport {ECO:0000256|ARBA:ARBA00022538,
+KW   ECO:0000256|RuleBase:RU362084};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008227};
+KW   Sodium {ECO:0000256|ARBA:ARBA00023053};
+KW   Sodium transport {ECO:0000256|ARBA:ARBA00023201};
+KW   Sodium/potassium transport {ECO:0000256|ARBA:ARBA00022607};
+KW   Translocase {ECO:0000256|ARBA:ARBA00022967};
+KW   Transmembrane {ECO:0000256|ARBA:ARBA00022692,
+KW   ECO:0000256|RuleBase:RU362084};
+KW   Transmembrane helix {ECO:0000256|ARBA:ARBA00022989,
+KW   ECO:0000256|RuleBase:RU362084}; Transport {ECO:0000256|RuleBase:RU362084}.
+FT   TRANSMEM        101..123
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|RuleBase:RU362084"
+FT   TRANSMEM        135..154
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|RuleBase:RU362084"
+FT   TRANSMEM        296..320
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|RuleBase:RU362084"
+FT   TRANSMEM        326..349
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|RuleBase:RU362084"
+FT   TRANSMEM        858..879
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|RuleBase:RU362084"
+FT   TRANSMEM        918..937
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|RuleBase:RU362084"
+FT   TRANSMEM        958..985
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|RuleBase:RU362084"
+FT   TRANSMEM        991..1009
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|RuleBase:RU362084"
+SQ   SEQUENCE   1028 AA;  113678 MW;  0730882E8817FA77 CRC64;
+     MKLISNDFFA EVGRDKYEPA AVSEHGDKKK AKKERDMDEL KKEVSMDDHK LSLDELHRKY
+     GTDLSRGLTP ARAAEILARD GPNALTPPPT TPEWVKFCRQ LFGGFSMLLW IGAILCFLAY
+     GIQAATEEEP QNDNLYLGVV LSAVVIITGC FSYYQEAKSS KIMESFKNMV PQQALVIRNG
+     EKMSINAEEV VVGDLVEVKG GDRIPADLRI ISANGCKVDN SSLTGESEPQ TRSPDFTNEN
+     PLETRNIAFF STNCVEGTAR GIVVYTGDRT VMGRIATLAS GLEGGQTPIA AEIEHFIHII
+     TGVAVFLGVS FFILSLILEY TWLEAVIFLI GIIVANVPEG LLATVTVCLT LTAKRMARKN
+     CLVKNLEAVE TLGSTSTICS DKTGTLTQNR MTVAHMWFDN QIHEADTTEN QSGVSFDKTS
+     ATWLALSRIA GLCNRAVFQA NQENLPILKR AVAGDASESA LLKCIELCCG SVKEMRERYT
+     KIVEIPFNST NKYQLSIHKN PNTAEPRHLL VMKGAPERIL DRCSSILIHG KEQPLDEELK
+     DAFQNAYLEL GGLGERVLGF CHLFLPDEQF PEGFQFDTDD VNFPLDNLCF VGLISMIDPP
+     RAAVPDAVGK CRSAGIKVIM VTGDHPITAK AIAKGVGIIS EGNETVEDIA ARLNIPVSQV
+     NPRDAKACVV HGSDLKDMTS EQLDDILKYH TEIVFARTSP QQKLIIVEGC QRQGAIVAVT
+     GDGVNDSPAL KKADIGVAMG IAGSDVSKQA ADMILLDDNF ASIVTGVEEG RLIFDNLKKS
+     IAYTLTSNIP EITPFLIFII ANIPLPLGTV TILCIDLGTD MVPAISLAYE QAESDIMKRQ
+     PRNPKTDKLV NERLISMAYG QIGMIQALGG FFTYFVILAE NGFLPIHLLG LRVNWDDRWI
+     NDVEDSYGQQ WTYEQRKIVE FTCHTAFFVS IVVVQWADLV ICKTRRNSVF QQGMKNKILI
+     FGLFEETALA AFLSYCPGMG VALRMYPLKP TWWFCAFPYS LLIFVYDEVR KLIIRRRPGG
+     WVEKETYY
+//

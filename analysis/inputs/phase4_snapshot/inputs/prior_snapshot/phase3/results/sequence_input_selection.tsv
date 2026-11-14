@@ -1,0 +1,21 @@
+gene	human_accession	human_length	human_selection	human_status	human_taxon	pig_accession	pig_length	pig_selection	pig_status	pig_taxon
+CD47	Q08722	323	unique_exact_gene_reviewed	OK	9606	A0A5G2R5L9	340	frozen_accession	OK	9823
+CD274	Q9NZQ7	290	unique_exact_gene_reviewed	OK	9606	A0A8D2BPF9	300	frozen_accession	OK	9823
+PROCR	Q9UNN8	238	unique_exact_gene_reviewed	OK	9606	A0A8D0US59	262	frozen_accession	OK	9823
+EPO	P01588	193	unique_exact_gene_reviewed	OK	9606	P49157	194	unique_exact_gene	OK	9823
+ICAM1	P05362	532	unique_exact_gene_reviewed	OK	9606	F1S3J9	537	frozen_accession	OK	9823
+ULBP1	Q9BZM6	244	unique_exact_gene_reviewed	OK	9606	I6L5V9	247	frozen_accession	OK	9823
+CD86	P42081	329	unique_exact_gene_reviewed	OK	9606	K7GMU1	337	frozen_accession	OK	9823
+THBD	P07204	575	unique_exact_gene_reviewed	OK	9606	A0A8W4FEQ7	579	frozen_accession	OK	9823
+CD46	P15529	392	unique_exact_gene_reviewed	OK	9606	O02839	363	frozen_accession	OK	9823
+CD55	P08174	381	unique_exact_gene_reviewed	OK	9606	K7GS67	313	frozen_accession	OK	9823
+CD59	P13987	128	unique_exact_gene_reviewed	OK	9606	O62680	123	frozen_accession	OK	9823
+CD58	P19256	250	unique_exact_gene_reviewed	OK	9606	Q8SQB6	244	frozen_accession	OK	9823
+FAM234A	Q9H0X4	552	unique_exact_gene_reviewed	OK	9606	F1RGX2	551	frozen_accession	OK	9823
+CFTR	P13569	1480	unique_exact_gene_reviewed	OK	9606	A0A286ZZ96	1482	frozen_accession	OK	9823
+CDH1	P12830	882	unique_exact_gene_reviewed	OK	9606	A0A287BPL8	883	frozen_accession	OK	9823
+CD9	P21926	228	unique_exact_gene_reviewed	OK	9606	A0A8W4FIF1	248	frozen_accession	OK	9823
+CLEC4M	Q9H2X3	399	unique_exact_gene_reviewed	OK	9606				not_unique_n=0	
+INS	P01308	110	unique_exact_gene_reviewed	OK	9606	P01315	108	unique_exact_gene	OK	9823
+IFNG	P01579	166	unique_exact_gene_reviewed	OK	9606	P17803	166	unique_exact_gene	OK	9823
+CD40	P25942	277	unique_exact_gene_reviewed	OK	9606	Q8SQ34	278	frozen_accession	OK	9823

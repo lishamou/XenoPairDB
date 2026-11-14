@@ -1,0 +1,7 @@
+donor	tier1_axis_count	non_control_axis_count	corrected_total_isi_v2	residual_isi_v2	coverage_fraction	coverage_percent	coverage_formula	score_version	xp075_status
+GTKO	75	63	1068.60	1030.10	0.03600	3.60	1-residual/corrected_total_isi_v2	ISI_v2_Aplus	partial_compatible;direct;s_f=0.3
+ClonOrgan-6GE	75	63	1068.60	943.60	0.11700	11.70	1-residual/corrected_total_isi_v2	ISI_v2_Aplus	partial_compatible;direct;s_f=0.3
+ClonOrgan-8GE	75	63	1068.60	943.60	0.11700	11.70	1-residual/corrected_total_isi_v2	ISI_v2_Aplus	partial_compatible;direct;s_f=0.3
+Yunnan-10GE	75	63	1068.60	356.30	0.66657	66.66	1-residual/corrected_total_isi_v2	ISI_v2_Aplus	partial_compatible;direct;s_f=0.3
+Revivicor-10GE	75	63	1068.60	334.30	0.68716	68.72	1-residual/corrected_total_isi_v2	ISI_v2_Aplus	partial_compatible;direct;s_f=0.3
+eGenesis-69GE	75	63	1068.60	424.30	0.60294	60.29	1-residual/corrected_total_isi_v2	ISI_v2_Aplus	partial_compatible;direct;s_f=0.3

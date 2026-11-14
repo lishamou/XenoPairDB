@@ -1,0 +1,170 @@
+[
+  {
+    "table": "1",
+    "caption": "Table 1. Resource composition and sequence-data availability.",
+    "source": "main article",
+    "file": "tables/Table_1.tsv"
+  },
+  {
+    "table": "2",
+    "caption": "Table 2. Molecular coverage of donor-engineering designs in the mixed-divergence scenario. Scores use the sequence-evaluable subset and weighted-divergence units. GTKO is zero only in this subset because the α-Gal axis has no sequence score; this does not imply absence of biological targeting by GGTA1 deletion. Totals are checked before independent rounding; displayed sums can differ by 0.01.",
+    "source": "main article",
+    "file": "tables/Table_2.tsv"
+  },
+  {
+    "table": "3",
+    "caption": "Table 3. Template-based structural comparisons at a 5 Å contact threshold. RMSD is in Å; contacts denote residue pairs.",
+    "source": "main article",
+    "file": "tables/Table_3.tsv"
+  },
+  {
+    "table": "4",
+    "caption": "Table 4. Published functional source-data contrasts. Treatment is 3KO.7TG minus 3KO; n=3 cell sources per group. C3b uses thousand MFI units; injury uses percentage points. CIs are approximate Welch intervals; p values are exact two-sided permutation tests.",
+    "source": "main article",
+    "file": "tables/Table_4.tsv"
+  },
+  {
+    "table": "S1",
+    "caption": "Table S1. Sequence-feature descriptive association. Intervals condition on the selected catalogue and dependency proxy; p=NA.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S1.tsv"
+  },
+  {
+    "table": "S2",
+    "caption": "Table S2. Scoring scenarios and interpretation.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S2.tsv"
+  },
+  {
+    "table": "S3",
+    "caption": "Table S3. Available-sequence mixed-candidate organ strata. T/A/R in weighted-divergence units. Axis totals already include missing records; the two counts are not additive. Each of these strata contains the same 12 sequence-missing non-controls. Unrounded values satisfy T=A+R; independent rounding can produce a 0.01 display difference.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S3.tsv"
+  },
+  {
+    "table": "S4",
+    "caption": "Table S4. Selected full-length sequence QC. Missing inputs remain missing; identities use paired residues.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S4.tsv"
+  },
+  {
+    "table": "S4b",
+    "caption": "Table S4b. Tier-2 weight sensitivity across all atlas rows. Jaccard compares unique gene pairs among the top 100 rows with the reference divergence weight 0.6.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S4b.tsv"
+  },
+  {
+    "table": "S5",
+    "caption": "Table S5. Exploratory antigen enrichment. The estimate and its interval refer to the stated estimand.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S5.tsv"
+  },
+  {
+    "table": "S6",
+    "caption": "Table S6. Glycan-enzyme panel, separate from protein sequon priority.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S6.tsv"
+  },
+  {
+    "table": "S6b",
+    "caption": "Table S6b. Antigen evidence sources, measured endpoints and interpretation.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S6b.tsv"
+  },
+  {
+    "table": "S7",
+    "caption": "Table S7. Filter sensitivity and model confidence at 5 Å.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S7.tsv"
+  },
+  {
+    "table": "S8",
+    "caption": "Table S8. Entire observed-control peptide comparison cohort. Higher score and lower rank number indicate higher priority.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S8.tsv"
+  },
+  {
+    "table": "S9",
+    "caption": "Table S9. Continuous public-proteomics comparisons. Intervals are conditional protein-bootstrap ranges; NA denotes unavailable inference.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S9.tsv"
+  },
+  {
+    "table": "S10",
+    "caption": "Table S10. Technical-repeat antibody-binding examples from Fig. 1b. No biological CI or p value is estimable from these triplicates.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S10.tsv"
+  },
+  {
+    "table": "S11",
+    "caption": "Table S11. All published genotype contrasts. C3b is thousand MFI units; CDC is percentage points. ED4 is a separate experiment, not extra replicates for Fig. 3.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S11.tsv"
+  },
+  {
+    "table": "S12",
+    "caption": "Table S12. Paired C3b blocking contrasts. Effect is blocked minus unblocked, in thousand MFI units; RI sources remain separate.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S12.tsv"
+  },
+  {
+    "table": "S13",
+    "caption": "Table S13. Additional mapped peptide rows relative to primary mapping. Observed-control rows determine eligibility for the primary endpoint.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S13.tsv"
+  },
+  {
+    "table": "S14",
+    "caption": "Table S14. Mapping sensitivities and primary baselines. Intervals are conditional on the supplied assay set.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S14.tsv"
+  },
+  {
+    "table": "S15",
+    "caption": "Table S15. Expanded observed-control cohort under M3–M5. The additional gene is RPN1.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S15.tsv"
+  },
+  {
+    "table": "S16",
+    "caption": "Table S16. Practical workflows and their interpretation.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S16.tsv"
+  },
+  {
+    "table": "S17",
+    "caption": "Table S17. Scope of complementary resources and the XenoPairDB framework.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S17.tsv"
+  },
+  {
+    "table": "S18",
+    "caption": "Table S18. Numerical scoring scenarios. n counts included axes, including zero-score controls. Shares use the row-specific total. Exact arithmetic is checked before independent display rounding.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S18.tsv"
+  },
+  {
+    "table": "S19",
+    "caption": "Table S19. Count-based direct genetic targeting. The non-control denominator is 63; all-catalogue targeting includes 12 controls. Counts are not functional rescue fractions.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S19.tsv"
+  },
+  {
+    "table": "S20",
+    "caption": "Table S20. Entire 11-axis retrospective catalogue overlap at divergence weight 0.6. Scores use a 0–100 scale. Shared gene pairs can have different directions or catalogue endpoints; opposite annotations are not resolved by the gene-pair score.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S20.tsv"
+  },
+  {
+    "table": "S21",
+    "caption": "Table S21. Additional full-length sequence QC denominators for the 20-gene panel. Paired identity divides identical residues by aligned residue pairs; column identity divides by all alignment columns. Coverage divides aligned pairs by the corresponding species length. NA remains unavailable; boundary-specific results accompany the archive.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S21.tsv"
+  },
+  {
+    "table": "S22",
+    "caption": "Table S22. Contact-threshold sensitivity at 8 Å. Counts are heavy-atom residue-pair contacts, not atom-pair counts. Interface pLDDT depends on the threshold-defined residue set. Principal 5 Å results remain in Table 3 and Table S7; these are geometric diagnostics.",
+    "source": "Supplementary Information",
+    "file": "tables/Table_S22.tsv"
+  }
+]

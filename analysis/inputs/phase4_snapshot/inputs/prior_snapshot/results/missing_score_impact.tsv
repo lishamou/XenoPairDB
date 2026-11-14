@@ -1,0 +1,157 @@
+donor	variant	pair_id	mask	identity_status	missing_score_burden	status
+GTKO (NYU 2021-23)	legacy_stored	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP005	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP063	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	legacy_stored	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP005	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP054	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP063	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP068	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+GTKO (NYU 2021-23)	formula_sequence_available	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP054	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP068	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP054	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP068	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP054	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP068	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP054	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP068	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP004	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP005	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP022	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP023	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP024	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP026	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP027	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP028	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP054	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP063	1	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP068	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP074	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP078	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	XP079	0	missing	NA	NOT_ASSUMED_ZERO_COMPATIBLE_OR_RESOLVED

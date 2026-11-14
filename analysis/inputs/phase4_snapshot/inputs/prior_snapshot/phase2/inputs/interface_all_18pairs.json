@@ -1,0 +1,890 @@
+{
+  "flagship": {
+    "CD47": {
+      "pdb": "2JJT",
+      "partner": "SIRPA",
+      "iface_identity": 79,
+      "n_iface": 24,
+      "n_identical": 19
+    },
+    "VWF": {
+      "pdb": "1SQ0",
+      "partner": "GP1BA",
+      "iface_identity": 72,
+      "n_iface": 40,
+      "n_identical": 29
+    },
+    "THBD": {
+      "pdb": "1DX5",
+      "partner": "F2",
+      "iface_identity": 62,
+      "n_iface": 24,
+      "n_identical": 15
+    }
+  },
+  "extended": {
+    "IL6": {
+      "pdb": "1P9M",
+      "partner": "IL6R",
+      "n_iface": 17,
+      "n_identical": 11,
+      "iface_identity": 64.7,
+      "subs": [
+        {
+          "pos": 58,
+          "human_aa": "R",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 200,
+          "human_aa": "E",
+          "pig_aa": "G",
+          "identical": false
+        },
+        {
+          "pos": 203,
+          "human_aa": "Q",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 208,
+          "human_aa": "A",
+          "pig_aa": "W",
+          "identical": false
+        },
+        {
+          "pos": 210,
+          "human_aa": "R",
+          "pig_aa": "S",
+          "identical": false
+        },
+        {
+          "pos": 211,
+          "human_aa": "Q",
+          "pig_aa": "H",
+          "identical": false
+        }
+      ]
+    },
+    "TNF": {
+      "pdb": "1TNR",
+      "partner": "TNFRSF1A",
+      "n_iface": 22,
+      "n_identical": 15,
+      "iface_identity": 68.2,
+      "subs": [
+        {
+          "pos": 96,
+          "human_aa": "P",
+          "pig_aa": "V",
+          "identical": false
+        },
+        {
+          "pos": 97,
+          "human_aa": "Q",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 105,
+          "human_aa": "L",
+          "pig_aa": "Q",
+          "identical": false
+        },
+        {
+          "pos": 106,
+          "human_aa": "N",
+          "pig_aa": "S",
+          "identical": false
+        },
+        {
+          "pos": 107,
+          "human_aa": "R",
+          "pig_aa": "G",
+          "identical": false
+        },
+        {
+          "pos": 108,
+          "human_aa": "R",
+          "pig_aa": "Y",
+          "identical": false
+        },
+        {
+          "pos": 141,
+          "human_aa": "K",
+          "pig_aa": "R",
+          "identical": false
+        }
+      ]
+    },
+    "IFNG": {
+      "pdb": "1FG9",
+      "partner": "IFNGR1",
+      "n_iface": 21,
+      "n_identical": 12,
+      "iface_identity": 57.1,
+      "subs": [
+        {
+          "pos": 27,
+          "human_aa": "Y",
+          "pig_aa": "F",
+          "identical": false
+        },
+        {
+          "pos": 28,
+          "human_aa": "V",
+          "pig_aa": "F",
+          "identical": false
+        },
+        {
+          "pos": 32,
+          "human_aa": "E",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 41,
+          "human_aa": "G",
+          "pig_aa": "S",
+          "identical": false
+        },
+        {
+          "pos": 42,
+          "human_aa": "H",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 46,
+          "human_aa": "A",
+          "pig_aa": "P",
+          "identical": false
+        },
+        {
+          "pos": 47,
+          "human_aa": "D",
+          "pig_aa": "N",
+          "identical": false
+        },
+        {
+          "pos": 48,
+          "human_aa": "N",
+          "pig_aa": "G",
+          "identical": false
+        },
+        {
+          "pos": 50,
+          "human_aa": "T",
+          "pig_aa": "P",
+          "identical": false
+        }
+      ]
+    },
+    "CD86": {
+      "pdb": "1I8L",
+      "partner": "CTLA4",
+      "n_iface": 16,
+      "n_identical": 8,
+      "iface_identity": 50.0,
+      "subs": [
+        {
+          "pos": 61,
+          "human_aa": "E",
+          "pig_aa": "D",
+          "identical": false
+        },
+        {
+          "pos": 66,
+          "human_aa": "N",
+          "pig_aa": "Y",
+          "identical": false
+        },
+        {
+          "pos": 68,
+          "human_aa": "V",
+          "pig_aa": "L",
+          "identical": false
+        },
+        {
+          "pos": 111,
+          "human_aa": "I",
+          "pig_aa": "F",
+          "identical": false
+        },
+        {
+          "pos": 118,
+          "human_aa": "T",
+          "pig_aa": "H",
+          "identical": false
+        },
+        {
+          "pos": 120,
+          "human_aa": "M",
+          "pig_aa": "L",
+          "identical": false
+        },
+        {
+          "pos": 121,
+          "human_aa": "I",
+          "pig_aa": "V",
+          "identical": false
+        },
+        {
+          "pos": 122,
+          "human_aa": "R",
+          "pig_aa": "P",
+          "identical": false
+        }
+      ]
+    },
+    "CD80": {
+      "status": "no_interface"
+    },
+    "CD40": {
+      "pdb": "3QD6",
+      "partner": "CD40LG",
+      "n_iface": 8,
+      "n_identical": 7,
+      "iface_identity": 87.5,
+      "subs": [
+        {
+          "pos": 75,
+          "human_aa": "T",
+          "pig_aa": "K",
+          "identical": false
+        }
+      ]
+    },
+    "FAS": {
+      "pdb": "4MSV",
+      "partner": "FASLG",
+      "n_iface": 14,
+      "n_identical": 9,
+      "iface_identity": 64.3,
+      "subs": [
+        {
+          "pos": 95,
+          "human_aa": "A",
+          "pig_aa": "N",
+          "identical": false
+        },
+        {
+          "pos": 97,
+          "human_aa": "F",
+          "pig_aa": "H",
+          "identical": false
+        },
+        {
+          "pos": 137,
+          "human_aa": "S",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 138,
+          "human_aa": "T",
+          "pig_aa": "S",
+          "identical": false
+        },
+        {
+          "pos": 139,
+          "human_aa": "V",
+          "pig_aa": "Q",
+          "identical": false
+        }
+      ]
+    },
+    "CD274": {
+      "pdb": "4ZQK",
+      "partner": "PDCD1",
+      "n_iface": 22,
+      "n_identical": 18,
+      "iface_identity": 81.8,
+      "subs": [
+        {
+          "pos": 54,
+          "human_aa": "I",
+          "pig_aa": "V",
+          "identical": false
+        },
+        {
+          "pos": 63,
+          "human_aa": "N",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 113,
+          "human_aa": "R",
+          "pig_aa": "C",
+          "identical": false
+        },
+        {
+          "pos": 115,
+          "human_aa": "M",
+          "pig_aa": "L",
+          "identical": false
+        }
+      ]
+    },
+    "CD58": {
+      "pdb": "1QA9",
+      "partner": "CD2",
+      "n_iface": 17,
+      "n_identical": 10,
+      "iface_identity": 58.8,
+      "subs": [
+        {
+          "pos": 55,
+          "human_aa": "L",
+          "pig_aa": "I",
+          "identical": false
+        },
+        {
+          "pos": 70,
+          "human_aa": "E",
+          "pig_aa": "N",
+          "identical": false
+        },
+        {
+          "pos": 72,
+          "human_aa": "R",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 75,
+          "human_aa": "S",
+          "pig_aa": "P",
+          "identical": false
+        },
+        {
+          "pos": 110,
+          "human_aa": "I",
+          "pig_aa": "V",
+          "identical": false
+        },
+        {
+          "pos": 112,
+          "human_aa": "D",
+          "pig_aa": "N",
+          "identical": false
+        },
+        {
+          "pos": 113,
+          "human_aa": "T",
+          "pig_aa": "S",
+          "identical": false
+        }
+      ]
+    },
+    "EPO": {
+      "pdb": "1EER",
+      "partner": "EPOR",
+      "n_iface": 28,
+      "n_identical": 23,
+      "iface_identity": 82.1,
+      "subs": [
+        {
+          "pos": 43,
+          "human_aa": "L",
+          "pig_aa": "I",
+          "identical": false
+        },
+        {
+          "pos": 160,
+          "human_aa": "I",
+          "pig_aa": "F",
+          "identical": false
+        },
+        {
+          "pos": 161,
+          "human_aa": "T",
+          "pig_aa": "A",
+          "identical": false
+        },
+        {
+          "pos": 171,
+          "human_aa": "V",
+          "pig_aa": "N",
+          "identical": false
+        },
+        {
+          "pos": 181,
+          "human_aa": "K",
+          "pig_aa": "T",
+          "identical": false
+        }
+      ]
+    },
+    "IL1B": {
+      "pdb": "1ITB",
+      "partner": "IL1R1",
+      "n_iface": 45,
+      "n_identical": 21,
+      "iface_identity": 46.7,
+      "subs": [
+        {
+          "pos": 117,
+          "human_aa": "A",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 120,
+          "human_aa": "R",
+          "pig_aa": "Q",
+          "identical": false
+        },
+        {
+          "pos": 122,
+          "human_aa": "L",
+          "pig_aa": "V",
+          "identical": false
+        },
+        {
+          "pos": 127,
+          "human_aa": "R",
+          "pig_aa": "Q",
+          "identical": false
+        },
+        {
+          "pos": 129,
+          "human_aa": "S",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 130,
+          "human_aa": "Q",
+          "pig_aa": "D",
+          "identical": false
+        },
+        {
+          "pos": 131,
+          "human_aa": "Q",
+          "pig_aa": "E",
+          "identical": false
+        },
+        {
+          "pos": 133,
+          "human_aa": "S",
+          "pig_aa": "A",
+          "identical": false
+        },
+        {
+          "pos": 148,
+          "human_aa": "Q",
+          "pig_aa": "L",
+          "identical": false
+        },
+        {
+          "pos": 149,
+          "human_aa": "G",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 150,
+          "human_aa": "Q",
+          "pig_aa": "G",
+          "identical": false
+        },
+        {
+          "pos": 152,
+          "human_aa": "M",
+          "pig_aa": "L",
+          "identical": false
+        },
+        {
+          "pos": 154,
+          "human_aa": "Q",
+          "pig_aa": "R",
+          "identical": false
+        },
+        {
+          "pos": 155,
+          "human_aa": "Q",
+          "pig_aa": "E",
+          "identical": false
+        },
+        {
+          "pos": 167,
+          "human_aa": "E",
+          "pig_aa": "D",
+          "identical": false
+        },
+        {
+          "pos": 169,
+          "human_aa": "N",
+          "pig_aa": "D",
+          "identical": false
+        },
+        {
+          "pos": 209,
+          "human_aa": "K",
+          "pig_aa": "R",
+          "identical": false
+        },
+        {
+          "pos": 210,
+          "human_aa": "K",
+          "pig_aa": "D",
+          "identical": false
+        },
+        {
+          "pos": 219,
+          "human_aa": "K",
+          "pig_aa": "R",
+          "identical": false
+        },
+        {
+          "pos": 225,
+          "human_aa": "K",
+          "pig_aa": "R",
+          "identical": false
+        },
+        {
+          "pos": 245,
+          "human_aa": "N",
+          "pig_aa": "Q",
+          "identical": false
+        },
+        {
+          "pos": 246,
+          "human_aa": "M",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 265,
+          "human_aa": "Q",
+          "pig_aa": "E",
+          "identical": false
+        },
+        {
+          "pos": 266,
+          "human_aa": "F",
+          "pig_aa": "V",
+          "identical": false
+        }
+      ]
+    },
+    "ULBP1": {
+      "pdb": "1KCG",
+      "partner": "KLRK1",
+      "n_iface": 13,
+      "n_identical": 5,
+      "iface_identity": 38.5,
+      "subs": [
+        {
+          "pos": 40,
+          "human_aa": "T",
+          "pig_aa": "N",
+          "identical": false
+        },
+        {
+          "pos": 67,
+          "human_aa": "V",
+          "pig_aa": "G",
+          "identical": false
+        },
+        {
+          "pos": 96,
+          "human_aa": "D",
+          "pig_aa": "Y",
+          "identical": false
+        },
+        {
+          "pos": 104,
+          "human_aa": "Q",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 108,
+          "human_aa": "I",
+          "pig_aa": "V",
+          "identical": false
+        },
+        {
+          "pos": 109,
+          "human_aa": "Q",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 114,
+          "human_aa": "I",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 115,
+          "human_aa": "P",
+          "pig_aa": "K",
+          "identical": false
+        }
+      ]
+    },
+    "PVR": {
+      "pdb": "3UDW",
+      "partner": "TIGIT",
+      "n_iface": 24,
+      "n_identical": 14,
+      "iface_identity": 58.3,
+      "subs": [
+        {
+          "pos": 60,
+          "human_aa": "H",
+          "pig_aa": "-",
+          "identical": false
+        },
+        {
+          "pos": 62,
+          "human_aa": "S",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 73,
+          "human_aa": "G",
+          "pig_aa": "R",
+          "identical": false
+        },
+        {
+          "pos": 80,
+          "human_aa": "Q",
+          "pig_aa": "P",
+          "identical": false
+        },
+        {
+          "pos": 82,
+          "human_aa": "Q",
+          "pig_aa": "R",
+          "identical": false
+        },
+        {
+          "pos": 87,
+          "human_aa": "S",
+          "pig_aa": "P",
+          "identical": false
+        },
+        {
+          "pos": 124,
+          "human_aa": "L",
+          "pig_aa": "Q",
+          "identical": false
+        },
+        {
+          "pos": 126,
+          "human_aa": "V",
+          "pig_aa": "A",
+          "identical": false
+        },
+        {
+          "pos": 130,
+          "human_aa": "Q",
+          "pig_aa": "D",
+          "identical": false
+        },
+        {
+          "pos": 132,
+          "human_aa": "S",
+          "pig_aa": "D",
+          "identical": false
+        }
+      ]
+    },
+    "ICAM1": {
+      "pdb": "1MQ8",
+      "partner": "ITGAL",
+      "n_iface": 16,
+      "n_identical": 4,
+      "iface_identity": 25.0,
+      "subs": [
+        {
+          "pos": 56,
+          "human_aa": "K",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 57,
+          "human_aa": "L",
+          "pig_aa": "S",
+          "identical": false
+        },
+        {
+          "pos": 60,
+          "human_aa": "I",
+          "pig_aa": "L",
+          "identical": false
+        },
+        {
+          "pos": 63,
+          "human_aa": "P",
+          "pig_aa": "H",
+          "identical": false
+        },
+        {
+          "pos": 64,
+          "human_aa": "L",
+          "pig_aa": "W",
+          "identical": false
+        },
+        {
+          "pos": 86,
+          "human_aa": "E",
+          "pig_aa": "N",
+          "identical": false
+        },
+        {
+          "pos": 89,
+          "human_aa": "Q",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 90,
+          "human_aa": "P",
+          "pig_aa": "L",
+          "identical": false
+        },
+        {
+          "pos": 91,
+          "human_aa": "M",
+          "pig_aa": "L",
+          "identical": false
+        },
+        {
+          "pos": 93,
+          "human_aa": "Y",
+          "pig_aa": "H",
+          "identical": false
+        },
+        {
+          "pos": 95,
+          "human_aa": "N",
+          "pig_aa": "V",
+          "identical": false
+        },
+        {
+          "pos": 102,
+          "human_aa": "T",
+          "pig_aa": "Q",
+          "identical": false
+        }
+      ]
+    },
+    "GH1": {
+      "pdb": "3HHR",
+      "partner": "GHR",
+      "n_iface": 29,
+      "n_identical": 14,
+      "iface_identity": 48.3,
+      "subs": [
+        {
+          "pos": 44,
+          "human_aa": "H",
+          "pig_aa": "Q",
+          "identical": false
+        },
+        {
+          "pos": 51,
+          "human_aa": "F",
+          "pig_aa": "A",
+          "identical": false
+        },
+        {
+          "pos": 67,
+          "human_aa": "K",
+          "pig_aa": "R",
+          "identical": false
+        },
+        {
+          "pos": 71,
+          "human_aa": "L",
+          "pig_aa": "I",
+          "identical": false
+        },
+        {
+          "pos": 74,
+          "human_aa": "P",
+          "pig_aa": "A",
+          "identical": false
+        },
+        {
+          "pos": 88,
+          "human_aa": "S",
+          "pig_aa": "T",
+          "identical": false
+        },
+        {
+          "pos": 89,
+          "human_aa": "N",
+          "pig_aa": "G",
+          "identical": false
+        },
+        {
+          "pos": 90,
+          "human_aa": "R",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 93,
+          "human_aa": "T",
+          "pig_aa": "A",
+          "identical": false
+        },
+        {
+          "pos": 190,
+          "human_aa": "Y",
+          "pig_aa": "S",
+          "identical": false
+        },
+        {
+          "pos": 193,
+          "human_aa": "R",
+          "pig_aa": "K",
+          "identical": false
+        },
+        {
+          "pos": 197,
+          "human_aa": "D",
+          "pig_aa": "H",
+          "identical": false
+        },
+        {
+          "pos": 202,
+          "human_aa": "F",
+          "pig_aa": "Y",
+          "identical": false
+        },
+        {
+          "pos": 205,
+          "human_aa": "I",
+          "pig_aa": "V",
+          "identical": false
+        },
+        {
+          "pos": 216,
+          "human_aa": "G",
+          "pig_aa": "A",
+          "identical": false
+        }
+      ]
+    },
+    "INS": {
+      "pdb": "3W12",
+      "partner": "INSR",
+      "n_iface": 6,
+      "n_identical": 6,
+      "iface_identity": 100.0,
+      "subs": []
+    }
+  }
+}

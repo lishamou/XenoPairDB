@@ -1,0 +1,7 @@
+Genotype / blockade / paired n	Difference	95% model CI	Sign-flip p	Holm p
+7TG / CD46 / 3	0.545	-0.636 to 1.726	0.25	1.00
+7TG / CD55 / 3	1.138	-0.592 to 2.869	0.25	1.00
+7TG / both / 3	4.689	-4.715 to 14.094	0.25	1.00
+RI / CD46 / 2	0.847	-3.003 to 4.697	0.50	1.00
+RI / CD55 / 2	1.047	-1.520 to 3.614	0.50	1.00
+RI / both / 2	3.562	-3.153 to 10.278	0.50	1.00

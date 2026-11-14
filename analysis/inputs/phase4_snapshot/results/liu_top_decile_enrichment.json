@@ -1,0 +1,31 @@
+{
+  "top_rank_threshold": 412,
+  "contingency": [
+    [
+      0,
+      0
+    ],
+    [
+      4,
+      2
+    ]
+  ],
+  "rows": [
+    "frozen_global_top_decile",
+    "remaining_measured"
+  ],
+  "columns": [
+    "author_enriched",
+    "not_author_selected"
+  ],
+  "odds_ratio": null,
+  "ci_low": null,
+  "ci_high": null,
+  "p": null,
+  "n": 6,
+  "method": "conditional_exact_OR_CI_two_sided_Fisher",
+  "selection": "any_eligible_peptide_in_final_S3_Sheet6",
+  "status": "NOT_ESTIMABLE_zero_marginal_no_comparison",
+  "q_BH_secondary": null,
+  "secondary_family_size": 4
+}

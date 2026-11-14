@@ -1,0 +1,445 @@
+scenario	severity_power	expression	edit_fraction	donor	n_axes	n_noncontrol	missing_original	T	A	R	C	units	full_scope_known	functional_rescue
+sequence_available	0.5	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	1259.93391219367	32.8930751892326	1227.04083700444	0.0261069845575968	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	1259.93391219367	43.3941765752778	1216.53973561839	0.0344416291642824	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	0.5	GTKO (NYU 2021-23)	61	51	14	1259.93391219367	0	1259.93391219367	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	1259.93391219367	51.0496713172262	1208.88424087644	0.0405177373377813	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	1259.93391219367	72.414909812835	1187.51900238083	0.0574751652543057	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	1259.93391219367	55.8835027873679	1204.0504094063	0.044354312751269	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	1259.93391219367	65.7861503784653	1194.1477618152	0.0522139691151936	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	1259.93391219367	86.7883531505556	1173.14555904311	0.0688832583285647	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	1	GTKO (NYU 2021-23)	61	51	14	1259.93391219367	0	1259.93391219367	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	1259.93391219367	102.099342634452	1157.83456955922	0.0810354746755626	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	1259.93391219367	144.82981962567	1115.104092568	0.114950330508611	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	actual	1	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	1259.93391219367	111.767005574736	1148.16690661893	0.088708625502538	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	1222.17994371946	33.5065165881531	1188.67342713131	0.0274153710019024	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	1222.17994371946	43.0878134732309	1179.09213024623	0.0352548850884443	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	0.5	GTKO (NYU 2021-23)	61	51	14	1222.17994371946	0	1222.17994371946	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	1222.17994371946	50.3926748682198	1171.78726885124	0.0412317966165111	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	1222.17994371946	68.226328872959	1153.9536148465	0.0558234728229346	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	1222.17994371946	54.2990578287875	1167.88088589067	0.0444280386925179	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	1222.17994371946	67.0130331763063	1155.16691054315	0.0548307420038047	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	1222.17994371946	86.1756269464617	1136.004316773	0.0705097701768886	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	1	GTKO (NYU 2021-23)	61	51	14	1222.17994371946	0	1222.17994371946	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	1222.17994371946	100.78534973644	1121.39459398302	0.0824635932330223	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	1222.17994371946	136.452657745918	1085.72728597354	0.111646945645869	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	0.5	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	1222.17994371946	108.598115657575	1113.58182806189	0.0888560773850357	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	1071.04889	28.078853	1042.970037	0.0262162196909611	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	1071.04889	35.504253	1035.544637	0.0331490498066806	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	0.5	GTKO (NYU 2021-23)	61	51	14	1071.04889	0	1071.04889	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	1071.04889	42.766893	1028.281997	0.0399299167379745	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	1071.04889	60.589085	1010.459805	0.05656985928999	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	1071.04889	45.953573	1025.095317	0.0429052057558269	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	1071.04889	56.157706	1014.891184	0.0524324393819222	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	1071.04889	71.008506	1000.040384	0.0662980996133613	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	1	GTKO (NYU 2021-23)	61	51	14	1071.04889	0	1071.04889	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	1071.04889	85.533786	985.515104	0.079859833475949	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	1071.04889	121.17817	949.87072	0.11313971857998	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	actual	1	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	1071.04889	91.907146	979.141744	0.0858104115116538	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	1036.873	28.289	1008.584	0.0272829941564685	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	1036.873	35.064	1001.809	0.033817063420496	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	0.5	GTKO (NYU 2021-23)	61	51	14	1036.873	0	1036.873	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	1036.873	41.994	994.879	0.0405006206160253	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	1036.873	56.812	980.061	0.0547916668675913	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	1036.873	44.444	992.429	0.0428634943720205	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	1036.873	56.578	980.295	0.0545659883129371	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	1036.873	70.128	966.745	0.0676341268409921	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	1	GTKO (NYU 2021-23)	61	51	14	1036.873	0	1036.873	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	1036.873	83.988	952.885	0.0810012412320506	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	1036.873	113.624	923.249	0.109583333735183	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	1	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	1036.873	88.888	947.985	0.085726988744041	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	812.0903385	22.6240211	789.4663174	0.0278589955174057	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	812.0903385	26.3367211	785.7536174	0.0324307775273453	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	0.5	GTKO (NYU 2021-23)	61	51	14	812.0903385	0	812.0903385	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	812.0903385	32.8730971	779.2172414	0.0404796061983934	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	812.0903385	45.1414955	766.948843	0.055586790483655	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	812.0903385	33.6512451	778.4390934	0.0414378099389247	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	812.0903385	45.2480422	766.8422963	0.0557179910348115	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	812.0903385	52.6734422	759.4168963	0.0648615550546905	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	1	GTKO (NYU 2021-23)	61	51	14	812.0903385	0	812.0903385	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	812.0903385	65.7461942	746.3441443	0.0809592123967868	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	812.0903385	90.282991	721.8073475	0.11117358096731	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	actual	1	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	812.0903385	67.3024902	744.7878483	0.0828756198778493	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	784.50225	22.5413	761.96095	0.0287332509243919	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	784.50225	25.9288	758.57345	0.0330512755062207	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	0.5	GTKO (NYU 2021-23)	61	51	14	784.50225	0	784.50225	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	784.50225	32.1658	752.33645	0.0410015395111996	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	784.50225	42.2604	742.24185	0.0538690615610089	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	784.50225	32.4948	752.00745	0.0414209137067484	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	14	784.50225	45.0826	739.41965	0.0574665018487837	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	14	784.50225	51.8576	732.64465	0.0661025510124413	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	1	GTKO (NYU 2021-23)	61	51	14	784.50225	0	784.50225	0	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	14	784.50225	64.3316	720.17065	0.0820030790223992	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	14	784.50225	84.5208	699.98145	0.107738123122018	weighted_divergence_percentage	False	NOT_INFERRED
+sequence_available	2	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	61	51	14	784.50225	64.9896	719.51265	0.0828418274134969	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1259.93391219367	32.8930751892326	1227.04083700444	0.0261069845575968	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1259.93391219367	43.3941765752778	1216.53973561839	0.0344416291642824	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1259.93391219367	0	1259.93391219367	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1259.93391219367	51.0496713172262	1208.88424087644	0.0405177373377813	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1259.93391219367	72.414909812835	1187.51900238083	0.0574751652543057	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1259.93391219367	55.8835027873679	1204.0504094063	0.044354312751269	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1259.93391219367	65.7861503784653	1194.1477618152	0.0522139691151936	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1259.93391219367	86.7883531505556	1173.14555904311	0.0688832583285647	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	1	GTKO (NYU 2021-23)	75	63	14	1259.93391219367	0	1259.93391219367	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1259.93391219367	102.099342634452	1157.83456955922	0.0810354746755625	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1259.93391219367	144.82981962567	1115.104092568	0.114950330508611	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1259.93391219367	111.767005574736	1148.16690661893	0.088708625502538	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1222.17994371946	33.5065165881531	1188.67342713131	0.0274153710019024	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1222.17994371946	43.0878134732309	1179.09213024623	0.0352548850884443	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1222.17994371946	0	1222.17994371946	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1222.17994371946	50.3926748682198	1171.78726885124	0.0412317966165112	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1222.17994371946	68.226328872959	1153.9536148465	0.0558234728229346	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1222.17994371946	54.2990578287875	1167.88088589067	0.0444280386925179	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1222.17994371946	67.0130331763063	1155.16691054315	0.0548307420038047	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1222.17994371946	86.1756269464617	1136.004316773	0.0705097701768886	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	1	GTKO (NYU 2021-23)	75	63	14	1222.17994371946	0	1222.17994371946	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1222.17994371946	100.78534973644	1121.39459398302	0.0824635932330223	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1222.17994371946	136.452657745918	1085.72728597354	0.111646945645869	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	0.5	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1222.17994371946	108.598115657575	1113.58182806189	0.0888560773850357	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1071.04889	28.078853	1042.970037	0.0262162196909611	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1071.04889	35.504253	1035.544637	0.0331490498066806	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1071.04889	0	1071.04889	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1071.04889	42.766893	1028.281997	0.0399299167379745	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1071.04889	60.589085	1010.459805	0.05656985928999	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1071.04889	45.953573	1025.095317	0.0429052057558269	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1071.04889	56.157706	1014.891184	0.0524324393819222	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1071.04889	71.008506	1000.040384	0.0662980996133613	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	1	GTKO (NYU 2021-23)	75	63	14	1071.04889	0	1071.04889	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1071.04889	85.533786	985.515104	0.079859833475949	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1071.04889	121.17817	949.87072	0.11313971857998	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1071.04889	91.907146	979.141744	0.0858104115116538	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1036.873	28.289	1008.584	0.0272829941564685	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1036.873	35.064	1001.809	0.033817063420496	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1036.873	0	1036.873	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1036.873	41.994	994.879	0.0405006206160253	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1036.873	56.812	980.061	0.0547916668675913	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1036.873	44.444	992.429	0.0428634943720205	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1036.873	56.578	980.295	0.0545659883129371	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1036.873	70.128	966.745	0.0676341268409921	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	1	GTKO (NYU 2021-23)	75	63	14	1036.873	0	1036.873	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1036.873	83.988	952.885	0.0810012412320506	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1036.873	113.624	923.249	0.109583333735183	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	1	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1036.873	88.888	947.985	0.085726988744041	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	812.0903385	22.6240211	789.4663174	0.0278589955174057	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	812.0903385	26.3367211	785.7536174	0.0324307775273453	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	0.5	GTKO (NYU 2021-23)	75	63	14	812.0903385	0	812.0903385	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	812.0903385	32.8730971	779.2172414	0.0404796061983934	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	812.0903385	45.1414955	766.948843	0.055586790483655	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	812.0903385	33.6512451	778.4390934	0.0414378099389247	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	812.0903385	45.2480422	766.8422963	0.0557179910348115	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	812.0903385	52.6734422	759.4168963	0.0648615550546905	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	1	GTKO (NYU 2021-23)	75	63	14	812.0903385	0	812.0903385	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	812.0903385	65.7461942	746.3441443	0.0809592123967868	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	812.0903385	90.282991	721.8073475	0.11117358096731	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	812.0903385	67.3024902	744.7878483	0.0828756198778493	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	784.50225	22.5413	761.96095	0.0287332509243919	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	784.50225	25.9288	758.57345	0.0330512755062207	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	784.50225	0	784.50225	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	784.50225	32.1658	752.33645	0.0410015395111996	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	784.50225	42.2604	742.24185	0.0538690615610089	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	784.50225	32.4948	752.00745	0.0414209137067484	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	784.50225	45.0826	739.41965	0.0574665018487837	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	784.50225	51.8576	732.64465	0.0661025510124413	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	1	GTKO (NYU 2021-23)	75	63	14	784.50225	0	784.50225	0	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	784.50225	64.3316	720.17065	0.0820030790223992	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	784.50225	84.5208	699.98145	0.107738123122018	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_0	2	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	784.50225	64.9896	719.51265	0.0828418274134969	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1524.60892694253	66.0351842938455	1458.57374264868	0.0433128674028384	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1524.60892694253	76.5362856798907	1448.07264126264	0.050200601824743	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1524.60892694253	11.8585412256314	1512.7503857169	0.00777808723015462	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1524.60892694253	84.1917804218391	1440.41714652069	0.0552218860417395	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1524.60892694253	105.557018917448	1419.05190802508	0.0692354721608074	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1524.60892694253	89.0256118919807	1435.58331505055	0.0583924246531298	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1524.60892694253	132.070368587691	1392.53855835484	0.0866257348056768	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1524.60892694253	153.072571359781	1371.53635558275	0.100401203649486	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	1	GTKO (NYU 2021-23)	75	63	14	1524.60892694253	23.7170824512628	1500.89184449127	0.0155561744603092	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1524.60892694253	168.383560843678	1356.22536609885	0.110443772083479	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1524.60892694253	211.114037834896	1313.49488910763	0.138470944321615	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1524.60892694253	178.051223783961	1346.55770315857	0.11678484930626	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1486.85495846832	66.648625692766	1420.20633277555	0.0448252368619895	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1486.85495846832	76.2299225778437	1410.62503589048	0.0512692392379495	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1486.85495846832	11.8585412256314	1474.99641724269	0.00797558709952951	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1486.85495846832	83.5347839728327	1403.32017449549	0.0561822008912596	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1486.85495846832	101.368437977572	1385.48652049075	0.0681764131734788	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1486.85495846832	87.4411669334003	1399.41379153492	0.0588094799935816	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1486.85495846832	133.297251385532	1353.55770708279	0.089650473723979	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1486.85495846832	152.459845155687	1334.39511331263	0.102538478475899	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	1	GTKO (NYU 2021-23)	75	63	14	1486.85495846832	23.7170824512628	1463.13787601706	0.015951174199059	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1486.85495846832	167.069567945665	1319.78539052266	0.112364401782519	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1486.85495846832	202.736875955144	1284.11808251318	0.136352826346958	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	0.5	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1486.85495846832	174.882333866801	1311.97262460152	0.117618959987163	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1307.29889	57.453853	1249.845037	0.0439485212138442	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1307.29889	64.879253	1242.419637	0.049628477080708	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1307.29889	11.25	1296.04889	0.00860553014008908	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1307.29889	72.141893	1235.156997	0.055183931962185	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1307.29889	89.964085	1217.334805	0.0688167684438254	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1307.29889	75.328573	1231.970317	0.0576215382543467	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1307.29889	114.907706	1192.391184	0.0878970424276884	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1307.29889	129.758506	1177.540384	0.099256954161416	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	1	GTKO (NYU 2021-23)	75	63	14	1307.29889	22.5	1284.79889	0.0172110602801782	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1307.29889	144.283786	1163.015104	0.11036786392437	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1307.29889	179.92817	1127.37072	0.137633536887651	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1307.29889	150.657146	1156.641744	0.115243076508693	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1273.123	57.664	1215.459	0.0452933455761933	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1273.123	64.439	1208.684	0.0506149052369645	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1273.123	11.25	1261.873	0.00883653818209238	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1273.123	71.369	1201.754	0.0560582127571334	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1273.123	86.187	1186.936	0.0676973081155552	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1273.123	73.819	1199.304	0.057982614405678	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1273.123	115.328	1157.795	0.0905866911523867	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1273.123	128.878	1144.245	0.101229810473929	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	1	GTKO (NYU 2021-23)	75	63	14	1273.123	22.5	1250.623	0.0176730763641848	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1273.123	142.738	1130.385	0.112116425514267	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1273.123	172.374	1100.749	0.13539461623111	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	1	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1273.123	147.638	1125.485	0.115965228811356	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1005.6528385	45.9052711	959.7475674	0.0456472346545264	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1005.6528385	49.6179711	956.0348674	0.0493390653319376	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1005.6528385	10.125	995.5278385	0.0100680867317017	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1005.6528385	56.1543471	949.4984914	0.0558386999471488	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1005.6528385	68.4227455	937.230093	0.0680381369002619	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1005.6528385	56.9324951	948.7203434	0.0566124739278007	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1005.6528385	91.8105422	913.8422963	0.0912944693090527	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1005.6528385	99.2359422	906.4168963	0.0986781306638752	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	1	GTKO (NYU 2021-23)	75	63	14	1005.6528385	20.25	985.4028385	0.0201361734634034	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1005.6528385	112.3086942	893.3441443	0.111677399894298	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1005.6528385	136.845491	868.8073475	0.136076273800524	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1005.6528385	113.8649902	891.7878483	0.113224947855601	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	978.06475	45.82255	932.2422	0.0468502213171469	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	978.06475	49.21005	928.8547	0.0503136934441201	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	978.06475	10.125	967.93975	0.0103520753610638	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	978.06475	55.44705	922.6177	0.0566905718665354	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	978.06475	65.54165	912.5231	0.0670115654408361	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	978.06475	55.77605	922.2887	0.0570269504140702	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	978.06475	91.6451	886.41965	0.0937004426342939	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	978.06475	98.4201	879.64465	0.10062738688824	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	1	GTKO (NYU 2021-23)	75	63	14	978.06475	20.25	957.81475	0.0207041507221275	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	978.06475	110.8941	867.17065	0.113381143733071	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	978.06475	131.0833	846.98145	0.134023130881672	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_25	2	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	978.06475	111.5521	866.51265	0.11405390082814	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1789.28394169139	99.1772933984583	1690.10664829293	0.0554284823596568	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1789.28394169139	109.678394784504	1679.60554690689	0.0612973671919426	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1789.28394169139	23.7170824512628	1765.56685924013	0.013255069192005	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1789.28394169139	117.333889526452	1671.95005216494	0.0655758914460148	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1789.28394169139	138.699128022061	1650.58481366933	0.0775165555283249	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1789.28394169139	122.167720996594	1667.1162206948	0.0682774366605615	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1789.28394169139	198.354586796917	1590.92935489447	0.110856964719314	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1789.28394169139	219.356789569007	1569.92715212238	0.122594734383885	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	1	GTKO (NYU 2021-23)	75	63	14	1789.28394169139	47.4341649025257	1741.84977678886	0.02651013838401	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1789.28394169139	234.667779052904	1554.61616263849	0.13115178289203	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1789.28394169139	277.398256044121	1511.88568564727	0.15503311105665	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1789.28394169139	244.335441993187	1544.9484996982	0.136554873321123	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1751.52997321718	99.7907347973789	1651.7392384198	0.0569734668108961	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1751.52997321718	109.372031682457	1642.15794153472	0.0624437111296268	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1751.52997321718	23.7170824512628	1727.81289076592	0.013540780240089	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1751.52997321718	116.676893077446	1634.85308013974	0.0666142714435742	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1751.52997321718	134.510547082185	1617.019426135	0.0767960292652703	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1751.52997321718	120.583276038013	1630.94669717917	0.0688445404200122	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1751.52997321718	199.581469594758	1551.94850362242	0.113946933621792	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1751.52997321718	218.744063364913	1532.78590985227	0.124887422259254	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	1	GTKO (NYU 2021-23)	75	63	14	1751.52997321718	47.4341649025257	1704.09580831466	0.027081560480178	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1751.52997321718	233.353786154891	1518.17618706229	0.133228542887148	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1751.52997321718	269.021094164369	1482.50887905281	0.153592058530541	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	0.5	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1751.52997321718	241.166552076026	1510.36342114115	0.137689080840024	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1543.54889	86.828853	1456.720037	0.0562527391017722	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1543.54889	94.254253	1449.294637	0.0610633415051725	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1543.54889	22.5	1521.04889	0.0145767977585731	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1543.54889	101.516893	1442.031997	0.0657684985928758	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1543.54889	119.339085	1424.209805	0.0773147425216962	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1543.54889	104.703573	1438.845317	0.0678330136987109	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1543.54889	173.657706	1369.891184	0.112505478203544	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1543.54889	188.508506	1355.040384	0.122126683010345	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	1	GTKO (NYU 2021-23)	75	63	14	1543.54889	45	1498.54889	0.0291535955171462	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1543.54889	203.033786	1340.515104	0.131536997185752	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1543.54889	238.67817	1304.87072	0.154629485043392	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1543.54889	209.407146	1334.141744	0.135666027397422	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1509.373	87.039	1422.334	0.0576656664721046	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1509.373	93.814	1415.559	0.0621542852561958	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1509.373	22.5	1486.873	0.0149068520504872	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1509.373	100.744	1408.629	0.0667455956877458	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1509.373	115.562	1393.811	0.0765629171848178	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1509.373	103.194	1406.179	0.0683687862443544	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1509.373	174.078	1335.295	0.115331332944209	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1509.373	187.628	1321.745	0.124308570512392	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	1	GTKO (NYU 2021-23)	75	63	14	1509.373	45	1464.373	0.0298137041009744	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1509.373	201.488	1307.885	0.133491191375492	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1509.373	231.124	1278.249	0.153125834369636	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	1	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1509.373	206.388	1302.985	0.136737572488709	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1199.2153385	69.1865211	1130.0288174	0.0576931589171797	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1199.2153385	72.8992211	1126.3161174	0.060789099971973	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1199.2153385	20.25	1178.9653385	0.0168860415222249	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1199.2153385	79.4355971	1119.7797414	0.0662396439986829	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1199.2153385	91.7039955	1107.511343	0.076469998803305	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1199.2153385	80.2137451	1119.0015934	0.0668885249586057	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1199.2153385	138.3730422	1060.8422963	0.115386317834359	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1199.2153385	145.7984422	1053.4168963	0.121578199943946	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	1	GTKO (NYU 2021-23)	75	63	14	1199.2153385	40.5	1158.7153385	0.0337720830444498	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1199.2153385	158.8711942	1040.3441443	0.132479287997366	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1199.2153385	183.407991	1015.8073475	0.15293999760661	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1199.2153385	160.4274902	1038.7878483	0.133777049917211	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1171.62725	69.1038	1102.52345	0.0589810453794071	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1171.62725	72.4913	1099.13595	0.0618723233007768	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1171.62725	20.25	1151.37725	0.0172836539949032	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1171.62725	78.7283	1092.89895	0.0671956887312069	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1171.62725	88.8229	1082.80435	0.0758115689098218	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1171.62725	79.0573	1092.56995	0.067476494764013	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1171.62725	138.2076	1033.41965	0.117962090758814	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1171.62725	144.9826	1026.64465	0.123744646601554	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	1	GTKO (NYU 2021-23)	75	63	14	1171.62725	40.5	1131.12725	0.0345673079898065	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1171.62725	157.4566	1014.17065	0.134391377462414	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1171.62725	177.6458	993.98145	0.151623137819644	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_50	2	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1171.62725	158.1146	1013.51265	0.134952989528026	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2053.95895644025	132.319402503071	1921.63955393718	0.0644216390440421	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2053.95895644025	142.820503889116	1911.13845255113	0.0695342540518146	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	0.5	GTKO (NYU 2021-23)	75	63	14	2053.95895644025	35.5756236768943	2018.38333276336	0.0173205134237692	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2053.95895644025	150.475998631065	1903.48295780918	0.0732614437884666	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2053.95895644025	171.841237126674	1882.11771931358	0.0836634230629878	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2053.95895644025	155.309830101206	1898.64912633904	0.0756148654354693	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2053.95895644025	264.638805006142	1789.32015143411	0.128843278088084	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2053.95895644025	285.641007778233	1768.31794866202	0.139068508103629	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	1	GTKO (NYU 2021-23)	75	63	14	2053.95895644025	71.1512473537885	1982.80770908646	0.0346410268475384	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2053.95895644025	300.95199726213	1753.00695917812	0.146522887576933	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2053.95895644025	343.682474253347	1710.2764821869	0.167326846125976	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2053.95895644025	310.619660202413	1743.33929623784	0.151229730870939	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2016.20498796604	132.932843901992	1883.27214406405	0.0659322066433806	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2016.20498796604	142.514140787069	1873.69084717897	0.0706843508659496	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	2016.20498796604	35.5756236768943	1980.62936428915	0.0176448445913147	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2016.20498796604	149.819002182058	1866.38598578398	0.0743074256220329	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2016.20498796604	167.652656186798	1848.55233177924	0.083152584775582	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2016.20498796604	153.725385142626	1862.47960282342	0.0762449185773045	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2016.20498796604	265.865687803983	1750.33930016206	0.131864413286761	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2016.20498796604	285.028281574139	1731.1767063919	0.141368701731899	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	1	GTKO (NYU 2021-23)	75	63	14	2016.20498796604	71.1512473537885	1945.05374061225	0.0352896891826293	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2016.20498796604	299.638004364117	1716.56698360192	0.148614851244066	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2016.20498796604	335.305312373595	1680.89967559245	0.166305169551164	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	0.5	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2016.20498796604	307.450770285252	1708.75421768079	0.152489837154609	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1779.79889	116.203853	1663.595037	0.0652904402024883	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1779.79889	123.629253	1656.169637	0.0694624846068985	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1779.79889	33.75	1746.04889	0.0189628166359852	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1779.79889	130.891893	1648.906997	0.0735430804769184	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1779.79889	148.714085	1631.084805	0.0835566792605427	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1779.79889	134.078573	1645.720317	0.0753335524329943	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1779.79889	232.407706	1547.391184	0.130580880404977	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1779.79889	247.258506	1532.540384	0.138924969213797	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	1	GTKO (NYU 2021-23)	75	63	14	1779.79889	67.5	1712.29889	0.0379256332719704	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1779.79889	261.783786	1518.015104	0.147086160953837	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1779.79889	297.42817	1482.37072	0.167113358521085	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1779.79889	268.157146	1511.641744	0.150667104865989	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1745.623	116.414	1629.209	0.0666890846419874	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1745.623	123.189	1622.434	0.0705702204886164	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1745.623	33.75	1711.873	0.0193340715606978	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1745.623	130.119	1615.504	0.0745401498490797	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1745.623	144.937	1600.686	0.0830288097716403	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1745.623	132.569	1613.054	0.0759436602290414	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1745.623	232.828	1512.795	0.133378169283975	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1745.623	246.378	1499.245	0.141140440977233	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	1	GTKO (NYU 2021-23)	75	63	14	1745.623	67.5	1678.123	0.0386681431213956	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1745.623	260.238	1485.385	0.149080299698159	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1745.623	289.874	1455.749	0.166057619543281	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	1	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1745.623	265.138	1480.485	0.151887320458083	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1392.7778385	92.4677711	1300.3100674	0.0663908977756182	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1392.7778385	96.1804711	1296.5973674	0.069056577755132	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1392.7778385	30.375	1362.4028385	0.021808934031226	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1392.7778385	102.7168471	1290.0609914	0.0737496277300222	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1392.7778385	114.9852455	1277.792593	0.0825582101621012	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1392.7778385	103.4949951	1289.2828434	0.0743083298995212	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1392.7778385	184.9355422	1207.8422963	0.132781795551236	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1392.7778385	192.3609422	1200.4168963	0.138113155510264	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	1	GTKO (NYU 2021-23)	75	63	14	1392.7778385	60.75	1332.0278385	0.0436178680624519	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1392.7778385	205.4336942	1187.3441443	0.147499255460044	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1392.7778385	229.970491	1162.8073475	0.165116420324202	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1392.7778385	206.9899902	1185.7878483	0.148616659799042	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1365.18975	92.38505	1272.8047	0.0676719481669123	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1365.18975	95.77255	1269.4172	0.0701532882150632	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1365.18975	30.375	1334.81475	0.022249654306297	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1365.18975	102.00955	1263.1802	0.0747218838992895	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1365.18975	112.10415	1253.0856	0.0821161673679428	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1365.18975	102.33855	1262.8512	0.0749628760397593	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1365.18975	184.7701	1180.41965	0.135343896333825	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1365.18975	191.5451	1173.64465	0.140306576430126	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	1	GTKO (NYU 2021-23)	75	63	14	1365.18975	60.75	1304.43975	0.044499308612594	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1365.18975	204.0191	1161.17065	0.149443767798579	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1365.18975	224.2083	1140.98145	0.164232334735886	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_75	2	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1365.18975	204.6771	1160.51265	0.149925752079519	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2318.63397118911	165.461511607684	2153.17245958143	0.071361635197136	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2318.63397118911	175.962612993729	2142.67135819538	0.0758906387037394	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	0.5	GTKO (NYU 2021-23)	75	63	14	2318.63397118911	47.4341649025257	2271.19980628658	0.0204578064032242	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2318.63397118911	183.618107735678	2135.01586345343	0.0791923649947685	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2318.63397118911	204.983346231286	2113.65062495782	0.0884069451143946	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2318.63397118911	188.451939205819	2130.18203198329	0.0812771405696138	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2318.63397118911	330.923023215368	1987.71094797374	0.142723270394272	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2318.63397118911	351.925225987458	1966.70874520165	0.151781277407479	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	1	GTKO (NYU 2021-23)	75	63	14	2318.63397118911	94.8683298050514	2223.76564138406	0.0409156128064484	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2318.63397118911	367.236215471355	1951.39775571775	0.158384729989537	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2318.63397118911	409.966692462573	1908.66727872654	0.176813890228789	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2318.63397118911	376.903878411639	1941.73009277747	0.162554281139228	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2280.8800027149	166.074953006605	2114.8050497083	0.0728117887871908	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2280.8800027149	175.656249891682	2105.22375282322	0.0770124906538708	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	2280.8800027149	47.4341649025257	2233.44583781238	0.0207964315729304	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2280.8800027149	182.961111286671	2097.91889142823	0.0802151411161021	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2280.8800027149	200.79476529141	2080.08523742349	0.0880339014119143	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2280.8800027149	186.867494247239	2094.01250846766	0.0819278059454302	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2280.8800027149	332.149906013209	1948.73009670169	0.145623577574382	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2280.8800027149	351.312499783365	1929.56750293154	0.154024981307742	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	1	GTKO (NYU 2021-23)	75	63	14	2280.8800027149	94.8683298050514	2186.01167290985	0.0415928631458607	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2280.8800027149	365.922222573342	1914.95778014156	0.160430282232204	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2280.8800027149	401.589530582821	1879.29047213208	0.176067802823829	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	0.5	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2280.8800027149	373.734988494478	1907.14501422042	0.16385561189086	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2016.04889	145.578853	1870.470037	0.0722099814752012	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2016.04889	153.004253	1863.044637	0.0758931262822699	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	0.5	GTKO (NYU 2021-23)	75	63	14	2016.04889	45	1971.04889	0.0223208872677686	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2016.04889	160.266893	1855.781997	0.0794955389201896	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2016.04889	178.089085	1837.959805	0.0883356975534457	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2016.04889	163.453573	1852.595317	0.0810761950321552	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	2016.04889	291.157706	1724.891184	0.144419962950402	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	2016.04889	306.008506	1710.040384	0.15178625256454	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	1	GTKO (NYU 2021-23)	75	63	14	2016.04889	90	1926.04889	0.0446417745355372	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	2016.04889	320.533786	1695.515104	0.158991077840379	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	2016.04889	356.17817	1659.87072	0.176671395106891	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	2016.04889	326.907146	1689.141744	0.16215239006431	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1981.873	145.789	1836.084	0.0735612221368372	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1981.873	152.564	1829.309	0.0769797055613553	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1981.873	45	1936.873	0.022705793963589	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1981.873	159.494	1822.379	0.0804763978317481	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1981.873	174.312	1807.561	0.0879531634973583	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1981.873	161.944	1819.929	0.0817126021697657	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1981.873	291.578	1690.295	0.147122444273674	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1981.873	305.128	1676.745	0.153959411122711	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	1	GTKO (NYU 2021-23)	75	63	14	1981.873	90	1891.873	0.045411587927178	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1981.873	318.988	1662.885	0.160952795663496	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1981.873	348.624	1633.249	0.175906326994717	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	1	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1981.873	323.888	1657.985	0.163425204339531	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1586.3403385	115.7490211	1470.5913174	0.0729660705781769	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1586.3403385	119.4617211	1466.8786174	0.075306488904493	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	0.5	GTKO (NYU 2021-23)	75	63	14	1586.3403385	40.5	1545.8403385	0.0255304609087201	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1586.3403385	125.9980971	1460.3422414	0.0794269010514732	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1586.3403385	138.2664955	1448.073843	0.087160675514777	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1586.3403385	126.7762451	1459.5640934	0.0799174313501201	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1586.3403385	231.4980422	1354.8422963	0.145932141156354	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1586.3403385	238.9234422	1347.4168963	0.150612977808986	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	1	GTKO (NYU 2021-23)	75	63	14	1586.3403385	81	1505.3403385	0.0510609218174401	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1586.3403385	251.9961942	1334.3441443	0.158853802102946	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1586.3403385	276.532991	1309.8073475	0.174321351029554	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1586.3403385	253.5524902	1332.7878483	0.15983486270024	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	0.5	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1558.75225	115.6663	1443.08595	0.0742044157434256	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	0.5	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1558.75225	119.0538	1439.69845	0.0763776283241933	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	0.5	GTKO (NYU 2021-23)	75	63	14	1558.75225	40.5	1518.25225	0.0259823201538282	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	0.5	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1558.75225	125.2908	1433.46145	0.0803789056278828	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	0.5	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1558.75225	135.3854	1423.36685	0.0868549828877553	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	0.5	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1558.75225	125.6198	1433.13245	0.0805899718829596	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	14	1558.75225	231.3326	1327.41965	0.148408831486851	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	14	1558.75225	238.1076	1320.64465	0.152755256648387	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	1	GTKO (NYU 2021-23)	75	63	14	1558.75225	81	1477.75225	0.0519646403076563	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	14	1558.75225	250.5816	1308.17065	0.160757811255766	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	14	1558.75225	270.7708	1287.98145	0.173709965775511	weighted_divergence_percentage	False	NOT_INFERRED
+nominal_missing_100	2	neutral	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	14	1558.75225	251.2396	1307.51265	0.161179943765919	weighted_divergence_percentage	False	NOT_INFERRED
+legacy_stored	1	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	61	51	12	1068.6	60.7	1007.9	0.0568032940295714	legacy_stored	False	NOT_INFERRED
+legacy_stored	1	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	61	51	12	1068.6	73.9	994.7	0.0691559049223283	legacy_stored	False	NOT_INFERRED
+legacy_stored	1	actual	1	GTKO (NYU 2021-23)	61	51	12	1068.6	0	1068.6	0	legacy_stored	False	NOT_INFERRED
+legacy_stored	1	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	61	51	12	1068.6	88.4	980.2	0.0827250608272506	legacy_stored	False	NOT_INFERRED
+legacy_stored	1	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	61	51	12	1068.6	124.1	944.5	0.116133258469025	legacy_stored	False	NOT_INFERRED
+legacy_stored	1	actual	1	eGenesis-69GE (MGH kidney 2024-25)	61	51	12	1068.6	94.8	973.8	0.0887142055025266	legacy_stored	False	NOT_INFERRED
+without_divergence	1	actual	1	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	75	63	12	45.59412	4.04234	41.55178	0.0886592393931498	severity_weighted_not_ISI	False	NOT_INFERRED
+without_divergence	1	actual	1	ClonOrgan-8GE (Xijing kidney #2 2026)	75	63	12	45.59412	4.59034	41.00378	0.100678333083301	severity_weighted_not_ISI	False	NOT_INFERRED
+without_divergence	1	actual	1	GTKO (NYU 2021-23)	75	63	12	45.59412	0.9	44.69412	0.0197393874473287	severity_weighted_not_ISI	False	NOT_INFERRED
+without_divergence	1	actual	1	Revivicor-10GE (Maryland heart/NYU kidney)	75	63	12	45.59412	5.53354	40.06058	0.121365211128102	severity_weighted_not_ISI	False	NOT_INFERRED
+without_divergence	1	actual	1	Yunnan-10GE (Anhui auxiliary liver 2024)	75	63	12	45.59412	5.98682	39.6073	0.131306843952685	severity_weighted_not_ISI	False	NOT_INFERRED
+without_divergence	1	actual	1	eGenesis-69GE (MGH kidney 2024-25)	75	63	12	45.59412	5.37014	40.22398	0.117781415673775	severity_weighted_not_ISI	False	NOT_INFERRED

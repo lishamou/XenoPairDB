@@ -1,0 +1,145 @@
+donor	variant	system	axes	T	A	R	coverage_fraction	numeric_known_mask_n	unscored_n	scored_unknown_mask_n	scored_unknown_mask_burden	full_scope_T
+GTKO (NYU 2021-23)	legacy_stored	Complement	9	67.8	0.0	67.8	0.0	5	4	0	0.0	NA
+GTKO (NYU 2021-23)	legacy_stored	Coagulation	10	185.9	0.0	185.9	0.0	10	0	0	0.0	185.9
+GTKO (NYU 2021-23)	legacy_stored	Immune	19	269.1	0.0	269.1	0.0	12	7	0	0.0	NA
+GTKO (NYU 2021-23)	legacy_stored	Cytokine	12	331.8	0.0	331.8	0.0	12	0	0	0.0	331.8
+GTKO (NYU 2021-23)	legacy_stored	Endocrine	5	94.89999999999999	0.0	94.89999999999999	0.0	5	0	0	0.0	94.89999999999999
+GTKO (NYU 2021-23)	legacy_stored	Adhesion	8	119.1	0.0	119.1	0.0	7	1	0	0.0	NA
+GTKO (NYU 2021-23)	formula_sequence_available	Complement	9	78.91953	0.0	78.91953	0.0	5	4	0	0.0	NA
+GTKO (NYU 2021-23)	formula_sequence_available	Coagulation	10	185.82449000000003	0.0	185.82449000000003	0.0	10	0	0	0.0	185.82449000000003
+GTKO (NYU 2021-23)	formula_sequence_available	Immune	19	269.28036999999995	0.0	269.28036999999995	0.0	12	7	0	0.0	NA
+GTKO (NYU 2021-23)	formula_sequence_available	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+GTKO (NYU 2021-23)	formula_sequence_available	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+GTKO (NYU 2021-23)	formula_sequence_available	Adhesion	8	118.99004	0.0	118.99004	0.0	7	1	0	0.0	NA
+GTKO (NYU 2021-23)	formula_nominal50_sensitivity	Complement	9	231.41952999999998	45.0	186.41952999999998	0.19445204127758794	9	0	0	0.0	231.41952999999998
+GTKO (NYU 2021-23)	formula_nominal50_sensitivity	Coagulation	10	185.82449000000003	0.0	185.82449000000003	0.0	10	0	0	0.0	185.82449000000003
+GTKO (NYU 2021-23)	formula_nominal50_sensitivity	Immune	19	569.28037	0.0	569.28037	0.0	19	0	0	0.0	569.28037
+GTKO (NYU 2021-23)	formula_nominal50_sensitivity	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+GTKO (NYU 2021-23)	formula_nominal50_sensitivity	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+GTKO (NYU 2021-23)	formula_nominal50_sensitivity	Adhesion	8	138.99004	0.0	138.99004	0.0	8	0	0	0.0	138.99004
+GTKO (NYU 2021-23)	without_divergence_sensitivity	Complement	9	5.039619999999999	0.9	4.13962	0.17858489330544766	9	0	0	0.0	5.039619999999999
+GTKO (NYU 2021-23)	without_divergence_sensitivity	Coagulation	10	8.8223	0.0	8.8223	0.0	10	0	0	0.0	8.8223
+GTKO (NYU 2021-23)	without_divergence_sensitivity	Immune	19	13.3825	0.0	13.3825	0.0	19	0	0	0.0	13.3825
+GTKO (NYU 2021-23)	without_divergence_sensitivity	Cytokine	12	9.3239	0.0	9.3239	0.0	12	0	0	0.0	9.3239
+GTKO (NYU 2021-23)	without_divergence_sensitivity	Endocrine	5	4.2926	0.0	4.2926	0.0	5	0	0	0.0	4.2926
+GTKO (NYU 2021-23)	without_divergence_sensitivity	Adhesion	8	4.7332	0.0	4.7332	0.0	8	0	0	0.0	4.7332
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	Complement	9	67.8	27.2	40.6	0.40117994100294985	5	4	0	0.0	NA
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	Coagulation	10	185.9	33.5	152.4	0.18020441097364173	10	0	0	0.0	185.9
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	Immune	19	269.1	0.0	269.1	0.0	12	7	0	0.0	NA
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	Cytokine	12	331.8	0.0	331.8	0.0	12	0	0	0.0	331.8
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	Endocrine	5	94.89999999999999	0.0	94.89999999999999	0.0	5	0	0	0.0	94.89999999999999
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	legacy_stored	Adhesion	8	119.1	0.0	119.1	0.0	7	1	0	0.0	NA
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	Complement	9	78.91953	27.25770599999999	51.661823999999996	0.34538606603460503	5	4	0	0.0	NA
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	Coagulation	10	185.82449000000003	33.45	152.37449	0.18000856614755137	10	0	0	0.0	185.82449000000003
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	Immune	19	269.28036999999995	0.0	269.28036999999995	0.0	12	7	0	0.0	NA
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_sequence_available	Adhesion	8	118.99004	0.0	118.99004	0.0	7	1	0	0.0	NA
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_nominal50_sensitivity	Complement	9	231.41952999999998	144.75770599999998	86.661824	0.6255206982746875	9	0	0	0.0	231.41952999999998
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_nominal50_sensitivity	Coagulation	10	185.82449000000003	33.45	152.37449	0.18000856614755137	10	0	0	0.0	185.82449000000003
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_nominal50_sensitivity	Immune	19	569.28037	0.0	569.28037	0.0	19	0	0	0.0	569.28037
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_nominal50_sensitivity	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_nominal50_sensitivity	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	formula_nominal50_sensitivity	Adhesion	8	138.99004	0.0	138.99004	0.0	8	0	0	0.0	138.99004
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	without_divergence_sensitivity	Complement	9	5.039619999999999	3.04234	1.99728	0.6036844047765506	9	0	0	0.0	5.039619999999999
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	without_divergence_sensitivity	Coagulation	10	8.8223	1.0	7.8223	0.1133491266449792	10	0	0	0.0	8.8223
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	without_divergence_sensitivity	Immune	19	13.3825	0.0	13.3825	0.0	19	0	0	0.0	13.3825
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	without_divergence_sensitivity	Cytokine	12	9.3239	0.0	9.3239	0.0	12	0	0	0.0	9.3239
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	without_divergence_sensitivity	Endocrine	5	4.2926	0.0	4.2926	0.0	5	0	0	0.0	4.2926
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	without_divergence_sensitivity	Adhesion	8	4.7332	0.0	4.7332	0.0	8	0	0	0.0	4.7332
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	Complement	9	67.8	27.2	40.6	0.40117994100294985	5	4	0	0.0	NA
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	Coagulation	10	185.9	33.5	152.4	0.18020441097364173	10	0	0	0.0	185.9
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	Immune	19	269.1	13.2	255.9	0.049052396878483825	12	7	0	0.0	NA
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	Cytokine	12	331.8	0.0	331.8	0.0	12	0	0	0.0	331.8
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	Endocrine	5	94.89999999999999	0.0	94.89999999999999	0.0	5	0	0	0.0	94.89999999999999
+ClonOrgan-8GE (Xijing kidney #2 2026)	legacy_stored	Adhesion	8	119.1	0.0	119.1	0.0	7	1	0	0.0	NA
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	Complement	9	78.91953	27.25770599999999	51.661823999999996	0.34538606603460503	5	4	0	0.0	NA
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	Coagulation	10	185.82449000000003	33.45	152.37449	0.18000856614755137	10	0	0	0.0	185.82449000000003
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	Immune	19	269.28036999999995	13.179399999999998	256.10096999999996	0.04894304029662467	12	7	0	0.0	NA
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_sequence_available	Adhesion	8	118.99004	0.0	118.99004	0.0	7	1	0	0.0	NA
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_nominal50_sensitivity	Complement	9	231.41952999999998	144.75770599999998	86.661824	0.6255206982746875	9	0	0	0.0	231.41952999999998
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_nominal50_sensitivity	Coagulation	10	185.82449000000003	33.45	152.37449	0.18000856614755137	10	0	0	0.0	185.82449000000003
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_nominal50_sensitivity	Immune	19	569.28037	13.179399999999998	556.10097	0.0231509827047084	19	0	0	0.0	569.28037
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_nominal50_sensitivity	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_nominal50_sensitivity	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+ClonOrgan-8GE (Xijing kidney #2 2026)	formula_nominal50_sensitivity	Adhesion	8	138.99004	0.0	138.99004	0.0	8	0	0	0.0	138.99004
+ClonOrgan-8GE (Xijing kidney #2 2026)	without_divergence_sensitivity	Complement	9	5.039619999999999	3.04234	1.99728	0.6036844047765506	9	0	0	0.0	5.039619999999999
+ClonOrgan-8GE (Xijing kidney #2 2026)	without_divergence_sensitivity	Coagulation	10	8.8223	1.0	7.8223	0.1133491266449792	10	0	0	0.0	8.8223
+ClonOrgan-8GE (Xijing kidney #2 2026)	without_divergence_sensitivity	Immune	19	13.3825	0.548	12.8345	0.04094900056043341	19	0	0	0.0	13.3825
+ClonOrgan-8GE (Xijing kidney #2 2026)	without_divergence_sensitivity	Cytokine	12	9.3239	0.0	9.3239	0.0	12	0	0	0.0	9.3239
+ClonOrgan-8GE (Xijing kidney #2 2026)	without_divergence_sensitivity	Endocrine	5	4.2926	0.0	4.2926	0.0	5	0	0	0.0	4.2926
+ClonOrgan-8GE (Xijing kidney #2 2026)	without_divergence_sensitivity	Adhesion	8	4.7332	0.0	4.7332	0.0	8	0	0	0.0	4.7332
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	Complement	9	67.8	52.5	15.3	0.7743362831858407	5	4	0	0.0	NA
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	Coagulation	10	185.9	58.4	127.5	0.31414739107046796	10	0	0	0.0	185.9
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	Immune	19	269.1	13.2	255.9	0.049052396878483825	12	7	0	0.0	NA
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	Cytokine	12	331.8	0.0	331.8	0.0	12	0	0	0.0	331.8
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	Endocrine	5	94.89999999999999	0.0	94.89999999999999	0.0	5	0	0	0.0	94.89999999999999
+Yunnan-10GE (Anhui auxiliary liver 2024)	legacy_stored	Adhesion	8	119.1	0.0	119.1	0.0	7	1	0	0.0	NA
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	Complement	9	78.91953	52.51952999999999	26.400000000000002	0.6654820422777479	5	4	0	0.0	NA
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	Coagulation	10	185.82449000000003	58.35784000000001	127.46665	0.3140481644803653	10	0	0	0.0	185.82449000000003
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	Immune	19	269.28036999999995	13.179399999999998	256.10096999999996	0.04894304029662467	12	7	0	0.0	NA
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_sequence_available	Adhesion	8	118.99004	0.0	118.99004	0.0	7	1	0	0.0	NA
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_nominal50_sensitivity	Complement	9	231.41952999999998	170.01952999999997	61.400000000000006	0.7346809925679133	9	0	0	0.0	231.41952999999998
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_nominal50_sensitivity	Coagulation	10	185.82449000000003	58.35784000000001	127.46665	0.3140481644803653	10	0	0	0.0	185.82449000000003
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_nominal50_sensitivity	Immune	19	569.28037	13.179399999999998	556.10097	0.0231509827047084	19	0	0	0.0	569.28037
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_nominal50_sensitivity	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_nominal50_sensitivity	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+Yunnan-10GE (Anhui auxiliary liver 2024)	formula_nominal50_sensitivity	Adhesion	8	138.99004	0.0	138.99004	0.0	8	0	0	0.0	138.99004
+Yunnan-10GE (Anhui auxiliary liver 2024)	without_divergence_sensitivity	Complement	9	5.039619999999999	3.5396199999999998	1.5	0.7023585111575873	9	0	0	0.0	5.039619999999999
+Yunnan-10GE (Anhui auxiliary liver 2024)	without_divergence_sensitivity	Coagulation	10	8.8223	1.8992	6.9231	0.2152726613241445	10	0	0	0.0	8.8223
+Yunnan-10GE (Anhui auxiliary liver 2024)	without_divergence_sensitivity	Immune	19	13.3825	0.548	12.8345	0.04094900056043341	19	0	0	0.0	13.3825
+Yunnan-10GE (Anhui auxiliary liver 2024)	without_divergence_sensitivity	Cytokine	12	9.3239	0.0	9.3239	0.0	12	0	0	0.0	9.3239
+Yunnan-10GE (Anhui auxiliary liver 2024)	without_divergence_sensitivity	Endocrine	5	4.2926	0.0	4.2926	0.0	5	0	0	0.0	4.2926
+Yunnan-10GE (Anhui auxiliary liver 2024)	without_divergence_sensitivity	Adhesion	8	4.7332	0.0	4.7332	0.0	8	0	0	0.0	4.7332
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	Complement	9	67.8	27.2	40.6	0.40117994100294985	5	4	0	0.0	NA
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	Coagulation	10	185.9	33.5	152.4	0.18020441097364173	10	0	0	0.0	185.9
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	Immune	19	269.1	13.2	255.9	0.049052396878483825	12	7	0	0.0	NA
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	Cytokine	12	331.8	0.0	331.8	0.0	12	0	0	0.0	331.8
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	Endocrine	5	94.89999999999999	14.5	80.39999999999999	0.1527924130663857	5	0	0	0.0	94.89999999999999
+Revivicor-10GE (Maryland heart/NYU kidney)	legacy_stored	Adhesion	8	119.1	0.0	119.1	0.0	7	1	0	0.0	NA
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	Complement	9	78.91953	27.25770599999999	51.661823999999996	0.34538606603460503	5	4	0	0.0	NA
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	Coagulation	10	185.82449000000003	33.45	152.37449	0.18000856614755137	10	0	0	0.0	185.82449000000003
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	Immune	19	269.28036999999995	13.179399999999998	256.10096999999996	0.04894304029662467	12	7	0	0.0	NA
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	Endocrine	5	94.85594000000002	14.525280000000002	80.33066000000001	0.15312989360497614	5	0	0	0.0	94.85594000000002
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_sequence_available	Adhesion	8	118.99004	0.0	118.99004	0.0	7	1	0	0.0	NA
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_nominal50_sensitivity	Complement	9	231.41952999999998	144.75770599999998	86.661824	0.6255206982746875	9	0	0	0.0	231.41952999999998
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_nominal50_sensitivity	Coagulation	10	185.82449000000003	33.45	152.37449	0.18000856614755137	10	0	0	0.0	185.82449000000003
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_nominal50_sensitivity	Immune	19	569.28037	13.179399999999998	556.10097	0.0231509827047084	19	0	0	0.0	569.28037
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_nominal50_sensitivity	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_nominal50_sensitivity	Endocrine	5	94.85594000000002	14.525280000000002	80.33066000000001	0.15312989360497614	5	0	0	0.0	94.85594000000002
+Revivicor-10GE (Maryland heart/NYU kidney)	formula_nominal50_sensitivity	Adhesion	8	138.99004	0.0	138.99004	0.0	8	0	0	0.0	138.99004
+Revivicor-10GE (Maryland heart/NYU kidney)	without_divergence_sensitivity	Complement	9	5.039619999999999	3.04234	1.99728	0.6036844047765506	9	0	0	0.0	5.039619999999999
+Revivicor-10GE (Maryland heart/NYU kidney)	without_divergence_sensitivity	Coagulation	10	8.8223	1.0	7.8223	0.1133491266449792	10	0	0	0.0	8.8223
+Revivicor-10GE (Maryland heart/NYU kidney)	without_divergence_sensitivity	Immune	19	13.3825	0.548	12.8345	0.04094900056043341	19	0	0	0.0	13.3825
+Revivicor-10GE (Maryland heart/NYU kidney)	without_divergence_sensitivity	Cytokine	12	9.3239	0.0	9.3239	0.0	12	0	0	0.0	9.3239
+Revivicor-10GE (Maryland heart/NYU kidney)	without_divergence_sensitivity	Endocrine	5	4.2926	0.9432	3.3494	0.2197269719983227	5	0	0	0.0	4.2926
+Revivicor-10GE (Maryland heart/NYU kidney)	without_divergence_sensitivity	Adhesion	8	4.7332	0.0	4.7332	0.0	8	0	0	0.0	4.7332
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	Complement	9	67.8	27.2	40.6	0.40117994100294985	5	4	0	0.0	NA
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	Coagulation	10	185.9	33.5	152.4	0.18020441097364173	10	0	0	0.0	185.9
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	Immune	19	269.1	34.099999999999994	235.0	0.1267186919360832	12	7	0	0.0	NA
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	Cytokine	12	331.8	0.0	331.8	0.0	12	0	0	0.0	331.8
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	Endocrine	5	94.89999999999999	0.0	94.89999999999999	0.0	5	0	0	0.0	94.89999999999999
+eGenesis-69GE (MGH kidney 2024-25)	legacy_stored	Adhesion	8	119.1	0.0	119.1	0.0	7	1	0	0.0	NA
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	Complement	9	78.91953	27.25770599999999	51.661823999999996	0.34538606603460503	5	4	0	0.0	NA
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	Coagulation	10	185.82449000000003	33.45	152.37449	0.18000856614755137	10	0	0	0.0	185.82449000000003
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	Immune	19	269.28036999999995	34.07804	235.20232999999996	0.12655226223879598	12	7	0	0.0	NA
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+eGenesis-69GE (MGH kidney 2024-25)	formula_sequence_available	Adhesion	8	118.99004	0.0	118.99004	0.0	7	1	0	0.0	NA
+eGenesis-69GE (MGH kidney 2024-25)	formula_nominal50_sensitivity	Complement	9	231.41952999999998	144.75770599999998	86.661824	0.6255206982746875	9	0	0	0.0	231.41952999999998
+eGenesis-69GE (MGH kidney 2024-25)	formula_nominal50_sensitivity	Coagulation	10	185.82449000000003	33.45	152.37449	0.18000856614755137	10	0	0	0.0	185.82449000000003
+eGenesis-69GE (MGH kidney 2024-25)	formula_nominal50_sensitivity	Immune	19	569.28037	34.07804	535.20233	0.059861610896578085	19	0	0	0.0	569.28037
+eGenesis-69GE (MGH kidney 2024-25)	formula_nominal50_sensitivity	Cytokine	12	331.68212000000005	0.0	331.68212000000005	0.0	12	0	0	0.0	331.68212000000005
+eGenesis-69GE (MGH kidney 2024-25)	formula_nominal50_sensitivity	Endocrine	5	94.85594000000002	0.0	94.85594000000002	0.0	5	0	0	0.0	94.85594000000002
+eGenesis-69GE (MGH kidney 2024-25)	formula_nominal50_sensitivity	Adhesion	8	138.99004	0.0	138.99004	0.0	8	0	0	0.0	138.99004
+eGenesis-69GE (MGH kidney 2024-25)	without_divergence_sensitivity	Complement	9	5.039619999999999	3.04234	1.99728	0.6036844047765506	9	0	0	0.0	5.039619999999999
+eGenesis-69GE (MGH kidney 2024-25)	without_divergence_sensitivity	Coagulation	10	8.8223	1.0	7.8223	0.1133491266449792	10	0	0	0.0	8.8223
+eGenesis-69GE (MGH kidney 2024-25)	without_divergence_sensitivity	Immune	19	13.3825	1.3278	12.0547	0.09921912946011582	19	0	0	0.0	13.3825
+eGenesis-69GE (MGH kidney 2024-25)	without_divergence_sensitivity	Cytokine	12	9.3239	0.0	9.3239	0.0	12	0	0	0.0	9.3239
+eGenesis-69GE (MGH kidney 2024-25)	without_divergence_sensitivity	Endocrine	5	4.2926	0.0	4.2926	0.0	5	0	0	0.0	4.2926
+eGenesis-69GE (MGH kidney 2024-25)	without_divergence_sensitivity	Adhesion	8	4.7332	0.0	4.7332	0.0	8	0	0	0.0	4.7332

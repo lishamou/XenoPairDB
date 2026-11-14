@@ -1,0 +1,8 @@
+Source / targets	Species / readout	Relation to ranking	Unresolved inference
+FAM234A (2018)	Monkey IgG; whole-cell binding after knockdown	Literature-derived positive	Direct human antigenicity / epitope unknown
+Burlak[2]: CFTR, CDH1	Human antibody target identification	Literature-derived positives	Not independent candidate holdout
+Byrne[5]: selected pig targets	Human IgM cell-binding report	Several literature-derived targets included	Does not validate entire protein ranking
+Nanno[4]: glycan array	Monkey IgG/IgM to array components	Separate carbohydrate evidence	No protein-site link; timepoint unresolved
+CD55 reference annotation	Porcine antigen-specific support unconfirmed	Fixed reference inclusion; n=7 individual-exclusion sensitivity	Human CD55 transgene protection is a distinct endpoint
+Liu[6]: final proteomic tables	Antibody-capture enrichment and glycopeptide identification	External fixed-score assessment; limited overlap	Does not validate rank or clinical pathogenicity
+Anand[7]: source workbooks	Human/cynomolgus serum; C3b and injury	Published functional examples	No independent ISI test or factorial synergy estimate

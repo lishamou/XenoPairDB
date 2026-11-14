@@ -1,0 +1,2334 @@
+{
+  "entryType": "UniProtKB reviewed (Swiss-Prot)",
+  "primaryAccession": "Q9BZM6",
+  "secondaryAccessions": [
+    "Q5VY81",
+    "Q8IZW3",
+    "Q8IZX6"
+  ],
+  "uniProtkbId": "ULBP1_HUMAN",
+  "entryAudit": {
+    "firstPublicDate": "2004-05-24",
+    "lastAnnotationUpdateDate": "2026-09-02",
+    "lastSequenceUpdateDate": "2001-06-01",
+    "entryVersion": 177,
+    "sequenceVersion": 1
+  },
+  "annotationScore": 5.0,
+  "organism": {
+    "scientificName": "Homo sapiens",
+    "commonName": "Human",
+    "taxonId": 9606,
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Euarchontoglires",
+      "Primates",
+      "Haplorrhini",
+      "Catarrhini",
+      "Hominidae",
+      "Homo"
+    ]
+  },
+  "proteinExistence": "1: Evidence at protein level",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "value": "UL16-binding protein 1"
+      }
+    },
+    "alternativeNames": [
+      {
+        "fullName": {
+          "value": "ALCAN-beta"
+        }
+      },
+      {
+        "fullName": {
+          "value": "NKG2D ligand 1"
+        },
+        "shortNames": [
+          {
+            "value": "N2DL-1"
+          },
+          {
+            "value": "NKG2DL1"
+          }
+        ]
+      },
+      {
+        "fullName": {
+          "value": "Retinoic acid early transcript 1I"
+        }
+      }
+    ],
+    "flag": "Precursor"
+  },
+  "genes": [
+    {
+      "geneName": {
+        "value": "ULBP1"
+      },
+      "synonyms": [
+        {
+          "value": "N2DL1"
+        },
+        {
+          "value": "RAET1I"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "11777960"
+            }
+          ],
+          "value": "Binds and activates the KLRK1/NKG2D receptor, mediating natural killer cell cytotoxicity"
+        }
+      ],
+      "commentType": "FUNCTION"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "11777960"
+            },
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "12782710"
+            }
+          ],
+          "value": "Interacts with KLRK1/NKG2D (PubMed:11777960). Does not bind to beta2-microglobulin (PubMed:12782710)"
+        }
+      ],
+      "commentType": "SUBUNIT"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "12782710"
+            }
+          ],
+          "value": "(Microbial infection) In CMV-infected cells, interacts with the viral glycoprotein UL16; this interaction causes ULBP1 retention in the endoplasmic reticulum and cis-Golgi and prevents binding to and activation of KLRK1/NKG2D, providing CMV with an immune evasion mechanism"
+        }
+      ],
+      "commentType": "SUBUNIT"
+    },
+    {
+      "commentType": "INTERACTION",
+      "interactions": [
+        {
+          "interactantOne": {
+            "uniProtKBAccession": "Q9BZM6",
+            "intActId": "EBI-16365037"
+          },
+          "interactantTwo": {
+            "uniProtKBAccession": "P26718",
+            "geneName": "KLRK1",
+            "intActId": "EBI-458344"
+          },
+          "numberOfExperiments": 2,
+          "organismDiffer": false
+        }
+      ]
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "note": {
+        "texts": [
+          {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "12782710"
+              }
+            ],
+            "value": "In CMV-infected fibroblasts, detected in the endoplasmic reticulum/cis-Golgi"
+          }
+        ]
+      },
+      "subcellularLocations": [
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "12782710"
+              }
+            ],
+            "value": "Cell membrane",
+            "id": "SL-0039"
+          },
+          "topology": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "12782710"
+              }
+            ],
+            "value": "Lipid-anchor, GPI-anchor",
+            "id": "SL-9902"
+          }
+        },
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "12782710"
+              }
+            ],
+            "value": "Endoplasmic reticulum",
+            "id": "SL-0095"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "value": "Expressed in T-cells, B-cells, erythroleukemia cell lines and in a wide range of tissues including heart, brain, lung, liver, testis, lymph node, thymus, tonsil and bone marrow. Also found in fetal heart, brain, lung and liver"
+        }
+      ],
+      "commentType": "TISSUE SPECIFICITY"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ],
+          "value": "UL16-binding proteins (ULBPs) are unusual members of the extended MHC class I superfamily. They do not contain the alpha 3 domain and lack a transmembrane domain"
+        }
+      ],
+      "commentType": "MISCELLANEOUS"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ],
+          "value": "Belongs to the MHC class I family"
+        }
+      ],
+      "commentType": "SIMILARITY"
+    }
+  ],
+  "features": [
+    {
+      "type": "Signal",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 25,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ]
+    },
+    {
+      "type": "Chain",
+      "location": {
+        "start": {
+          "value": 26,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 216,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "UL16-binding protein 1",
+      "featureId": "PRO_0000019015"
+    },
+    {
+      "type": "Propeptide",
+      "location": {
+        "start": {
+          "value": 217,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 244,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Removed in mature form",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255"
+        }
+      ],
+      "featureId": "PRO_0000019016"
+    },
+    {
+      "type": "Region",
+      "location": {
+        "start": {
+          "value": 26,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 117,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "MHC class I alpha-1 like"
+    },
+    {
+      "type": "Region",
+      "location": {
+        "start": {
+          "value": 118,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 208,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "MHC class I alpha-2 like"
+    },
+    {
+      "type": "Lipidation",
+      "location": {
+        "start": {
+          "value": 216,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 216,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "GPI-anchor amidated glycine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255"
+        }
+      ]
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 82,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 82,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255"
+        }
+      ],
+      "featureId": ""
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 50,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 66,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ]
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 127,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 190,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ]
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 101,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 101,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in dbSNP:rs6903584",
+      "featureCrossReferences": [
+        {
+          "database": "dbSNP",
+          "id": "rs6903584"
+        }
+      ],
+      "featureId": "VAR_050407",
+      "alternativeSequence": {
+        "originalSequence": "L",
+        "alternativeSequences": [
+          "I"
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "KW-1003",
+      "category": "Cellular component",
+      "name": "Cell membrane"
+    },
+    {
+      "id": "KW-1015",
+      "category": "PTM",
+      "name": "Disulfide bond"
+    },
+    {
+      "id": "KW-0256",
+      "category": "Cellular component",
+      "name": "Endoplasmic reticulum"
+    },
+    {
+      "id": "KW-0325",
+      "category": "PTM",
+      "name": "Glycoprotein"
+    },
+    {
+      "id": "KW-0336",
+      "category": "PTM",
+      "name": "GPI-anchor"
+    },
+    {
+      "id": "KW-0945",
+      "category": "Biological process",
+      "name": "Host-virus interaction"
+    },
+    {
+      "id": "KW-0391",
+      "category": "Biological process",
+      "name": "Immunity"
+    },
+    {
+      "id": "KW-0449",
+      "category": "PTM",
+      "name": "Lipoprotein"
+    },
+    {
+      "id": "KW-0472",
+      "category": "Cellular component",
+      "name": "Membrane"
+    },
+    {
+      "id": "KW-1267",
+      "category": "Technical term",
+      "name": "Proteomics identification"
+    },
+    {
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "id": "KW-0732",
+      "category": "Domain",
+      "name": "Signal"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "11239445",
+        "citationType": "journal article",
+        "authors": [
+          "Cosman D.",
+          "Mullberg J.",
+          "Sutherland C.L.",
+          "Chin W.",
+          "Armitage R.",
+          "Fanslow W.",
+          "Kubin M.",
+          "Chalupny N.J."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "11239445"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1016/s1074-7613(01)00095-4"
+          }
+        ],
+        "title": "ULBPs, novel MHC class I-related molecules, bind to CMV glycoprotein UL16 and stimulate NK cytotoxicity through the NKG2D receptor.",
+        "publicationDate": "2001",
+        "journal": "Immunity",
+        "firstPage": "123",
+        "lastPage": "133",
+        "volume": "14"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA]",
+        "GPI-ANCHOR"
+      ],
+      "referenceComments": [
+        {
+          "value": "B-cell lymphoma",
+          "type": "TISSUE"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "CI-C67OGCEF5PI6P",
+        "citationType": "submission",
+        "authors": [
+          "Onda H.",
+          "Shintani Y.",
+          "Ohkubo S.",
+          "Ogi K."
+        ],
+        "publicationDate": "DEC-2000",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA]"
+      ]
+    },
+    {
+      "referenceNumber": 3,
+      "citation": {
+        "id": "11827464",
+        "citationType": "journal article",
+        "authors": [
+          "Radosavljevic M.",
+          "Cuillerier B.",
+          "Wilson M.J.",
+          "Clement O.",
+          "Wicker S.",
+          "Gilfillan S.",
+          "Beck S.",
+          "Trowsdale J.",
+          "Bahram S."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "11827464"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1006/geno.2001.6673"
+          }
+        ],
+        "title": "A cluster of ten novel MHC class I related genes on human chromosome 6q24.2-q25.3.",
+        "publicationDate": "2002",
+        "journal": "Genomics",
+        "firstPage": "114",
+        "lastPage": "123",
+        "volume": "79"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA]"
+      ]
+    },
+    {
+      "referenceNumber": 4,
+      "citation": {
+        "id": "14702039",
+        "citationType": "journal article",
+        "authors": [
+          "Ota T.",
+          "Suzuki Y.",
+          "Nishikawa T.",
+          "Otsuki T.",
+          "Sugiyama T.",
+          "Irie R.",
+          "Wakamatsu A.",
+          "Hayashi K.",
+          "Sato H.",
+          "Nagai K.",
+          "Kimura K.",
+          "Makita H.",
+          "Sekine M.",
+          "Obayashi M.",
+          "Nishi T.",
+          "Shibahara T.",
+          "Tanaka T.",
+          "Ishii S.",
+          "Yamamoto J.",
+          "Saito K.",
+          "Kawai Y.",
+          "Isono Y.",
+          "Nakamura Y.",
+          "Nagahari K.",
+          "Murakami K.",
+          "Yasuda T.",
+          "Iwayanagi T.",
+          "Wagatsuma M.",
+          "Shiratori A.",
+          "Sudo H.",
+          "Hosoiri T.",
+          "Kaku Y.",
+          "Kodaira H.",
+          "Kondo H.",
+          "Sugawara M.",
+          "Takahashi M.",
+          "Kanda K.",
+          "Yokoi T.",
+          "Furuya T.",
+          "Kikkawa E.",
+          "Omura Y.",
+          "Abe K.",
+          "Kamihara K.",
+          "Katsuta N.",
+          "Sato K.",
+          "Tanikawa M.",
+          "Yamazaki M.",
+          "Ninomiya K.",
+          "Ishibashi T.",
+          "Yamashita H.",
+          "Murakawa K.",
+          "Fujimori K.",
+          "Tanai H.",
+          "Kimata M.",
+          "Watanabe M.",
+          "Hiraoka S.",
+          "Chiba Y.",
+          "Ishida S.",
+          "Ono Y.",
+          "Takiguchi S.",
+          "Watanabe S.",
+          "Yosida M.",
+          "Hotuta T.",
+          "Kusano J.",
+          "Kanehori K.",
+          "Takahashi-Fujii A.",
+          "Hara H.",
+          "Tanase T.-O.",
+          "Nomura Y.",
+          "Togiya S.",
+          "Komai F.",
+          "Hara R.",
+          "Takeuchi K.",
+          "Arita M.",
+          "Imose N.",
+          "Musashino K.",
+          "Yuuki H.",
+          "Oshima A.",
+          "Sasaki N.",
+          "Aotsuka S.",
+          "Yoshikawa Y.",
+          "Matsunawa H.",
+          "Ichihara T.",
+          "Shiohata N.",
+          "Sano S.",
+          "Moriya S.",
+          "Momiyama H.",
+          "Satoh N.",
+          "Takami S.",
+          "Terashima Y.",
+          "Suzuki O.",
+          "Nakagawa S.",
+          "Senoh A.",
+          "Mizoguchi H.",
+          "Goto Y.",
+          "Shimizu F.",
+          "Wakebe H.",
+          "Hishigaki H.",
+          "Watanabe T.",
+          "Sugiyama A.",
+          "Takemoto M.",
+          "Kawakami B.",
+          "Yamazaki M.",
+          "Watanabe K.",
+          "Kumagai A.",
+          "Itakura S.",
+          "Fukuzumi Y.",
+          "Fujimori Y.",
+          "Komiyama M.",
+          "Tashiro H.",
+          "Tanigami A.",
+          "Fujiwara T.",
+          "Ono T.",
+          "Yamada K.",
+          "Fujii Y.",
+          "Ozaki K.",
+          "Hirao M.",
+          "Ohmori Y.",
+          "Kawabata A.",
+          "Hikiji T.",
+          "Kobatake N.",
+          "Inagaki H.",
+          "Ikema Y.",
+          "Okamoto S.",
+          "Okitani R.",
+          "Kawakami T.",
+          "Noguchi S.",
+          "Itoh T.",
+          "Shigeta K.",
+          "Senba T.",
+          "Matsumura K.",
+          "Nakajima Y.",
+          "Mizuno T.",
+          "Morinaga M.",
+          "Sasaki M.",
+          "Togashi T.",
+          "Oyama M.",
+          "Hata H.",
+          "Watanabe M.",
+          "Komatsu T.",
+          "Mizushima-Sugano J.",
+          "Satoh T.",
+          "Shirai Y.",
+          "Takahashi Y.",
+          "Nakagawa K.",
+          "Okumura K.",
+          "Nagase T.",
+          "Nomura N.",
+          "Kikuchi H.",
+          "Masuho Y.",
+          "Yamashita R.",
+          "Nakai K.",
+          "Yada T.",
+          "Nakamura Y.",
+          "Ohara O.",
+          "Isogai T.",
+          "Sugano S."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "14702039"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1038/ng1285"
+          }
+        ],
+        "title": "Complete sequencing and characterization of 21,243 full-length human cDNAs.",
+        "publicationDate": "2004",
+        "journal": "Nat. Genet.",
+        "firstPage": "40",
+        "lastPage": "45",
+        "volume": "36"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Cerebellum",
+          "type": "TISSUE"
+        },
+        {
+          "value": "Testis",
+          "type": "TISSUE"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 5,
+      "citation": {
+        "id": "14574404",
+        "citationType": "journal article",
+        "authors": [
+          "Mungall A.J.",
+          "Palmer S.A.",
+          "Sims S.K.",
+          "Edwards C.A.",
+          "Ashurst J.L.",
+          "Wilming L.",
+          "Jones M.C.",
+          "Horton R.",
+          "Hunt S.E.",
+          "Scott C.E.",
+          "Gilbert J.G.R.",
+          "Clamp M.E.",
+          "Bethel G.",
+          "Milne S.",
+          "Ainscough R.",
+          "Almeida J.P.",
+          "Ambrose K.D.",
+          "Andrews T.D.",
+          "Ashwell R.I.S.",
+          "Babbage A.K.",
+          "Bagguley C.L.",
+          "Bailey J.",
+          "Banerjee R.",
+          "Barker D.J.",
+          "Barlow K.F.",
+          "Bates K.",
+          "Beare D.M.",
+          "Beasley H.",
+          "Beasley O.",
+          "Bird C.P.",
+          "Blakey S.E.",
+          "Bray-Allen S.",
+          "Brook J.",
+          "Brown A.J.",
+          "Brown J.Y.",
+          "Burford D.C.",
+          "Burrill W.",
+          "Burton J.",
+          "Carder C.",
+          "Carter N.P.",
+          "Chapman J.C.",
+          "Clark S.Y.",
+          "Clark G.",
+          "Clee C.M.",
+          "Clegg S.",
+          "Cobley V.",
+          "Collier R.E.",
+          "Collins J.E.",
+          "Colman L.K.",
+          "Corby N.R.",
+          "Coville G.J.",
+          "Culley K.M.",
+          "Dhami P.",
+          "Davies J.",
+          "Dunn M.",
+          "Earthrowl M.E.",
+          "Ellington A.E.",
+          "Evans K.A.",
+          "Faulkner L.",
+          "Francis M.D.",
+          "Frankish A.",
+          "Frankland J.",
+          "French L.",
+          "Garner P.",
+          "Garnett J.",
+          "Ghori M.J.",
+          "Gilby L.M.",
+          "Gillson C.J.",
+          "Glithero R.J.",
+          "Grafham D.V.",
+          "Grant M.",
+          "Gribble S.",
+          "Griffiths C.",
+          "Griffiths M.N.D.",
+          "Hall R.",
+          "Halls K.S.",
+          "Hammond S.",
+          "Harley J.L.",
+          "Hart E.A.",
+          "Heath P.D.",
+          "Heathcott R.",
+          "Holmes S.J.",
+          "Howden P.J.",
+          "Howe K.L.",
+          "Howell G.R.",
+          "Huckle E.",
+          "Humphray S.J.",
+          "Humphries M.D.",
+          "Hunt A.R.",
+          "Johnson C.M.",
+          "Joy A.A.",
+          "Kay M.",
+          "Keenan S.J.",
+          "Kimberley A.M.",
+          "King A.",
+          "Laird G.K.",
+          "Langford C.",
+          "Lawlor S.",
+          "Leongamornlert D.A.",
+          "Leversha M.",
+          "Lloyd C.R.",
+          "Lloyd D.M.",
+          "Loveland J.E.",
+          "Lovell J.",
+          "Martin S.",
+          "Mashreghi-Mohammadi M.",
+          "Maslen G.L.",
+          "Matthews L.",
+          "McCann O.T.",
+          "McLaren S.J.",
+          "McLay K.",
+          "McMurray A.",
+          "Moore M.J.F.",
+          "Mullikin J.C.",
+          "Niblett D.",
+          "Nickerson T.",
+          "Novik K.L.",
+          "Oliver K.",
+          "Overton-Larty E.K.",
+          "Parker A.",
+          "Patel R.",
+          "Pearce A.V.",
+          "Peck A.I.",
+          "Phillimore B.J.C.T.",
+          "Phillips S.",
+          "Plumb R.W.",
+          "Porter K.M.",
+          "Ramsey Y.",
+          "Ranby S.A.",
+          "Rice C.M.",
+          "Ross M.T.",
+          "Searle S.M.",
+          "Sehra H.K.",
+          "Sheridan E.",
+          "Skuce C.D.",
+          "Smith S.",
+          "Smith M.",
+          "Spraggon L.",
+          "Squares S.L.",
+          "Steward C.A.",
+          "Sycamore N.",
+          "Tamlyn-Hall G.",
+          "Tester J.",
+          "Theaker A.J.",
+          "Thomas D.W.",
+          "Thorpe A.",
+          "Tracey A.",
+          "Tromans A.",
+          "Tubby B.",
+          "Wall M.",
+          "Wallis J.M.",
+          "West A.P.",
+          "White S.S.",
+          "Whitehead S.L.",
+          "Whittaker H.",
+          "Wild A.",
+          "Willey D.J.",
+          "Wilmer T.E.",
+          "Wood J.M.",
+          "Wray P.W.",
+          "Wyatt J.C.",
+          "Young L.",
+          "Younger R.M.",
+          "Bentley D.R.",
+          "Coulson A.",
+          "Durbin R.M.",
+          "Hubbard T.",
+          "Sulston J.E.",
+          "Dunham I.",
+          "Rogers J.",
+          "Beck S."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "14574404"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1038/nature02055"
+          }
+        ],
+        "title": "The DNA sequence and analysis of human chromosome 6.",
+        "publicationDate": "2003",
+        "journal": "Nature",
+        "firstPage": "805",
+        "lastPage": "811",
+        "volume": "425"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+      ]
+    },
+    {
+      "referenceNumber": 6,
+      "citation": {
+        "id": "CI-56FTJV1JKRRTT",
+        "citationType": "submission",
+        "authors": [
+          "Mural R.J.",
+          "Istrail S.",
+          "Sutton G.",
+          "Florea L.",
+          "Halpern A.L.",
+          "Mobarry C.M.",
+          "Lippert R.",
+          "Walenz B.",
+          "Shatkay H.",
+          "Dew I.",
+          "Miller J.R.",
+          "Flanigan M.J.",
+          "Edwards N.J.",
+          "Bolanos R.",
+          "Fasulo D.",
+          "Halldorsson B.V.",
+          "Hannenhalli S.",
+          "Turner R.",
+          "Yooseph S.",
+          "Lu F.",
+          "Nusskern D.R.",
+          "Shue B.C.",
+          "Zheng X.H.",
+          "Zhong F.",
+          "Delcher A.L.",
+          "Huson D.H.",
+          "Kravitz S.A.",
+          "Mouchard L.",
+          "Reinert K.",
+          "Remington K.A.",
+          "Clark A.G.",
+          "Waterman M.S.",
+          "Eichler E.E.",
+          "Adams M.D.",
+          "Hunkapiller M.W.",
+          "Myers E.W.",
+          "Venter J.C."
+        ],
+        "publicationDate": "SEP-2005",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+      ]
+    },
+    {
+      "referenceNumber": 7,
+      "citation": {
+        "id": "15489334",
+        "citationType": "journal article",
+        "authoringGroup": [
+          "The MGC Project Team"
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "15489334"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1101/gr.2596504"
+          }
+        ],
+        "title": "The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).",
+        "publicationDate": "2004",
+        "journal": "Genome Res.",
+        "firstPage": "2121",
+        "lastPage": "2127",
+        "volume": "14"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Testis",
+          "type": "TISSUE"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 8,
+      "citation": {
+        "id": "CI-23ALB8H5BOV16",
+        "citationType": "submission",
+        "authors": [
+          "Larson J.H.",
+          "Rebeiz M.",
+          "Stiening C.M.",
+          "Windish R.",
+          "Beever J.E.",
+          "Lewin H.A."
+        ],
+        "title": "The ULBP proteins are highly divergent among mammals.",
+        "publicationDate": "SEP-2001",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA] OF 6-244"
+      ]
+    },
+    {
+      "referenceNumber": 9,
+      "citation": {
+        "id": "11491531",
+        "citationType": "journal article",
+        "authors": [
+          "Steinle A.",
+          "Li P.",
+          "Morris D.L.",
+          "Groh V.",
+          "Lanier L.L.",
+          "Strong R.K.",
+          "Spies T."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "11491531"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1007/s002510100325"
+          }
+        ],
+        "title": "Interactions of human NKG2D with its ligands MICA, MICB, and homologs of the mouse RAE-1 protein family.",
+        "publicationDate": "2001",
+        "journal": "Immunogenetics",
+        "firstPage": "279",
+        "lastPage": "287",
+        "volume": "53"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA] OF 11-244"
+      ]
+    },
+    {
+      "referenceNumber": 10,
+      "citation": {
+        "id": "12782710",
+        "citationType": "journal article",
+        "authors": [
+          "Dunn C.",
+          "Chalupny N.J.",
+          "Sutherland C.L.",
+          "Dosch S.",
+          "Sivakumar P.V.",
+          "Johnson D.C.",
+          "Cosman D."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "12782710"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1084/jem.20022059"
+          }
+        ],
+        "title": "Human cytomegalovirus glycoprotein UL16 causes intracellular sequestration of NKG2D ligands, protecting against natural killer cell cytotoxicity.",
+        "publicationDate": "2003",
+        "journal": "J. Exp. Med.",
+        "firstPage": "1427",
+        "lastPage": "1439",
+        "volume": "197"
+      },
+      "referencePositions": [
+        "INTERACTION WITH CMV UL16",
+        "SUBCELLULAR LOCATION"
+      ]
+    },
+    {
+      "referenceNumber": 11,
+      "citation": {
+        "id": "11777960",
+        "citationType": "journal article",
+        "authors": [
+          "Sutherland C.L.",
+          "Chalupny N.J.",
+          "Schooley K.",
+          "VandenBos T.",
+          "Kubin M.",
+          "Cosman D."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "11777960"
+          },
+          {
+            "database": "DOI",
+            "id": "10.4049/jimmunol.168.2.671"
+          }
+        ],
+        "title": "UL16-binding proteins, novel MHC class I-related proteins, bind to NKG2D and activate multiple signaling pathways in primary NK cells.",
+        "publicationDate": "2002",
+        "journal": "J. Immunol.",
+        "firstPage": "671",
+        "lastPage": "679",
+        "volume": "168"
+      },
+      "referencePositions": [
+        "FUNCTION",
+        "INTERACTION WITH KLRK1"
+      ]
+    },
+    {
+      "referenceNumber": 12,
+      "citation": {
+        "id": "12753652",
+        "citationType": "journal article",
+        "authors": [
+          "Cerwenka A.",
+          "Lanier L.L."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "12753652"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1034/j.1399-0039.2003.00070.x"
+          }
+        ],
+        "title": "NKG2D ligands: unconventional MHC class I-like molecules exploited by viruses and cancer.",
+        "publicationDate": "2003",
+        "journal": "Tissue Antigens",
+        "firstPage": "335",
+        "lastPage": "343",
+        "volume": "61"
+      },
+      "referencePositions": [
+        "REVIEW"
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "EMBL",
+      "id": "AF304377",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAK13081.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AB052907",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "BAB61049.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF346416",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAL76416.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AK292519",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "BAF85208.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AK316582",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "BAG38170.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AL355497",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "-"
+        },
+        {
+          "key": "Status",
+          "value": "NOT_ANNOTATED_CDS"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "CH471051",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "EAW47776.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "BC035416",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAH35416.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF425265",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAN32759.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF346595",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAN40838.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "CCDS",
+      "id": "CCDS5223.1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_001304018.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_001317089.2"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_079494.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_025218.4"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SMR",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "BioGRID",
+      "id": "123241",
+      "properties": [
+        {
+          "key": "Interactions",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "database": "CORUM",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "FunCoup",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Number of interactors",
+          "value": "271"
+        }
+      ]
+    },
+    {
+      "database": "IntAct",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Interactions",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "database": "NDEx",
+      "id": "IQUERY-CP-ULBP1",
+      "properties": [
+        {
+          "key": "Evidences",
+          "value": "2 NDEx IQuery Curated Pathways"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "9606.ENSP00000229708",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GlyCosmos",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "1 site, No reported glycans"
+        }
+      ]
+    },
+    {
+      "database": "GlyGen",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "2 sites, 1 O-linked glycan (1 site)"
+        }
+      ]
+    },
+    {
+      "database": "BioMuta",
+      "id": "ULBP1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "jPOST",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "MassIVE",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "9606-ENSP00000229708",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PeptideAtlas",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "ProteomicsDB",
+      "id": "79879",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Pumba",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Antibodypedia",
+      "id": "2344",
+      "properties": [
+        {
+          "key": "antibodies",
+          "value": "280 antibodies from 29 providers"
+        }
+      ]
+    },
+    {
+      "database": "DNASU",
+      "id": "80329",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENST00000229708.4",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSP00000229708.2"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSG00000111981.6"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "80329",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "hsa:80329",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "MANE-Select",
+      "id": "ENST00000229708.4",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSP00000229708.2"
+        },
+        {
+          "key": "RefSeqNucleotideId",
+          "value": "NM_025218.4"
+        },
+        {
+          "key": "RefSeqProteinId",
+          "value": "NP_079494.1"
+        }
+      ]
+    },
+    {
+      "database": "UCSC",
+      "id": "uc003qnp.5",
+      "properties": [
+        {
+          "key": "OrganismName",
+          "value": "human"
+        }
+      ]
+    },
+    {
+      "database": "AGR",
+      "id": "HGNC:14893",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "ClinPGx",
+      "id": "PA37915",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CTD",
+      "id": "80329",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "DisGeNET",
+      "id": "80329",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GeneCards",
+      "id": "ULBP1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HGNC",
+      "id": "HGNC:14893",
+      "properties": [
+        {
+          "key": "GeneName",
+          "value": "ULBP1"
+        }
+      ]
+    },
+    {
+      "database": "HPA",
+      "id": "ENSG00000111981",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Group enriched (brain, lung, testis)"
+        }
+      ]
+    },
+    {
+      "database": "MIM",
+      "id": "605697",
+      "properties": [
+        {
+          "key": "Type",
+          "value": "gene"
+        }
+      ]
+    },
+    {
+      "database": "OpenTargets",
+      "id": "ENSG00000111981",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VEuPathDB",
+      "id": "HostDB:ENSG00000111981",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "ENOG502TM6M",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT01120000271825",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HOGENOM",
+      "id": "CLU_086235_0_0_1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "InParanoid",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OMA",
+      "id": "VDTHCLC",
+      "properties": [
+        {
+          "key": "Fingerprint",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "9836934at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PAN-GO",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Number of GO annotations",
+          "value": "8 GO annotations based on evolutionary models"
+        }
+      ]
+    },
+    {
+      "database": "PhylomeDB",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PathwayCommons",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-HSA-198933",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell"
+        }
+      ]
+    },
+    {
+      "database": "SignaLink",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Agora",
+      "id": "ENSG00000111981",
+      "properties": [
+        {
+          "key": "NominatedTarget",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "BioGRID-ORCS",
+      "id": "80329",
+      "properties": [
+        {
+          "key": "hits",
+          "value": "12 hits in 1155 CRISPR screens"
+        }
+      ]
+    },
+    {
+      "database": "GeneWiki",
+      "id": "ULBP1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GenomeRNAi",
+      "id": "80329",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Pharos",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "DevelopmentLevel",
+          "value": "Tbio"
+        }
+      ]
+    },
+    {
+      "database": "PRO",
+      "id": "PR:Q9BZM6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000005640",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 6"
+        }
+      ]
+    },
+    {
+      "database": "RNAct",
+      "id": "Q9BZM6",
+      "properties": [
+        {
+          "key": "moleculeType",
+          "value": "protein"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSG00000111981",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in stromal cell of endometrium and 84 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005783",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:endoplasmic reticulum"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "EXP:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "12782710"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0009897",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:external side of plasma membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005886",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:plasma membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "11239445"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0046703",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:natural killer cell lectin-like receptor binding"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "11239445"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0048018",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:receptor ligand activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProt"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "15051759"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0002486",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0002476",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:antigen processing and presentation of endogenous peptide antigen via MHC class Ib"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0030101",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:natural killer cell activation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "11239445"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0042267",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:natural killer cell mediated cytotoxicity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "11239445"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0001916",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of T cell mediated cytotoxicity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "3.30.500.10:FF:000004",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Retinoic acid early-inducible protein 1-beta"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.30.500.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "MHC class I-like antigen recognition-like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR050208",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "MHC_class-I_related"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR011161",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "MHC_I-like_Ag-recog"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR037055",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "MHC_I-like_Ag-recog_sf"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR011162",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "MHC_I/II-like_Ag-recog"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR16675",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "MHC CLASS I-RELATED"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR16675:SF268",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "UL16-BINDING PROTEIN 1"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF00129",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "MHC_I"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF54452",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "MHC antigen-recognition domain"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MAAAASPAFLLCLPLLHLLSGWSRAGWVDTHCLCYDFIITPKSRPEPQWCEVQGLVDERPFLHYDCVNHKAKAFASLGKKVNVTKTWEEQTETLRDVVDFLKGQLLDIQVENLIPIEPLTLQARMSCEHEAHGHGRGSWQFLFNGQKFLLFDSNNRKWTALHPGAKKMTEKWEKNRDVTMFFQKISLGDCKMWLEEFLMYWEQMLDPTKPPSLAPGTTQPKAMATTLSPWSLLIIFLCFILAGR",
+    "length": 244,
+    "molWeight": 27997,
+    "crc64": "6094B17CE383DC6D",
+    "md5": "79EFF2AE1F3DBDDD5383C05D9F813262"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "FUNCTION": 1,
+      "SUBUNIT": 2,
+      "INTERACTION": 1,
+      "SUBCELLULAR LOCATION": 1,
+      "TISSUE SPECIFICITY": 1,
+      "MISCELLANEOUS": 1,
+      "SIMILARITY": 1
+    },
+    "countByFeatureType": {
+      "Signal": 1,
+      "Chain": 1,
+      "Propeptide": 1,
+      "Region": 2,
+      "Lipidation": 1,
+      "Glycosylation": 1,
+      "Disulfide bond": 2,
+      "Natural variant": 1
+    },
+    "uniParcId": "UPI000006D47B"
+  }
+}

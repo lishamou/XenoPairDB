@@ -1,0 +1,296 @@
+{
+  "main": [
+    {
+      "number": 1,
+      "doi": "10.1056/nejmoa2201422",
+      "citation": "Griffith BP, Goerlich CE, Singh AK, et al. Genetically Modified Porcine-to-Human Cardiac Xenotransplantation. N Engl J Med. 2022;387(1):35-44. doi:10.1056/NEJMoa2201422."
+    },
+    {
+      "number": 2,
+      "doi": "10.1038/s41591-024-03429-1",
+      "citation": "Griffith BP, Grazioli A, Singh AK, et al. Transplantation of a genetically modified porcine heart into a live human. Nat Med. 2025;31(2):589-598. doi:10.1038/s41591-024-03429-1."
+    },
+    {
+      "number": 3,
+      "doi": "10.1056/nejmoa2412747",
+      "citation": "Kawai T, Williams WW, Elias N, Fishman JA, Crisalli K, Longchamp A, Rosales IA, Duggan M, Kimura S, Morena L, Borges TJ, Tomosugi T, Karadagi A, Nakamura T, Safa K, Giarraputo A, Avillach CT, Patalas ED, Smith RN, Sachs DH, Cosimi AB, Madsen JC, Cooper DKC, Pierson R, Perrin S, Anand RP, Chhangawala S, Coscarella M, Daigneault A, Li F, Pearce O, Qin W, Serkin WT, Yeung V, Getchell K, Low SC, Curtis M, Colvin RB, Riella LV. Xenotransplantation of a Porcine Kidney for End-Stage Kidney Disease. N Engl J Med. 2025;392:1933-1940. doi:10.1056/nejmoa2412747."
+    },
+    {
+      "number": 4,
+      "doi": "10.1016/j.jhep.2025.08.044",
+      "citation": "Zhang W, Xu Q, Xu K, et al. Genetically engineered pig-to-human liver xenotransplantation. J Hepatol. 2026;84(3):587-598. doi:10.1016/j.jhep.2025.08.044."
+    },
+    {
+      "number": 5,
+      "doi": "10.1111/xen.12516",
+      "citation": "Cooper DKC, Hara H, Iwase H, et al. Justification of specific genetic modifications in pigs for clinical organ xenotransplantation. Xenotransplantation. 2019;26(4):e12516. doi:10.1111/xen.12516."
+    },
+    {
+      "number": 6,
+      "doi": "10.1111/xen.12161",
+      "citation": "Estrada JL, Martens G, Li P, et al. Evaluation of human and non‐human primate antibody binding to pig cells lacking GGTA1/CMAH/β4GalNT2 genes. Xenotransplantation. 2015;22(3):194-202. doi:10.1111/xen.12161."
+    },
+    {
+      "number": 7,
+      "doi": "10.1097/tp.0000000000001646",
+      "citation": "Martens GR, Reyes LM, Li P, et al. Humoral Reactivity of Renal Transplant-Waitlisted Patients to Cells From GGTA1/CMAH/B4GalNT2, and SLA Class I Knockout Pigs. Transplantation. 2017;101(4):e86-e92. doi:10.1097/TP.0000000000001646."
+    },
+    {
+      "number": 8,
+      "doi": "10.1038/s41586-023-06594-4",
+      "citation": "Anand RP, Layer JV, Heja D, Hirose T, Lassiter G, Firl DJ, Paragas VB, Akkad A, Chhangawala S, Colvin RB, Ernst RJ, Esch N, Getchell K, Griffin AK, Guo X, Hall KC, Hamilton P, Kalekar LA, Kan Y, Karadagi A, Li F, Low SC, Matheson R, Nehring C, Otsuka R, Pandelakis M, Policastro RA, Pols R, Queiroz L, Rosales IA, Serkin WT, Stiede K, Tomosugi T, Xue Y, Zentner GE, Angeles-Albores D, Chris Chao J, Crabtree JN, Harken S, Hinkle N, Lemos T, Li M, Pantano L, Stevens D, Subedar OD, Tan X, Yin S, Anwar IJ, Aufhauser D, Capuano S, Kaufman DB, Knechtle SJ, Kwun J, Shanmuganayagam D, Markmann JF, Church GM, Curtis M, Kawai T, Youd ME, Qin W. Design and testing of a humanized porcine donor for xenotransplantation. Nature. 2023;622:393-401. doi:10.1038/s41586-023-06594-4."
+    },
+    {
+      "number": 9,
+      "doi": "10.1126/science.aan4187",
+      "citation": "Niu D, Wei HJ, Lin L, et al. Inactivation of porcine endogenous retrovirus in pigs using CRISPR-Cas9. Science. 2017;357(6357):1303-1307. doi:10.1126/science.aan4187."
+    },
+    {
+      "number": 10,
+      "doi": "10.1034/j.1399-3089.1999.00020.x",
+      "citation": "Warrens AN, Simon AR, Theodore PR, et al. Human–porcine receptor–ligand compatibility within the immune system: relevance for xenotransplantation. Xenotransplantation. 1999;6(2):75-78. doi:10.1034/j.1399-3089.1999.00020.x."
+    },
+    {
+      "number": 11,
+      "doi": "10.1016/s0167-5699(99)01485-1",
+      "citation": "Simon AR, Warrens AN, Sykes M. Efficacy of adhesive interactions in pig-to-human xenotransplantation. Immunology Today. 1999;20(7):323-330. doi:10.1016/s0167-5699(99)01485-1."
+    },
+    {
+      "number": 12,
+      "doi": "10.1111/j.1399-3089.2006.00346.x",
+      "citation": "Ibrahim Z, Busch J, Awwad M, et al. Selected physiologic compatibilities and incompatibilities between human and porcine organ systems. Xenotransplantation. 2006;13(6):488-499. doi:10.1111/j.1399-3089.2006.00346.x."
+    },
+    {
+      "number": 13,
+      "doi": "10.1038/nmeth.4077",
+      "citation": "Türei D, Korcsmáros T, Saez-Rodriguez J. OmniPath: guidelines and gateway for literature-curated signaling pathway resources. Nat Methods. 2016;13(12):966-967. doi:10.1038/nmeth.4077."
+    },
+    {
+      "number": 14,
+      "doi": "10.15252/msb.20209923",
+      "citation": "Türei D, Valdeolivas A, Gul L, et al. Integrated intra‐ and intercellular signaling knowledge for multicellular omics analysis. Mol Syst Biol. 2021;17(3):e9923. doi:10.15252/msb.20209923."
+    },
+    {
+      "number": 15,
+      "doi": "10.1038/s41596-024-01137-1",
+      "citation": "Troulé K, Petryszak R, Cakir B, et al. CellPhoneDB v5: inferring cell–cell communication from single-cell multiomics data. Nat Protoc. 2025;20(12):3412-3440. doi:10.1038/s41596-024-01137-1."
+    },
+    {
+      "number": 16,
+      "doi": "10.1093/nar/gkae1010",
+      "citation": "UniProt Consortium. UniProt: the Universal Protein Knowledgebase in 2025. Nucleic Acids Res. 2025;53:D609-D617. doi:10.1093/nar/gkae1010."
+    },
+    {
+      "number": 17,
+      "doi": "10.1093/nar/gkad1011",
+      "citation": "Varadi M, Bertoni D, Magana P, Paramval U, Pidruchna I, Radhakrishnan M, Tsenkov M, Nair S, Mirdita M, Yeo J, Kovalevskiy O, Tunyasuvunakool K, Laydon A, Žídek A, Tomlinson H, Hariharan D, Abrahamson J, Green T, Jumper J, Birney E, Steinegger M, Hassabis D, Velankar S. AlphaFold Protein Structure Database in 2024: providing structure coverage for over 214 million protein sequences. Nucleic Acids Res. 2024;52:D368-D375. doi:10.1093/nar/gkad1011."
+    },
+    {
+      "number": 18,
+      "doi": "10.1111/xen.12047",
+      "citation": "Burlak C, Bern M, Brito AE, et al. N‐linked glycan profiling of GGTA1/CMAH knockout pigs identifies new potential carbohydrate xenoantigens. Xenotransplantation. 2013;20(5):277-291. doi:10.1111/xen.12047."
+    },
+    {
+      "number": 19,
+      "doi": "10.1111/j.1399-3089.2008.00480.x",
+      "citation": "Byrne GW, Stalboerger PG, Davila E, et al. Proteomic identification of non‐Gal antibody targets after pig‐to‐primate cardiac xenotransplantation. Xenotransplantation. 2008;15(4):268-276. doi:10.1111/j.1399-3089.2008.00480.x."
+    },
+    {
+      "number": 20,
+      "doi": "10.1097/tp.0b013e318203c27d",
+      "citation": "Byrne GW, Stalboerger PG, Du Z, et al. Identification of New Carbohydrate and Membrane Protein Antigens in Cardiac Xenotransplantation. Transplantation. 2011;91(3):287-292. doi:10.1097/TP.0b013e318203c27d."
+    },
+    {
+      "number": 21,
+      "doi": "10.1111/j.1399-3089.2012.00695.x",
+      "citation": "Burlak C, Wang ZY, Chihara RK, Lutz AJ, Wang Y, Estrada JL, Tector AJ. Identification of human preformed antibody targets in GTKO pigs. Xenotransplantation. 2012;19:92-101. doi:10.1111/j.1399-3089.2012.00695.x."
+    },
+    {
+      "number": 22,
+      "doi": "10.1097/tp.0000000000002739",
+      "citation": "Martens GR, Ladowski JM, Estrada J, et al. HLA Class I–sensitized Renal Transplant Patients Have Antibody Binding to SLA Class I Epitopes. Transplantation. 2019;103(8):1620-1629. doi:10.1097/TP.0000000000002739."
+    },
+    {
+      "number": 23,
+      "doi": "10.1097/tp.0000000000001924",
+      "citation": "Ladowski JM, Reyes LM, Martens GR, et al. Swine Leukocyte Antigen Class II Is a Xenoantigen. Transplantation. 2018;102(2):249-254. doi:10.1097/TP.0000000000001924."
+    },
+    {
+      "number": 24,
+      "doi": "10.3969/j.issn.1674-7445.2018.05.006",
+      "citation": "Xie C, Dai W, Zhang J, Cai Z, Mou L. Identification of FAM234A as a novel non-Gal antigen in xenotransplantation. Organ Transplantation. 2018;9(5):354-359. doi:10.3969/j.issn.1674-7445.2018.05.006."
+    },
+    {
+      "number": 25,
+      "doi": "10.1111/xen.12865",
+      "citation": "Byrne GW, McGregor CGA. Anti-pig antibodies in swine veterinarian serum: Implications for clinical xenotransplantation. Xenotransplantation. 2024;31:e12865. doi:10.1111/xen.12865."
+    },
+    {
+      "number": 26,
+      "doi": "10.1371/journal.pone.0253029",
+      "citation": "Nanno Y, Sterner E, Gildersleeve JC, Hering BJ, Burlak C. Carbohydrate antigen microarray analysis of serum IgG and IgM antibodies before and after adult porcine islet xenotransplantation in cynomolgus macaques. PLoS ONE. 2021;16:e0253029. doi:10.1371/journal.pone.0253029."
+    },
+    {
+      "number": 27,
+      "doi": "10.1021/acs.jproteome.5c01244",
+      "citation": "Liu H, Hoàng T, Hu Y, Xu Y, Sun Z, Peiffer BJ, Huang Y, Sun Z, Zhang H. Proteomic Identification of Pig Xenoantigens for Clinical Xenotransplantation. Journal of Proteome Research. 2026;25(9):4511-4523. doi:10.1021/acs.jproteome.5c01244."
+    },
+    {
+      "number": 28,
+      "doi": "10.1111/j.1399-3089.2007.00403.x",
+      "citation": "Jeon DH, Oh K, Oh BC, Nam DH, Kim CH, Park HB, Cho J, Lee JR, Lee DS, Lee G. Porcine PD-L1: cloning, characterization, and implications during xenotransplantation. Xenotransplantation. 2007;14:236-242. doi:10.1111/j.1399-3089.2007.00403.x."
+    },
+    {
+      "number": 29,
+      "doi": "10.1111/j.1600-6143.2008.02210.x",
+      "citation": "Roussel JC, Moran CJ, Salvaris EJ, Nandurkar HH, d'Apice AJ, Cowan PJ. Pig thrombomodulin binds human thrombin but is a poor cofactor for activation of human protein C and TAFI. Am J Transplant. 2008;8:1101-1112. doi:10.1111/j.1600-6143.2008.02210.x."
+    },
+    {
+      "number": 30,
+      "doi": "10.1093/nar/gkab1049",
+      "citation": "Cunningham F, Allen JE, Allen J, et al. Ensembl 2022. Nucleic Acids Res. 2022;50(D1):D988-D995. doi:10.1093/nar/gkab1049."
+    },
+    {
+      "number": 31,
+      "doi": "10.1093/nar/gkac1077",
+      "citation": "Burley SK, Bhikadiya C, Bi C, et al. RCSB Protein Data Bank (RCSB.org): delivery of experimentally-determined PDB structures alongside one million computed structure models of proteins from artificial intelligence/machine learning. Nucleic Acids Res. 2023;51(D1):D488-D508. doi:10.1093/nar/gkac1077."
+    },
+    {
+      "number": 32,
+      "doi": "10.1016/j.jss.2013.04.012",
+      "citation": "Chihara RK, Lutz AJ, Paris LL, et al. Fibronectin from alpha 1,3-galactosyltransferase knockout pigs is a xenoantigen. J Surg Res. 2013;184(2):1123-1133. doi:10.1016/j.jss.2013.04.012."
+    },
+    {
+      "number": 33,
+      "doi": "10.1111/xen.12862",
+      "citation": "Ladowski JM, Tector M, Martens G, et al. Late graft failure of pig‐to‐rhesus renal xenografts has features of glomerulopathy and recipients have anti‐swine leukocyte antigen class I and class II antibodies. Xenotransplantation. 2024;31(3):e12862. doi:10.1111/xen.12862."
+    },
+    {
+      "number": 34,
+      "doi": "10.1101/glycobiology.4e.9",
+      "citation": "Stanley P, Moremen KW, Lewis NE, Taniguchi N, Aebi M. N-Glycans. In: Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology. 4th ed. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2022. Chapter 9. doi:10.1101/glycobiology.4e.9."
+    },
+    {
+      "number": 35,
+      "doi": "10.1093/bioinformatics/btp163",
+      "citation": "Cock PJA, Antao T, Chang JT, et al. Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics. 2009;25(11):1422-1423. doi:10.1093/bioinformatics/btp163."
+    },
+    {
+      "number": 36,
+      "doi": "10.1016/s1074-7613(01)00241-2",
+      "citation": "Radaev S, Rostro B, Brooks AG, et al. Conformational Plasticity Revealed by the Cocrystal Structure of NKG2D and Its Class I MHC-like Ligand ULBP3. Immunity. 2001;15(6):1039-1049. doi:10.1016/s1074-7613(01)00241-2."
+    }
+  ],
+  "SI": [
+    {
+      "number": 1,
+      "doi": "10.1097/tp.0b013e318203c27d",
+      "citation": "Byrne GW, Stalboerger PG, Du Z, et al. Identification of New Carbohydrate and Membrane Protein Antigens in Cardiac Xenotransplantation. Transplantation. 2011;91(3):287-292. doi:10.1097/TP.0b013e318203c27d."
+    },
+    {
+      "number": 2,
+      "doi": "10.1111/j.1399-3089.2012.00695.x",
+      "citation": "Burlak C, Wang ZY, Chihara RK, Lutz AJ, Wang Y, Estrada JL, Tector AJ. Identification of human preformed antibody targets in GTKO pigs. Xenotransplantation. 2012;19:92-101. doi:10.1111/j.1399-3089.2012.00695.x."
+    },
+    {
+      "number": 3,
+      "doi": "10.3969/j.issn.1674-7445.2018.05.006",
+      "citation": "Xie C, Dai W, Zhang J, Cai Z, Mou L. Identification of FAM234A as a novel non-Gal antigen in xenotransplantation. Organ Transplantation. 2018;9(5):354-359. doi:10.3969/j.issn.1674-7445.2018.05.006."
+    },
+    {
+      "number": 4,
+      "doi": "10.1371/journal.pone.0253029",
+      "citation": "Nanno Y, Sterner E, Gildersleeve JC, Hering BJ, Burlak C. Carbohydrate antigen microarray analysis of serum IgG and IgM antibodies before and after adult porcine islet xenotransplantation in cynomolgus macaques. PLoS ONE. 2021;16:e0253029. doi:10.1371/journal.pone.0253029."
+    },
+    {
+      "number": 5,
+      "doi": "10.1111/xen.12865",
+      "citation": "Byrne GW, McGregor CGA. Anti-pig antibodies in swine veterinarian serum: Implications for clinical xenotransplantation. Xenotransplantation. 2024;31:e12865. doi:10.1111/xen.12865."
+    },
+    {
+      "number": 6,
+      "doi": "10.1021/acs.jproteome.5c01244",
+      "citation": "Liu H, Hoàng T, Hu Y, Xu Y, Sun Z, Peiffer BJ, Huang Y, Sun Z, Zhang H. Proteomic Identification of Pig Xenoantigens for Clinical Xenotransplantation. Journal of Proteome Research. 2026;25(9):4511-4523. doi:10.1021/acs.jproteome.5c01244."
+    },
+    {
+      "number": 7,
+      "doi": "10.1038/s41586-023-06594-4",
+      "citation": "Anand RP, Layer JV, Heja D, Hirose T, Lassiter G, Firl DJ, Paragas VB, Akkad A, Chhangawala S, Colvin RB, Ernst RJ, Esch N, Getchell K, Griffin AK, Guo X, Hall KC, Hamilton P, Kalekar LA, Kan Y, Karadagi A, Li F, Low SC, Matheson R, Nehring C, Otsuka R, Pandelakis M, Policastro RA, Pols R, Queiroz L, Rosales IA, Serkin WT, Stiede K, Tomosugi T, Xue Y, Zentner GE, Angeles-Albores D, Chris Chao J, Crabtree JN, Harken S, Hinkle N, Lemos T, Li M, Pantano L, Stevens D, Subedar OD, Tan X, Yin S, Anwar IJ, Aufhauser D, Capuano S, Kaufman DB, Knechtle SJ, Kwun J, Shanmuganayagam D, Markmann JF, Church GM, Curtis M, Kawai T, Youd ME, Qin W. Design and testing of a humanized porcine donor for xenotransplantation. Nature. 2023;622:393-401. doi:10.1038/s41586-023-06594-4."
+    },
+    {
+      "number": 8,
+      "doi": "10.1111/j.1399-3089.2007.00403.x",
+      "citation": "Jeon DH, Oh K, Oh BC, Nam DH, Kim CH, Park HB, Cho J, Lee JR, Lee DS, Lee G. Porcine PD-L1: cloning, characterization, and implications during xenotransplantation. Xenotransplantation. 2007;14:236-242. doi:10.1111/j.1399-3089.2007.00403.x."
+    },
+    {
+      "number": 9,
+      "doi": "10.1111/j.1600-6143.2008.02210.x",
+      "citation": "Roussel JC, Moran CJ, Salvaris EJ, Nandurkar HH, d'Apice AJ, Cowan PJ. Pig thrombomodulin binds human thrombin but is a poor cofactor for activation of human protein C and TAFI. Am J Transplant. 2008;8:1101-1112. doi:10.1111/j.1600-6143.2008.02210.x."
+    },
+    {
+      "number": 10,
+      "doi": "10.1097/tp.0000000000002739",
+      "citation": "Martens GR, Ladowski JM, Estrada J, et al. HLA Class I–sensitized Renal Transplant Patients Have Antibody Binding to SLA Class I Epitopes. Transplantation. 2019;103(8):1620-1629. doi:10.1097/TP.0000000000002739."
+    },
+    {
+      "number": 11,
+      "doi": "10.1016/j.molimm.2009.10.004",
+      "citation": "Mulder A, Kardol MJ, Arn JS, et al. Human monoclonal HLA antibodies reveal interspecies crossreactive swine MHC class I epitopes relevant for xenotransplantation. Mol Immunol. 2010;47(4):809-815. doi:10.1016/j.molimm.2009.10.004."
+    },
+    {
+      "number": 12,
+      "doi": "10.1097/tp.0000000000001924",
+      "citation": "Ladowski JM, Reyes LM, Martens GR, et al. Swine Leukocyte Antigen Class II Is a Xenoantigen. Transplantation. 2018;102(2):249-254. doi:10.1097/TP.0000000000001924."
+    },
+    {
+      "number": 13,
+      "doi": "10.1038/nmeth.4077",
+      "citation": "Türei D, Korcsmáros T, Saez-Rodriguez J. OmniPath: guidelines and gateway for literature-curated signaling pathway resources. Nat Methods. 2016;13(12):966-967. doi:10.1038/nmeth.4077."
+    },
+    {
+      "number": 14,
+      "doi": "10.15252/msb.20209923",
+      "citation": "Türei D, Valdeolivas A, Gul L, et al. Integrated intra‐ and intercellular signaling knowledge for multicellular omics analysis. Mol Syst Biol. 2021;17(3):e9923. doi:10.15252/msb.20209923."
+    },
+    {
+      "number": 15,
+      "doi": "10.1038/s41596-024-01137-1",
+      "citation": "Troulé K, Petryszak R, Cakir B, et al. CellPhoneDB v5: inferring cell–cell communication from single-cell multiomics data. Nat Protoc. 2025;20(12):3412-3440. doi:10.1038/s41596-024-01137-1."
+    },
+    {
+      "number": 16,
+      "doi": "10.1093/nar/gkae1010",
+      "citation": "UniProt Consortium. UniProt: the Universal Protein Knowledgebase in 2025. Nucleic Acids Res. 2025;53(D1):D609-D617. doi:10.1093/nar/gkae1010."
+    },
+    {
+      "number": 17,
+      "doi": "10.1093/nar/gkab1049",
+      "citation": "Cunningham F, Allen JE, Allen J, et al. Ensembl 2022. Nucleic Acids Res. 2022;50(D1):D988-D995. doi:10.1093/nar/gkab1049."
+    },
+    {
+      "number": 18,
+      "doi": "10.1101/glycobiology.4e.9",
+      "citation": "Stanley P, Moremen KW, Lewis NE, Taniguchi N, Aebi M. N-Glycans. In: Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology. 4th ed. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2022. Chapter 9. doi:10.1101/glycobiology.4e.9."
+    },
+    {
+      "number": 19,
+      "doi": "10.1093/bioinformatics/btp163",
+      "citation": "Cock PJA, Antao T, Chang JT, et al. Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics. 2009;25(11):1422-1423. doi:10.1093/bioinformatics/btp163."
+    },
+    {
+      "number": 20,
+      "doi": "10.1093/nar/gkac1077",
+      "citation": "Burley SK, Bhikadiya C, Bi C, et al. RCSB Protein Data Bank (RCSB.org): delivery of experimentally-determined PDB structures alongside one million computed structure models of proteins from artificial intelligence/machine learning. Nucleic Acids Res. 2023;51(D1):D488-D508. doi:10.1093/nar/gkac1077."
+    },
+    {
+      "number": 21,
+      "doi": "10.1093/nar/gkad1011",
+      "citation": "Varadi M, Bertoni D, Magana P, et al. AlphaFold Protein Structure Database in 2024: providing structure coverage for over 214 million protein sequences. Nucleic Acids Res. 2024;52(D1):D368-D375. doi:10.1093/nar/gkad1011."
+    },
+    {
+      "number": 22,
+      "doi": "10.1093/nar/gkac1000",
+      "citation": "Szklarczyk D, Kirsch R, Koutrouli M, et al. The STRING database in 2023: protein–protein association networks and functional enrichment analyses for any sequenced genome of interest. Nucleic Acids Res. 2023;51(D1):D638-D646. doi:10.1093/nar/gkac1000."
+    }
+  ]
+}

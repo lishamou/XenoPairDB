@@ -1,0 +1,3973 @@
+{
+  "entryType": "UniProtKB reviewed (Swiss-Prot)",
+  "primaryAccession": "P01315",
+  "secondaryAccessions": [
+    "Q9TSJ5"
+  ],
+  "uniProtkbId": "INS_PIG",
+  "entryAudit": {
+    "firstPublicDate": "1986-07-21",
+    "lastAnnotationUpdateDate": "2026-09-02",
+    "lastSequenceUpdateDate": "2000-12-01",
+    "entryVersion": 203,
+    "sequenceVersion": 2
+  },
+  "annotationScore": 5.0,
+  "organism": {
+    "scientificName": "Sus scrofa",
+    "commonName": "Pig",
+    "taxonId": 9823,
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Laurasiatheria",
+      "Artiodactyla",
+      "Suina",
+      "Suidae",
+      "Sus"
+    ]
+  },
+  "proteinExistence": "1: Evidence at protein level",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "value": "Insulin"
+      }
+    },
+    "contains": [
+      {
+        "recommendedName": {
+          "fullName": {
+            "value": "Insulin B chain"
+          }
+        }
+      },
+      {
+        "recommendedName": {
+          "fullName": {
+            "value": "Insulin A chain"
+          }
+        }
+      }
+    ],
+    "flag": "Precursor"
+  },
+  "genes": [
+    {
+      "geneName": {
+        "value": "INS"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "texts": [
+        {
+          "value": "Insulin decreases blood glucose concentration. It increases cell permeability to monosaccharides, amino acids and fatty acids. It accelerates glycolysis, the pentose phosphate cycle, and glycogen synthesis in liver"
+        }
+      ],
+      "commentType": "FUNCTION"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P01308"
+            }
+          ],
+          "value": "Heterodimer of a B chain and an A chain linked by two disulfide bonds"
+        }
+      ],
+      "commentType": "SUBUNIT"
+    },
+    {
+      "commentType": "INTERACTION",
+      "interactions": [
+        {
+          "interactantOne": {
+            "uniProtKBAccession": "P01315",
+            "intActId": "EBI-8437944"
+          },
+          "interactantTwo": {
+            "uniProtKBAccession": "P01315",
+            "geneName": "INS",
+            "intActId": "EBI-8437944"
+          },
+          "numberOfExperiments": 2,
+          "organismDiffer": false
+        }
+      ]
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "subcellularLocations": [
+        {
+          "location": {
+            "value": "Secreted",
+            "id": "SL-0243"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ],
+          "value": "Belongs to the insulin family"
+        }
+      ],
+      "commentType": "SIMILARITY"
+    },
+    {
+      "commentType": "SEQUENCE CAUTION",
+      "sequenceCautionType": "Erroneous initiation",
+      "sequence": "AAC77920.1",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000305"
+        }
+      ]
+    },
+    {
+      "commentType": "WEB RESOURCE",
+      "resourceName": "Protein Spotlight",
+      "resourceUrl": "https://www.proteinspotlight.org/back_issues/009",
+      "ftp": false,
+      "note": "Protein of the 20th century - Issue 9 of April 2001"
+    }
+  ],
+  "features": [
+    {
+      "type": "Signal",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 24,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "5657063"
+        }
+      ]
+    },
+    {
+      "type": "Peptide",
+      "location": {
+        "start": {
+          "value": 25,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 54,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Insulin B chain",
+      "featureId": "PRO_0000015879"
+    },
+    {
+      "type": "Propeptide",
+      "location": {
+        "start": {
+          "value": 57,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 85,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "C peptide",
+      "featureId": "PRO_0000015880"
+    },
+    {
+      "type": "Peptide",
+      "location": {
+        "start": {
+          "value": 88,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 108,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Insulin A chain",
+      "featureId": "PRO_0000015881"
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 31,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 94,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Interchain (between B and A chains)",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "15299880"
+        },
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "1772633"
+        },
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "2905485"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "1SDB"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "4INS"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "7INS"
+        }
+      ]
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 43,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 107,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Interchain (between B and A chains)",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "15299880"
+        },
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "1772633"
+        },
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "2905485"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "1SDB"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "4INS"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "7INS"
+        }
+      ]
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 93,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 98,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "15299880"
+        },
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "1772633"
+        },
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "2905485"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "1SDB"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "4INS"
+        },
+        {
+          "evidenceCode": "ECO:0007744",
+          "source": "PDB",
+          "id": "7INS"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 33,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 43,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1M5A"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 44,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 46,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1M5A"
+        }
+      ]
+    },
+    {
+      "type": "Beta strand",
+      "location": {
+        "start": {
+          "value": 48,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 50,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1M5A"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 89,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 95,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1M5A"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 97,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 99,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "2TCI"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 100,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 103,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1M5A"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 104,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 106,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1M5A"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "id": "KW-0002",
+      "category": "Technical term",
+      "name": "3D-structure"
+    },
+    {
+      "id": "KW-0119",
+      "category": "Biological process",
+      "name": "Carbohydrate metabolism"
+    },
+    {
+      "id": "KW-0165",
+      "category": "PTM",
+      "name": "Cleavage on pair of basic residues"
+    },
+    {
+      "id": "KW-0903",
+      "category": "Technical term",
+      "name": "Direct protein sequencing"
+    },
+    {
+      "id": "KW-1015",
+      "category": "PTM",
+      "name": "Disulfide bond"
+    },
+    {
+      "id": "KW-0313",
+      "category": "Biological process",
+      "name": "Glucose metabolism"
+    },
+    {
+      "id": "KW-0372",
+      "category": "Molecular function",
+      "name": "Hormone"
+    },
+    {
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "id": "KW-0964",
+      "category": "Cellular component",
+      "name": "Secreted"
+    },
+    {
+      "id": "KW-0732",
+      "category": "Domain",
+      "name": "Signal"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "CI-5MACACASTR6T5",
+        "citationType": "submission",
+        "authors": [
+          "Han X.G.",
+          "Tuch B.E."
+        ],
+        "title": "Complete porcine preproinsulin cDNA sequence.",
+        "publicationDate": "MAY-1998",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE"
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "12140686",
+        "citationType": "journal article",
+        "authors": [
+          "Amarger V.",
+          "Nguyen M.",
+          "Van Laere A.-S.",
+          "Braunschweig M.",
+          "Nezer C.",
+          "Georges M.",
+          "Andersson L."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "12140686"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1007/s00335-001-3059-x"
+          }
+        ],
+        "title": "Comparative sequence analysis of the INS-IGF2-H19 gene cluster in pigs.",
+        "publicationDate": "2002",
+        "journal": "Mamm. Genome",
+        "firstPage": "388",
+        "lastPage": "398",
+        "volume": "13"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Large white",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 3,
+      "citation": {
+        "id": "14574411",
+        "citationType": "journal article",
+        "authors": [
+          "Van Laere A.-S.",
+          "Nguyen M.",
+          "Braunschweig M.",
+          "Nezer C.",
+          "Collette C.",
+          "Moreau L.",
+          "Archibald A.L.",
+          "Haley C.",
+          "Buys N.",
+          "Tally M.",
+          "Andersson G.",
+          "Georges M.",
+          "Andersson L."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "14574411"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1038/nature02064"
+          }
+        ],
+        "title": "A regulatory mutation in IGF2 causes a major QTL effect on muscle growth in the pig.",
+        "publicationDate": "2003",
+        "journal": "Nature",
+        "firstPage": "832",
+        "lastPage": "836",
+        "volume": "425"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "European wild boar",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Hampshire",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Japanese wild boar",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Landrace",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Large white",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Meishan",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Pietrain",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 4,
+      "citation": {
+        "id": "5657063",
+        "citationType": "journal article",
+        "authors": [
+          "Chance R.E.",
+          "Ellis R.M.",
+          "Bromer W.W."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "5657063"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1126/science.161.3837.165"
+          }
+        ],
+        "title": "Porcine proinsulin: characterization and amino acid sequence.",
+        "publicationDate": "1968",
+        "journal": "Science",
+        "firstPage": "165",
+        "lastPage": "167",
+        "volume": "161"
+      },
+      "referencePositions": [
+        "PROTEIN SEQUENCE OF 25-108"
+      ]
+    },
+    {
+      "referenceNumber": 5,
+      "citation": {
+        "id": "CI-JP0208Q1GJKU",
+        "citationType": "submission",
+        "authors": [
+          "Chance R.E."
+        ],
+        "publicationDate": "JUL-1970",
+        "submissionDatabase": "PIR data bank"
+      },
+      "referencePositions": [
+        "SEQUENCE REVISION TO 59"
+      ]
+    },
+    {
+      "referenceNumber": 6,
+      "citation": {
+        "id": "CI-6HFKNQIMDKVLD",
+        "citationType": "journal article",
+        "authors": [
+          "Blundell T.L.",
+          "Dodson G.G.",
+          "Hodgkin D.",
+          "Mercola D."
+        ],
+        "title": "Insulin. The structure in the crystal and its reflection in chemistry and biology.",
+        "publicationDate": "1972",
+        "journal": "Adv. Protein Chem.",
+        "firstPage": "279",
+        "lastPage": "402",
+        "volume": "26"
+      },
+      "referencePositions": [
+        "X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS)"
+      ]
+    },
+    {
+      "referenceNumber": 7,
+      "citation": {
+        "id": "CI-2MLB4V5E7OMN8",
+        "citationType": "journal article",
+        "authors": [
+          "Isaacs N.W.",
+          "Agarwal R.C."
+        ],
+        "title": "Experience with fast Fourier least squares in the refinement of the crystal structure of rhombohedral 2-zinc insulin at 1.5-A resolution.",
+        "publicationDate": "1978",
+        "journal": "Acta Crystallogr. A",
+        "firstPage": "782",
+        "lastPage": "791",
+        "volume": "34"
+      },
+      "referencePositions": [
+        "X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) OF 88-108 AND 25-54",
+        "DISULFIDE BONDS"
+      ]
+    },
+    {
+      "referenceNumber": 8,
+      "citation": {
+        "id": "2905485",
+        "citationType": "journal article",
+        "authors": [
+          "Baker E.N.",
+          "Blundell T.L.",
+          "Cutfield J.F.",
+          "Cutfield S.M.",
+          "Dodson E.J.",
+          "Dodson G.G.",
+          "Crowfoot Hodgkin D.M.",
+          "Hubbard R.E.",
+          "Isaacs N.W.",
+          "Reynolds C.D.",
+          "Sakabe K.",
+          "Sakabe N.",
+          "Vijayan N.M."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "2905485"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1098/rstb.1988.0058"
+          }
+        ],
+        "title": "The structure of 2Zn pig insulin crystals at 1.5-A resolution.",
+        "publicationDate": "1988",
+        "journal": "Philos. Trans. R. Soc. Lond., B, Biol. Sci.",
+        "firstPage": "369",
+        "lastPage": "456",
+        "volume": "319"
+      },
+      "referencePositions": [
+        "X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS)"
+      ]
+    },
+    {
+      "referenceNumber": 9,
+      "citation": {
+        "id": "1772633",
+        "citationType": "journal article",
+        "authors": [
+          "Balschmidt P.",
+          "Hansen F.B.",
+          "Dodson E.",
+          "Dodson G.",
+          "Korber F."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "1772633"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1107/s010876819100842x"
+          }
+        ],
+        "title": "Structure of porcine insulin cocrystallized with clupeine Z.",
+        "publicationDate": "1991",
+        "journal": "Acta Crystallogr. B",
+        "firstPage": "975",
+        "lastPage": "986",
+        "volume": "47"
+      },
+      "referencePositions": [
+        "X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 88-108 AND 25-54",
+        "DISULFIDE BONDS"
+      ]
+    },
+    {
+      "referenceNumber": 10,
+      "citation": {
+        "id": "2025410",
+        "citationType": "journal article",
+        "authors": [
+          "Badger J.",
+          "Harris M.R.",
+          "Reynolds C.D.",
+          "Evans A.C.",
+          "Dodson E.J.",
+          "Dodson G.G.",
+          "North A.C.T."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "2025410"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1107/s0108768190009570"
+          }
+        ],
+        "title": "Structure of the pig insulin dimer in the cubic crystal.",
+        "publicationDate": "1991",
+        "journal": "Acta Crystallogr. B",
+        "firstPage": "127",
+        "lastPage": "136",
+        "volume": "47"
+      },
+      "referencePositions": [
+        "X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS)"
+      ]
+    },
+    {
+      "referenceNumber": 11,
+      "citation": {
+        "id": "15299880",
+        "citationType": "journal article",
+        "authors": [
+          "Diao J.-S.",
+          "Wan Z.-L.",
+          "Chang W.-R.",
+          "Liang D.-C."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "15299880"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1107/s0907444997004034"
+          }
+        ],
+        "title": "Structure of monomeric porcine DesB1-B2 despentapeptide (B26-B30) insulin at 1.65-A resolution.",
+        "publicationDate": "1997",
+        "journal": "Acta Crystallogr. D",
+        "firstPage": "507",
+        "lastPage": "512",
+        "volume": "53"
+      },
+      "referencePositions": [
+        "X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 88-108 AND 27-49",
+        "DISULFIDE BONDS"
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "EMBL",
+      "id": "AF064555",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAC77920.1"
+        },
+        {
+          "key": "Status",
+          "value": "ALT_INIT"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY044828",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAL69550.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242098",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00952.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242099",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00954.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242100",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00957.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242101",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00960.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242102",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00963.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242103",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00966.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242104",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00969.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242105",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00972.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242106",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00975.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242107",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00978.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242108",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00981.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242109",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00983.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242110",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00985.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242111",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00987.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY242112",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ00990.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "PIR",
+      "id": "A01583",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "IPPG"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_001103242.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_001109772.2"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B17",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.70 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B18",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B19",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B2A",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.70 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B2B",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B2C",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B2D",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.70 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B2E",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.90 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B2F",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.90 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1B2G",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1DEI",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.60 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-47"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1IZA",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.50 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-53"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1IZB",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.00 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-53"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1M5A",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.20 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1MPJ",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.30 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1SDB",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.65 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=27-49"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1WAV",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.50 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C/E/G/I/K=88-108, B/D/F/H/J/L=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1ZEI",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.90 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/B/C/D/E/F=25-54, A/B/C/D/E/F=88-108"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1ZNI",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.50 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "2EFA",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "Neutron"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.70 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "2G4M",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "2TCI",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "2ZPP",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "Neutron"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.50 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "3FHP",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "Neutron"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.00 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "3GKY",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "3INS",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.50 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "3MTH",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.90 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "3RTO",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "3T2A",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.10 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "4A7E",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.86 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "4INS",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.50 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C=88-108, B/D=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "5D52",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "5D53",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.50 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "5D54",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.50 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "5D5E",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.41 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "5FB6",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.90 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "5LIS",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.29 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "6INS",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.00 A"
+        },
+        {
+          "key": "Chains",
+          "value": "E/F=25-108"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "6Z7Z",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.40 A"
+        },
+        {
+          "key": "Chains",
+          "value": "E/G=88-108, F/H=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "7AC4",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.46 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "7INS",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.00 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A/C/E=88-108, B/D/F=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "9INS",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.70 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=88-108, B=25-54"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B17",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B18",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B19",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B2A",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B2B",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B2C",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B2D",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B2E",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B2F",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1B2G",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1DEI",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1IZA",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1IZB",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1M5A",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1MPJ",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1SDB",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1WAV",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1ZEI",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1ZNI",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "2EFA",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "2G4M",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "2TCI",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "2ZPP",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "3FHP",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "3GKY",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "3INS",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "3MTH",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "3RTO",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "3T2A",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "4A7E",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "4INS",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "5D52",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "5D53",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "5D54",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "5D5E",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "5FB6",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "5LIS",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "6INS",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "6Z7Z",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "7AC4",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "7INS",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "9INS",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "BMRB",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SASBDB",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SMR",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "FunCoup",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Number of interactors",
+          "value": "444"
+        }
+      ]
+    },
+    {
+      "database": "IntAct",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Interactions",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "MINT",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "9823.ENSSSCP00000044635",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Allergome",
+      "id": "2122",
+      "properties": [
+        {
+          "key": "AllergenName",
+          "value": "Sus s Insulin"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "9823-ENSSSCP00000044635",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00000064136.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00000044635.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00000033740.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00015005290.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00015002060.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00015004005.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00025032226.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00025013482.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00025023773.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00030103634.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00030047908.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00030073948.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00035025488.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00035009642.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00035019667.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00040023180.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00040009750.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00040017207.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00045008618.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00045005838.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00045005189.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00050011348.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00050004834.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00050008342.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00055032104.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00055025559.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00055016292.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00060047539.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00060020355.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00060035069.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00065087685.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00065038365.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00065063887.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00070029958.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00070024989.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00070015252.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00085030079",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00085020784"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00085015820"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "397415",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "ssc:397415",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CTD",
+      "id": "3630",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VGNC",
+      "id": "VGNC:99778",
+      "properties": [
+        {
+          "key": "GeneName",
+          "value": "INS"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "ENOG502S5P5",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT00390000015440",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "InParanoid",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OMA",
+      "id": "PNRAHKR",
+      "properties": [
+        {
+          "key": "Fingerprint",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "10019596at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-264876",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Insulin processing"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-422085",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Synthesis, secretion, and deacylation of Ghrelin"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-6807878",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "COPI-mediated anterograde transport"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-6811558",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-74713",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "IRS activation"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-74749",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Signal attenuation"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-74751",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Insulin receptor signalling cascade"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-74752",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Signaling by Insulin receptor"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-77387",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Insulin receptor recycling"
+        }
+      ]
+    },
+    {
+      "database": "EvolutionaryTrace",
+      "id": "P01315",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PRO",
+      "id": "PR:P01315",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000008227",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 2"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSSSCG00000033740",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in right lobe of liver and 4 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005576",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:extracellular region"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "ISS:AgBase"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005179",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:hormone activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "7782332"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0042802",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:identical protein binding"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IPI:IntAct"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000353",
+          "source": "PubMed",
+          "id": "23416304"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005158",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:insulin receptor binding"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005159",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:insulin-like growth factor receptor binding"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "2967174"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0002020",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:protease binding"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006953",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:acute-phase response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0046631",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:alpha-beta T cell activation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0055089",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:fatty acid homeostasis"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0007186",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:G protein-coupled receptor signaling pathway"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0042593",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:glucose homeostasis"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0009101",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:glycoprotein biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "8069456"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0008286",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:insulin receptor signaling pathway"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "3518947"
+        },
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "7782332"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0019249",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:lactate biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "8069456"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0008610",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:lipid biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "8069456"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0042158",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:lipoprotein biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "8069456"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0002674",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of acute inflammatory response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045922",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of fatty acid metabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:2000252",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of feeding behavior"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045721",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of gluconeogenesis"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "8069456"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045818",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of glycogen catabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0050995",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of lipid catabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0042177",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of protein catabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0050709",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of protein secretion"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1903427",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of reactive oxygen species biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0060266",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of respiratory burst involved in inflammatory response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1990535",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:neuron projection maintenance"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0038060",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:nitric oxide-cGMP-mediated signaling"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0043123",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of canonical NF-kappaB signal transduction"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0030335",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of cell migration"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "12138094"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0008284",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of cell population proliferation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0001819",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of cytokine production"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0046326",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of D-glucose import across plasma membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1902952",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of dendritic spine maintenance"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045740",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of DNA replication"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "7513704"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045723",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of fatty acid biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:CACAO"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "14677856"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0010907",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of glucose metabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:CACAO"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "14677856"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045725",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of glycogen biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045821",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of glycolytic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0046628",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of insulin receptor signaling pathway"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "7513704"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0051006",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of lipoprotein lipase activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:CACAO"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "14677856"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0043410",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of MAPK cascade"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045840",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of mitotic nuclear division"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0051897",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1900182",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of protein localization to nucleus"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0050714",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of protein secretion"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0060267",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of respiratory burst"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1903076",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:regulation of protein localization to plasma membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0060087",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:relaxation of vascular associated smooth muscle"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1903576",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to L-arginine"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "ISS:AgBase"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0042060",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:wound healing"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd04367",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "IlGF_insulin_like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "1.10.100.10:FF:000003",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Insulin"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "1.10.100.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Insulin-like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR022352",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Ins/IGF/rlx"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR004825",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Insulin"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR016179",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Insulin-like"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR036438",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Insulin-like_sf"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR022353",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Insulin_CS"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR11454:SF9",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "INSULIN"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR11454",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "INSULIN/INSULIN GROWTH FACTOR"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF00049",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Insulin"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PRINTS",
+      "id": "PR00277",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "INSULIN"
+        }
+      ]
+    },
+    {
+      "database": "PRINTS",
+      "id": "PR00276",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "INSULINFAMLY"
+        }
+      ]
+    },
+    {
+      "database": "SMART",
+      "id": "SM00078",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "IlGF"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF56994",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Insulin-like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS00262",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "INSULIN"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MALWTRLLPLLALLALWAPAPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREAENPQAGAVELGGGLGGLQALALEGPPQKRGIVEQCCTSICSLYQLENYCN",
+    "length": 108,
+    "molWeight": 11672,
+    "crc64": "CB4491B429858EBE",
+    "md5": "AE062F83D553A821AEEEAC1101AA9CF9"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "FUNCTION": 1,
+      "SUBUNIT": 1,
+      "INTERACTION": 1,
+      "SUBCELLULAR LOCATION": 1,
+      "SIMILARITY": 1,
+      "SEQUENCE CAUTION": 1,
+      "WEB RESOURCE": 1
+    },
+    "countByFeatureType": {
+      "Signal": 1,
+      "Peptide": 2,
+      "Propeptide": 1,
+      "Disulfide bond": 3,
+      "Helix": 6,
+      "Beta strand": 1
+    },
+    "uniParcId": "UPI000012D6DC"
+  }
+}

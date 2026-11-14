@@ -1,0 +1,4 @@
+Enzyme	Relevant glycan	What is not inferred
+GGTA1	α-Gal	Enzyme sequence score is not anti-glycan binding
+CMAH	Neu5Gc	Monkey and human immune responses are not interchangeable
+B4GALNT2	Sd(a)-related glycans	Motif count does not measure terminal glycan structure

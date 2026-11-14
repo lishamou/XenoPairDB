@@ -1,0 +1,7 @@
+{
+  "url": "https://rest.uniprot.org/unisave/A0A4X1SUR0?format=txt&versions=26",
+  "history_url": "https://rest.uniprot.org/unisave/A0A4X1SUR0?format=json",
+  "entry_version": 26,
+  "sha256": "ed0a05dcc9107426f9cbdcee28f2b1514eb897af52e98fdd3ca480890914bd17",
+  "retrieved_at": "2026-11-03T16:31:42.686798+00:00"
+}

@@ -1,0 +1,8 @@
+Resource	Principal information	Relevant use	Relation to this analysis
+UniProt	Protein sequences and annotations	Accession, sequence and annotation retrieval	Sequence and identifier source
+Ensembl	Genome annotation and comparative genomics	Orthology and gene identifiers	Orthology annotation context
+OmniPath	Literature-curated signaling and intercellular knowledge	Interaction and signaling records	Attributed interaction source for candidate records
+CellPhoneDB	Ligand–receptor and multi-subunit interaction knowledge	Cell-communication hypotheses	Attributed interaction source for candidate records
+STRING	Protein-association networks	Functional association context	Complementary resource; not an input to the present candidate scores
+PDB and AlphaFold DB	Experimental structures and predicted monomers	Template and model retrieval	Sources for geometric comparisons
+XenoPairDB	Directional pig–human axes and donor-target mappings	Evidence tracing, molecular coverage and candidate priorities	Integrates endpoint-specific evidence with experimental planning

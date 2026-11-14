@@ -1,0 +1,8 @@
+Scenario	Definition / permitted interpretation
+Stored-score scenario	Stored ISI score, including CFH exception
+Sequence-only candidate	(100 − identity) × severity × evidence × expression
+Mixed candidate	Mean sequence/interface divergence where existing interface field is numeric
+No divergence	Severity × evidence × expression; different units
+Neutral expression	Expression multiplier replaced by 1 as a sensitivity
+Nominal missing feature	Explicit hypothetical divergence values; not observed compatibility
+Mask perturbation	Assumed targeting-effect fraction; not measured rescue

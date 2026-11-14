@@ -1,0 +1,5 @@
+Task	Input	Workflow and output	Interpretation
+Trace an axis	Axis identifier or molecular partners	Retrieve species direction, phenotype, evidence annotation, source and available sequence/structure descriptors.	Use the original endpoint to choose a confirmatory assay.
+Compare donor designs	Porcine knockouts and human transgenes	Map explicit edit-to-axis edges and retrieve count-based and weighted addressed/residual summaries.	Compare profiles on a common denominator; keep unscored axes visible.
+Prioritize interaction candidates	Genes or candidate-atlas filters	Inspect partner-specific identities, orthology fields and sequon-shift features, then retrieve candidate records.	Establish direction and topology before cross-species binding or signaling tests.
+Prioritize antigen candidates	Protein accession or antigen-rank range	Retrieve scores and component features, inspect literature-reference evidence, and join measured public-assay data where available.	Select antigen-specific recognition and injury readouts; untested background is not a negative set.

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "analysis/inputs/phase4_analysis_code.py": "ac978c9dc552ce1a0aa0bf2917a7168b6d08fada021c2202319464c8335bb539",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/inputs/snapshot/XenoPairDB_Integrity_Pipeline/src/xenopairdb/genotypes.py": "a7a36bd11aad3e287ac003e139ffea4b8a210c8c7a4444bc83e37f3615f04768",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/inputs/snapshot/XenoPairDB_Integrity_Pipeline/src/xenopairdb/scoring.py": "24c440d0719cfa1ae07ac701fb25de120e86a97a98fc4afdeb9fac7055c06733",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/src/analyze.py": "a762a4f26c6157fbef86055900cea04f6da6a45f31bad243a62d570fdc3b3c58",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/src/fetch_structures.py": "acdec248d982ae2cd95c6438989181454da42d6677dc41af2a1bf64cbea3534d",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/src/structures.py": "cb5e5677f08210974e34a0978561aea6e6736e9d55c4ab69205bb797c0a52169",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/src/supplement.py": "e408abdd118e0a607cf3ee44e6cd5e1492d9c0a6239e815578be09309663cdd8",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/src/complete_analyses.py": "cc71d1aca66342f938c2b1ccd0e55f0e3bfd8fc05c2c8077c38a2670b05d5b93",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/src/extract_nanno2021_glycan_array.py": "3663bb1b50e0569e048edfd7ef2d99a2b704fb5c3d43afea3d24a26edc9fd20c",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/src/isi_leakage_audit.py": "1dd7f5ac799c75c92429d0ff6ba5a73ad44dcd1235cdf51fe7269ab9f2b51b0a",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/src/common.py": "33bae4b90d53a1088d7414fbc479c7945022ec5aa61b97f4172ad959a7ec91bf",
+    "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/src/recompute_scores_and_donors.py": "1f23fd5fed9b73a893b9cd59c10285b3eb7f5fcf7a5ae55c4b1c6c4f061c8e18",
+    "analysis/inputs/phase4_snapshot/src/analyze_public_data.py": "ac978c9dc552ce1a0aa0bf2917a7168b6d08fada021c2202319464c8335bb539",
+    "analysis/src/audit_mapping.py": "aa4927f3b86c37b3aea2a062145dcb1b3096e867c95a10a8c994a3daf3d87425",
+    "analysis/src/fetch_identifiers.py": "8e298916adf80ee972f8e21db66a884b53589add64a01a34225005a0248f10bf",
+    "analysis/src/fetch_unresolved.py": "fb4d0a28d621fa0a7c9694d57fb6506a47804723f06cd04c88cf508d25ab24d8",
+    "code/extract_figure_sources.py": "1ed3057722468968c4d547b6fabcd586c7894dcaae8a33fed5dceae516afaad8",
+    "code/extract_review_tables.py": "99faae0b9e048273e2ce40e0a4d4ef5c24e84f9e444bdc2fb833cc447c02ffb7",
+    "code/plot_figures.R": "42adc56fb4a09b60e46f52828833d15c85dc6e8884ea325995eb3f088262e5af",
+    "reproduce.py": "e4cb33cb2fca317d91c2ec8d3d60019ebcacbb0cf30dcdaa293a2268734f194c"
+  },
+  "code_tree_sha256": "6c1222d14782c0282bba56a3ca4d68c9a411cf531c2995c2113177ad63e911d2",
+  "version_control": "No git commit is asserted; this hash identifies the supplied executable source tree."
+}

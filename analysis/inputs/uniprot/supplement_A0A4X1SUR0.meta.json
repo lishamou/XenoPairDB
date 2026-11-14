@@ -1,0 +1,9 @@
+{
+  "requested": "A0A4X1SUR0",
+  "url": "https://rest.uniprot.org/uniprotkb/A0A4X1SUR0.json",
+  "retrieved_at": "2026-11-03T16:30:37.480941+00:00",
+  "status": 200,
+  "final_url": "https://rest.uniprot.org/uniprotkb/A0A4X1SUR0.json",
+  "release": "2026_03",
+  "sha256": "e7978d6a2ad2aad2b12bfc4e53adfff5e6ae03d495cda8553636bd7aa3f9467c"
+}

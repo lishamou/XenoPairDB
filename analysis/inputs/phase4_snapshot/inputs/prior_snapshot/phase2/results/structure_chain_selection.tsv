@@ -1,0 +1,11 @@
+gene	pdb	template_chain	candidate_partner_chains	human_template_residue_pairs_5A
+ICAM1	1MQ8	A	B	43
+ICAM1	1MQ8	A	D	0
+ULBP1	1KCG	C	AB	49
+CD86	1I8L	A	C	44
+CD86	1I8L	A	D	0
+CD274	4ZQK	A	B	56
+THBD	1DX5	I	MA	51
+THBD	1DX5	I	NB	0
+THBD	1DX5	I	OC	0
+THBD	1DX5	I	PD	0

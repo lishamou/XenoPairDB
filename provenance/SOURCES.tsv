@@ -1,0 +1,7 @@
+source	identifier	source_url	license	archive_scope
+Liu proteomics	10.1021/acs.jproteome.5c01244.s001	https://api.figshare.com/v2/articles/33126714	CC-BY-NC-4.0	analysis/inputs/phase4_snapshot/inputs/public/Supplementary Table S*.xlsx
+Anand functional source data	10.1038/s41586-023-06594-4	https://www.nature.com/articles/s41586-023-06594-4	CC-BY-4.0	analysis/inputs/phase4_snapshot/inputs/public/41586_2023_6594_MOESM*.xlsx
+Nanno glycan array	10.1371/journal.pone.0253029	https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253029	CC0-1.0	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/inputs/public/nanno2021_*
+UniProt protein annotations	UniProtKB 2026_03; cached UniSave entries	https://rest.uniprot.org/	CC-BY-4.0	analysis/inputs/uniprot/; sequence input JSON
+PDB experimental templates	1DX5;1I8L;1KCG;1MQ8;4ZQK	https://www.rcsb.org/	CC0-1.0	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/inputs/structures/
+AlphaFold monomers	Per-record accession and model versions in *_af_metadata.json	https://alphafold.ebi.ac.uk/	CC-BY-4.0	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/inputs/structures/

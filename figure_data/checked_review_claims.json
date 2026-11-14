@@ -1,0 +1,23 @@
+{
+  "total_axes": 75,
+  "unique_pair_ids": 75,
+  "evidence": {
+    "direct": 59,
+    "control": 12,
+    "disputed": 4
+  },
+  "sequence_available": 61,
+  "sequence_noncontrol": 51,
+  "stored_numeric": 63,
+  "stored_noncontrol": 51,
+  "stored_control": 12,
+  "missing_noncontrol": 12,
+  "missing_noncontrol_stored_numeric": 0,
+  "EPO_axes": [
+    "XP049"
+  ],
+  "CD99_core_axes": [],
+  "XP045": "IFNG(pig)",
+  "same_cohort_no_divergence_total": 36.14412,
+  "THBD_interface_pLDDT_at_5A": 82.3785
+}

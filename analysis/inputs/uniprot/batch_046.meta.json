@@ -1,0 +1,26 @@
+{
+  "requested": [
+    "Q9N186",
+    "Q9TSW7",
+    "Q9TSX9",
+    "Q9TTJ7",
+    "Q9TTK7",
+    "Q9TTM9",
+    "Q9TUH9",
+    "Q9TUI4",
+    "Q9TUI8",
+    "Q9XT90",
+    "R4JU57",
+    "T1UMR1",
+    "T1UNQ6"
+  ],
+  "url": "https://rest.uniprot.org/uniprotkb/search?query=%28accession%3AQ9N186+OR+sec_acc%3AQ9N186+OR+accession%3AQ9TSW7+OR+sec_acc%3AQ9TSW7+OR+accession%3AQ9TSX9+OR+sec_acc%3AQ9TSX9+OR+accession%3AQ9TTJ7+OR+sec_acc%3AQ9TTJ7+OR+accession%3AQ9TTK7+OR+sec_acc%3AQ9TTK7+OR+accession%3AQ9TTM9+OR+sec_acc%3AQ9TTM9+OR+accession%3AQ9TUH9+OR+sec_acc%3AQ9TUH9+OR+accession%3AQ9TUI4+OR+sec_acc%3AQ9TUI4+OR+accession%3AQ9TUI8+OR+sec_acc%3AQ9TUI8+OR+accession%3AQ9XT90+OR+sec_acc%3AQ9XT90+OR+accession%3AR4JU57+OR+sec_acc%3AR4JU57+OR+accession%3AT1UMR1+OR+sec_acc%3AT1UMR1+OR+accession%3AT1UNQ6+OR+sec_acc%3AT1UNQ6%29&format=json&size=500",
+  "retrieved_at": "2026-11-03T16:26:51.962308+00:00",
+  "status": 200,
+  "release": "2026_03",
+  "release_date": "02-September-2026",
+  "total": "13",
+  "link": null,
+  "received": 13,
+  "sha256": "9e9c0854cbba2a23139ae830f2ff655e2cc537ca53e1bc33d64aaf7ee9c07828"
+}

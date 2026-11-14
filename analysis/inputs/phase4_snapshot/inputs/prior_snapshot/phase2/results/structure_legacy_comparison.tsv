@@ -1,0 +1,4 @@
+gene	legacy_rmsd	legacy_n_pairs	legacy_contacts8A	new_raw_rmsd	new_n_aligned	new_contact_residues8A	new_residue_pairs8A	model_version	comparison
+ICAM1	1.81	178	23	1.80879694189982	178	34	164	AF_v6	same_current_protocol_not_exact_historical_model_replay
+ULBP1	2.61	170	27	2.60546388459281	170	56	239	AF_v6	same_current_protocol_not_exact_historical_model_replay
+CD86	3.55	74	20	8.14567064327446	162	28	141	AF_v6	same_current_protocol_not_exact_historical_model_replay

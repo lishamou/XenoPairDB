@@ -1,0 +1,2 @@
+gene	log2fc	n_peptides	source_enriched	acc	antigenicity_v2	rank_v2	historical_positive
+PON1	-1.47393118833	1	False	A0A5G2RKR5	0.731726566294	615	False

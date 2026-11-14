@@ -1,0 +1,15 @@
+pair_id	evidence	missing_sequence	missing_stored_score	resolution
+XP004	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP005	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP022	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP023	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP024	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP026	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP027	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP028	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP054	control	True	False	structural_feature_unknown_zero_severity_control
+XP063	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP068	control	True	False	structural_feature_unknown_zero_severity_control
+XP074	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP078	direct	True	True	UNRESOLVED_no_imputation_in_main
+XP079	direct	True	True	UNRESOLVED_no_imputation_in_main

@@ -1,0 +1,596 @@
+{
+  "python": "3.9.6 (default, Mar  6 2026, 16:22:43) \n[Clang 21.0.0 (clang-2100.0.123.102)]",
+  "platform": "macOS-26.4.1-arm64-arm-64bit",
+  "stages": [
+    {
+      "stage": "catalogue",
+      "seconds": 0.402069091796875,
+      "returncode": 0
+    },
+    {
+      "stage": "scoring_benchmarks",
+      "seconds": 12.19848895072937,
+      "returncode": 0
+    },
+    {
+      "stage": "structure",
+      "seconds": 1.6793959140777588,
+      "returncode": 0
+    },
+    {
+      "stage": "additional_sensitivities",
+      "seconds": 2.0504512786865234,
+      "returncode": 0
+    },
+    {
+      "stage": "sequence_organ_antigen",
+      "seconds": 3.43538498878479,
+      "returncode": 0
+    },
+    {
+      "stage": "noncircular_score_diagnostic",
+      "seconds": 2.4246060848236084,
+      "returncode": 0
+    },
+    {
+      "stage": "glycan_array",
+      "seconds": 0.16210198402404785,
+      "returncode": 0
+    },
+    {
+      "stage": "public_proteomics_function",
+      "seconds": 5.238191843032837,
+      "returncode": 0
+    },
+    {
+      "stage": "identifier_sensitivity",
+      "seconds": 9.773376941680908,
+      "returncode": 0
+    },
+    {
+      "stage": "figure_sources",
+      "seconds": 0.2163081169128418,
+      "returncode": 0
+    },
+    {
+      "stage": "supplementary_displays",
+      "seconds": 0.21387267112731934,
+      "returncode": 0
+    }
+  ],
+  "comparisons": [
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_benchmark_metrics.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_external_evidence.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_positive_ranks.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_priority_all.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_publication_sensitivity.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_score_reconciliation.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_source_cluster_ci.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_top_fraction_recall.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/antigen_unscoreable.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/donor_pairwise_differences.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/donor_pairwise_sensitivity.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/donor_perturbation_draws.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/donor_scenario_scorecards.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/donor_sensitivity_intervals.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/external_human_IgM_2024_mapping.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/glycan_enzyme_panel.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/isi_ablation_metrics.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/isi_axis_ranks.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/isi_common_cohort.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/isi_interface_crosswalk.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/isi_interface_metrics.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/isi_missing_feature_inventory.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/isi_phase1_baseline_bridge.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/isi_rank_stability.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/label_feature_leakage.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/matched_background_membership.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/matched_pool_balance.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/CD274_filtered_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/CD274_raw_all_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/CD86_filtered_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/CD86_raw_all_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/ICAM1_filtered_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/ICAM1_raw_all_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/THBD_filtered_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/THBD_raw_all_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/ULBP1_filtered_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/models/ULBP1_raw_all_CA.pdb",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_chain_selection.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_contacts.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_geometry_perturbations.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_geometry_sensitivity.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_input_validation.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_legacy_comparison.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_metrics.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_residue_mapping.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/structure_validation_limits.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/tier2_axis_crosswalk.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/tier2_filter_funnel.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/tier2_retrospective_metrics.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/tier2_score_audit.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/tier2_weight_sensitivity.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/validation_gap_inventory.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/antigen_evidence_sensitivity.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/antigen_extended_multiplicity.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/glyco_topology_motifs.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/glyco_topology_summary.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/isi_500_split_diagnostics.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/isi_500_split_summary.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/isi_dependency_groups.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/isi_leakage_axis_audit.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/isi_leakage_diagnosis.json",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/isi_nonlabel_feature_metrics.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/nanno2021_glycan_array_long.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/nanno2021_glycan_array_qc.json",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/nanno2021_glycan_components.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/nanno2021_monkey_metadata.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/organ_annotation_membership.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/organ_annotation_scorecards.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/organ_expression_provenance_audit.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/sequence_domain_qc.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/axis_donor_contributions.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/axis_donor_masks.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/axis_score_reconciliation.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/axis_scores_long.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/coverage_conflict_attribution.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/donor_residual_by_system.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/donor_scorecard.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/edit_axis_mapping.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/edit_mapping_diff.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/edit_related_axes_pending.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/legacy_code_replay_axis_scores.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/legacy_code_replay_residual_by_system.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/legacy_code_replay_scorecard.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/legacy_matrix_system_reconciliation.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/missing_score_impact.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/anand_binding_descriptive.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/anand_contrasts.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/anand_source_points.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_abundance_complete_cases.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_associations.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_complete_control_cohort.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_exact_accession_cohort.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_flow.json",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_global_abundance_mapping.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_glycopeptide_concordance.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_peptide_mapping.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_primary_cohort.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_protein_level_cohort.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_protein_level_mapping.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_protein_observed.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_source_model_cohort.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/inputs/phase4_snapshot/results/liu_top_decile_enrichment.json",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/archive_resolutions.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/baseline_identity_conflicts.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M0_observed_control.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M0_source_model_FC.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M1_observed_control.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M1_source_model_FC.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M2_observed_control.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M2_source_model_FC.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M3_observed_control.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M3_source_model_FC.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M4_observed_control.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M4_source_model_FC.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M5_observed_control.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/cohort_M5_source_model_FC.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/identifier_inventory.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/mapping_funnel.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/mapping_sensitivity_statistics.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/mapping_summary.json",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/member_mapping.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "analysis/results/row_mapping_audit.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figure_data/checked_review_claims.json",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figure_data/liver_mask_explanation.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figure_data/supplementary_8A_contacts.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figure_data/supplementary_count_coverage.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figure_data/supplementary_full_length_qc.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figure_data/supplementary_scenario_scorecards.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figure_data/supplementary_tier2_crosswalk.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figures/figure1_source.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figures/figure2_source.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figures/figure3_source.tsv",
+      "status": "BYTE_IDENTICAL"
+    },
+    {
+      "file": "figures/figure4_source.tsv",
+      "status": "BYTE_IDENTICAL"
+    }
+  ],
+  "passed": true
+}

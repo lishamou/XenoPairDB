@@ -1,0 +1,25 @@
+donor	quantity	median	sensitivity_p025	sensitivity_p975	draws	interval_type
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	T	1064.78582993679	1041.35814454107	1090.59327942354	2000	parameter_sensitivity_NOT_biological_CI
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	A	41.5548201678052	31.4786739802255	52.2021528437767	2000	parameter_sensitivity_NOT_biological_CI
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	R	1023.24203285472	997.562656874204	1050.02538078235	2000	parameter_sensitivity_NOT_biological_CI
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	C	0.0390548175748985	0.0295284681613191	0.0491551962005406	2000	parameter_sensitivity_NOT_biological_CI
+ClonOrgan-8GE (Xijing kidney #2 2026)	T	1064.78582993679	1041.35814454107	1090.59327942354	2000	parameter_sensitivity_NOT_biological_CI
+ClonOrgan-8GE (Xijing kidney #2 2026)	A	52.6017714833616	41.235701601057	64.6073926027787	2000	parameter_sensitivity_NOT_biological_CI
+ClonOrgan-8GE (Xijing kidney #2 2026)	R	1012.44630355146	986.657292676262	1039.8271865669	2000	parameter_sensitivity_NOT_biological_CI
+ClonOrgan-8GE (Xijing kidney #2 2026)	C	0.0494123799743386	0.0389622395451239	0.06068299256413	2000	parameter_sensitivity_NOT_biological_CI
+GTKO (NYU 2021-23)	T	1064.78582993679	1041.35814454107	1090.59327942354	2000	parameter_sensitivity_NOT_biological_CI
+GTKO (NYU 2021-23)	A	0	0	0	2000	parameter_sensitivity_NOT_biological_CI
+GTKO (NYU 2021-23)	R	1064.78582993679	1041.35814454107	1090.59327942354	2000	parameter_sensitivity_NOT_biological_CI
+GTKO (NYU 2021-23)	C	0	0	0	2000	parameter_sensitivity_NOT_biological_CI
+Revivicor-10GE (Maryland heart/NYU kidney)	T	1064.78582993679	1041.35814454107	1090.59327942354	2000	parameter_sensitivity_NOT_biological_CI
+Revivicor-10GE (Maryland heart/NYU kidney)	A	63.232934827016	51.245020722774	75.9274198021262	2000	parameter_sensitivity_NOT_biological_CI
+Revivicor-10GE (Maryland heart/NYU kidney)	R	1001.5009910174	975.321061394281	1029.09085983598	2000	parameter_sensitivity_NOT_biological_CI
+Revivicor-10GE (Maryland heart/NYU kidney)	C	0.0593676984655592	0.0483691492048958	0.0713879042229477	2000	parameter_sensitivity_NOT_biological_CI
+Yunnan-10GE (Anhui auxiliary liver 2024)	T	1064.78582993679	1041.35814454107	1090.59327942354	2000	parameter_sensitivity_NOT_biological_CI
+Yunnan-10GE (Anhui auxiliary liver 2024)	A	90.2091167378376	74.437229213203	106.756831775183	2000	parameter_sensitivity_NOT_biological_CI
+Yunnan-10GE (Anhui auxiliary liver 2024)	R	974.730990622164	947.787523056693	1003.00364210092	2000	parameter_sensitivity_NOT_biological_CI
+Yunnan-10GE (Anhui auxiliary liver 2024)	C	0.0846593622175192	0.0699258935829147	0.0999919996629113	2000	parameter_sensitivity_NOT_biological_CI
+eGenesis-69GE (MGH kidney 2024-25)	T	1064.78582993679	1041.35814454107	1090.59327942354	2000	parameter_sensitivity_NOT_biological_CI
+eGenesis-69GE (MGH kidney 2024-25)	A	68.2177766966947	55.0711644226644	82.1560767903501	2000	parameter_sensitivity_NOT_biological_CI
+eGenesis-69GE (MGH kidney 2024-25)	R	996.460958340218	970.539429678283	1025.35659583205	2000	parameter_sensitivity_NOT_biological_CI
+eGenesis-69GE (MGH kidney 2024-25)	C	0.0640842854214226	0.0518480721484651	0.0770970213281639	2000	parameter_sensitivity_NOT_biological_CI

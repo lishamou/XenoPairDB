@@ -1,0 +1,13 @@
+gene	historical_source	historical_source_checked	historical_assay_species	new_checked_source	new_endpoint	in_scoreable_universe	evidence_label_modified	independent_heldout_gene	limitation
+PROCR	21119562	abstract	NHP	38853364_Table1	human_preformed_IgM_cell_binding	True	False	False	literature_support_not_new_experiment
+FAM234A	10.3969/j.issn.1674-7445.2018.05.006	not_verified_this_round	unresolved	NA	NA	True	False	False	literature_support_not_new_experiment
+CDH1	22497511	abstract	human_IgG	NA	NA	True	False	False	literature_support_not_new_experiment
+CFTR	22497511	abstract	human_IgG	NA	NA	True	False	False	literature_support_not_new_experiment
+CD9	21119562	abstract	NHP	38853364_Table1	human_preformed_IgM_cell_binding	True	False	False	literature_support_not_new_experiment
+CD46	21119562	abstract	NHP	38853364_Table1	human_preformed_IgM_cell_binding	True	False	False	literature_support_not_new_experiment
+CD55	UNRESOLVED	not_verified_this_round	unresolved	NA	NA	True	False	False	CD55_original_positive_support_unresolved
+CD59	21119562	abstract	NHP	38853364_Table1	human_preformed_IgM_cell_binding	True	False	False	literature_support_not_new_experiment
+ANXA2	21119562	abstract	NHP	38853364_Table1	human_preformed_IgM_cell_binding	False	False	False	literature_support_not_new_experiment
+ENO1	22497511	abstract	human_IgG	NA	NA	False	False	False	literature_support_not_new_experiment
+SLA-I	UNRESOLVED	not_verified_this_round	unresolved	NA	NA	False	False	False	literature_support_not_new_experiment
+SLA-II	UNRESOLVED	not_verified_this_round	unresolved	NA	NA	False	False	False	literature_support_not_new_experiment

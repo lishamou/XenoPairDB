@@ -1,0 +1,9 @@
+{
+  "requested": "F1S2F6",
+  "url": "https://rest.uniprot.org/uniprotkb/F1S2F6.json",
+  "retrieved_at": "2026-11-03T16:30:40.084665+00:00",
+  "status": 200,
+  "final_url": "https://rest.uniprot.org/uniprotkb/Q9MZ15?from=F1S2F6",
+  "release": "2026_03",
+  "sha256": "3d9b766ed9152a02eb8503d570c23ce19f8fc9c8dbaac84caec7cf3616b91f5f"
+}

@@ -1,0 +1,12 @@
+topic	code	outputs
+Catalogue, scores and donor targeting	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/src/recompute_scores_and_donors.py	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/results/
+ISI, Tier-2, antigen-reference comparisons	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/src/analyze.py	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/
+Structural fits, contacts, technical perturbations	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/src/structures.py	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/
+Supplementary structural and antigen sensitivity	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/src/supplement.py	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase2/results/
+Sequence/topology QC, organ strata and CD55 sensitivity	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/src/complete_analyses.py	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/
+Non-circular sequence diagnostic	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/src/isi_leakage_audit.py	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/
+Glycan-array extraction	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/src/extract_nanno2021_glycan_array.py	analysis/inputs/phase4_snapshot/inputs/prior_snapshot/phase3/results/
+Liu primary and Anand functional data	analysis/inputs/phase4_snapshot/src/analyze_public_data.py	analysis/inputs/phase4_snapshot/results/
+Identifier mapping sensitivity	analysis/src/audit_mapping.py	analysis/results/
+Figures 1–4	code/extract_figure_sources.py; code/plot_figures.R	figures/
+Supplementary Tables S18–S22	code/extract_review_tables.py	figure_data/

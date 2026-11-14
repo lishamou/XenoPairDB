@@ -1,0 +1,13 @@
+Mapping / endpoint	n	rho	95% interval	Permutation p	Mapping BH q
+M0 observed	6	-0.714	-1.000 to 0.226	0.13803	NA
+M0 source FC	22	-0.248	-0.663 to 0.252	0.26743	NA
+M1 observed	6	-0.714	-1.000 to 0.226	0.13803	0.22224
+M1 source FC	22	-0.248	-0.663 to 0.252	0.26743	0.26743
+M2 observed	6	-0.714	-1.000 to 0.226	0.13803	0.22224
+M2 source FC	22	-0.248	-0.663 to 0.252	0.26743	0.26743
+M3 observed	7	-0.679	-1.000 to 0.185	0.10836	0.22224
+M3 source FC	28	-0.275	-0.614 to 0.124	0.15557	0.22224
+M4 observed	7	-0.679	-1.000 to 0.185	0.10836	0.22224
+M4 source FC	29	-0.254	-0.585 to 0.128	0.18285	0.22856
+M5 observed	7	-0.679	-1.000 to 0.185	0.10836	0.22224
+M5 source FC	29	-0.280	-0.600 to 0.102	0.14236	0.22224

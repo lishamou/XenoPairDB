@@ -1,0 +1,3 @@
+pair_id	pig_gene	organs	func_sev	identity	included_annotation_subset
+XP009	PROCR	all	0	71.6	True
+XP052	GHR	heart,kidney	0.9	84.6	False

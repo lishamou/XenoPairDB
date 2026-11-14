@@ -1,0 +1,8 @@
+Gene	Source protein group	Rows	Observed E	Mapping basis
+ATP1A1	A0A4X1SUR0;P05024	3	0	Archived gene identity
+CAPZB	A0A5K1U188;A0PFK7	1	0	Official same-gene annotations
+ITGB1	K7GQ83;Q9GLP0	1	0	Official same-gene annotations
+LRP2	A0A287AZ36;C0HL13	3	0	Official same-gene annotations
+POR	A0A286ZXA3;P04175	1	0	Official same-gene annotations
+RPN1	A0A480VU46;Q9GMB0	1	1	Official same-gene annotations
+SLC25A6	A0A5G2RDZ2;Q6QRN9	4	0	Merged accession and GeneID

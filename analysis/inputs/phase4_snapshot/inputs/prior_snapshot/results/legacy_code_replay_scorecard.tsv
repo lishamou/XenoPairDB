@@ -1,0 +1,7 @@
+donor	pairs_fixed	ISI_coverage%	top_residual
+GTKO (NYU 2021-23)	1	0.0	CD58/CD2; IFNGR1/2/IFNG; IFNG(pig)/IFNGR
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	5	5.7	CD58/CD2; IFNGR1/2/IFNG; IFNG(pig)/IFNGR
+ClonOrgan-8GE (Xijing kidney #2 2026)	6	6.9	CD58/CD2; IFNGR1/2/IFNG; IFNG(pig)/IFNGR
+Yunnan-10GE (Anhui auxiliary liver 2024)	9	11.6	CD58/CD2; IFNGR1/2/IFNG; IFNG(pig)/IFNGR
+Revivicor-10GE (Maryland heart/NYU kidney)	7	6.9	CD58/CD2; IFNGR1/2/IFNG; IFNG(pig)/IFNGR
+eGenesis-69GE (MGH kidney 2024-25)	8	8.9	CD58/CD2; IFNGR1/2/IFNG; IFNG(pig)/IFNGR

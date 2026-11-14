@@ -1,0 +1,1667 @@
+{
+  "entryType": "UniProtKB reviewed (Swiss-Prot)",
+  "primaryAccession": "P17803",
+  "secondaryAccessions": [
+    "Q53ZP3"
+  ],
+  "uniProtkbId": "IFNG_PIG",
+  "entryAudit": {
+    "firstPublicDate": "1990-08-01",
+    "lastAnnotationUpdateDate": "2026-09-02",
+    "lastSequenceUpdateDate": "1990-08-01",
+    "entryVersion": 166,
+    "sequenceVersion": 1
+  },
+  "annotationScore": 5.0,
+  "organism": {
+    "scientificName": "Sus scrofa",
+    "commonName": "Pig",
+    "taxonId": 9823,
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Laurasiatheria",
+      "Artiodactyla",
+      "Suina",
+      "Suidae",
+      "Sus"
+    ]
+  },
+  "proteinExistence": "2: Evidence at transcript level",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "value": "Interferon gamma"
+      },
+      "shortNames": [
+        {
+          "value": "IFN-gamma"
+        }
+      ]
+    },
+    "flag": "Precursor"
+  },
+  "genes": [
+    {
+      "geneName": {
+        "value": "IFNG"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P01579"
+            },
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P01580"
+            }
+          ],
+          "value": "Type II interferon produced by immune cells such as T-cells and NK cells that plays crucial roles in antimicrobial, antiviral, and antitumor responses by activating effector immune cells and enhancing antigen presentation. Primarily signals through the JAK-STAT pathway after interaction with its receptor IFNGR1 to affect gene regulation. Upon IFNG binding, IFNGR1 intracellular domain opens out to allow association of downstream signaling components JAK2, JAK1 and STAT1, leading to STAT1 activation, nuclear translocation and transcription of IFNG-regulated genes. Many of the induced genes are transcription factors such as IRF1 that are able to further drive regulation of a next wave of transcription. Plays a role in class I antigen presentation pathway by inducing a replacement of catalytic proteasome subunits with immunoproteasome subunits. In turn, increases the quantity, quality, and repertoire of peptides for class I MHC loading. Increases the efficiency of peptide generation also by inducing the expression of activator PA28 that associates with the proteasome and alters its proteolytic cleavage preference. Up-regulates as well MHC II complexes on the cell surface by promoting expression of several key molecules such as cathepsins B/CTSB, H/CTSH, and L/CTSL (By similarity). Participates in the regulation of hematopoietic stem cells during development and under homeostatic conditions by affecting their development, quiescence, and differentiation (By similarity)"
+        }
+      ],
+      "commentType": "FUNCTION"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P01579"
+            }
+          ],
+          "value": "Homodimer. Interacts with IFNGR1 (via extracellular domain); this interaction promotes IFNGR1 dimerization"
+        }
+      ],
+      "commentType": "SUBUNIT"
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "subcellularLocations": [
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "source": "UniProtKB",
+                "id": "P01579"
+              }
+            ],
+            "value": "Secreted",
+            "id": "SL-0243"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "value": "Released primarily from activated T lymphocytes"
+        }
+      ],
+      "commentType": "TISSUE SPECIFICITY"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000255",
+              "source": "PROSITE-ProRule",
+              "id": "PRU01421"
+            },
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ],
+          "value": "Belongs to the type II (or gamma) interferon family"
+        }
+      ],
+      "commentType": "SIMILARITY"
+    }
+  ],
+  "features": [
+    {
+      "type": "Signal",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 23,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ]
+    },
+    {
+      "type": "Chain",
+      "location": {
+        "start": {
+          "value": 24,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 166,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Interferon gamma",
+      "featureId": "PRO_0000016455"
+    },
+    {
+      "type": "Modified residue",
+      "location": {
+        "start": {
+          "value": 24,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 24,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Pyrrolidone carboxylic acid",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "P01579"
+        }
+      ]
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 39,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 39,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ],
+      "featureId": ""
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 106,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 106,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ],
+      "featureId": ""
+    }
+  ],
+  "keywords": [
+    {
+      "id": "KW-0051",
+      "category": "Biological process",
+      "name": "Antiviral defense"
+    },
+    {
+      "id": "KW-0202",
+      "category": "Molecular function",
+      "name": "Cytokine"
+    },
+    {
+      "id": "KW-0325",
+      "category": "PTM",
+      "name": "Glycoprotein"
+    },
+    {
+      "id": "KW-0341",
+      "category": "Biological process",
+      "name": "Growth regulation"
+    },
+    {
+      "id": "KW-0873",
+      "category": "PTM",
+      "name": "Pyrrolidone carboxylic acid"
+    },
+    {
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "id": "KW-0964",
+      "category": "Cellular component",
+      "name": "Secreted"
+    },
+    {
+      "id": "KW-0732",
+      "category": "Domain",
+      "name": "Signal"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "2115994",
+        "citationType": "journal article",
+        "authors": [
+          "Dukmans R.",
+          "Vandenbroeck K.",
+          "Beuken E.",
+          "Billiau A."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "2115994"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1093/nar/18.14.4259"
+          }
+        ],
+        "title": "Sequence of the porcine interferon-gamma (IFN-gamma) gene.",
+        "publicationDate": "1990",
+        "journal": "Nucleic Acids Res.",
+        "firstPage": "4259",
+        "lastPage": "4259",
+        "volume": "18"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Liver",
+          "type": "TISSUE"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "1953787",
+        "citationType": "journal article",
+        "authors": [
+          "Vandenbroeck K.",
+          "Dijkmans R.",
+          "van Aerschot A.",
+          "Billiau A."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "1953787"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1016/s0006-291x(05)81353-1"
+          }
+        ],
+        "title": "Engineering by PCR-based exon amplification of the genomic porcine interferon-gamma DNA for expression in Escherichia coli.",
+        "publicationDate": "1991",
+        "journal": "Biochem. Biophys. Res. Commun.",
+        "firstPage": "1408",
+        "lastPage": "1415",
+        "volume": "180"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+      ]
+    },
+    {
+      "referenceNumber": 3,
+      "citation": {
+        "id": "CI-1QB3RULGVFJU9",
+        "citationType": "submission",
+        "authors": [
+          "Li J.",
+          "Gao R.",
+          "Wu M.",
+          "Long Z.",
+          "Tang M.",
+          "Shen Y.",
+          "Liu S."
+        ],
+        "title": "Cloning and sequence analysis of gamma interferon gene from Chenghua swine.",
+        "publicationDate": "MAR-2002",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Chenghua",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Blood",
+          "type": "TISSUE"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 4,
+      "citation": {
+        "id": "CI-3S61K6EF153U2",
+        "citationType": "submission",
+        "authors": [
+          "Fan Y.-H.",
+          "Chiou S.-H."
+        ],
+        "title": "Isolation of porcine interferon gamma (IFN-gamma) cDNA.",
+        "publicationDate": "NOV-2002",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA]"
+      ]
+    },
+    {
+      "referenceNumber": 5,
+      "citation": {
+        "id": "CI-458UNLNFG5AFQ",
+        "citationType": "journal article",
+        "authors": [
+          "Li H.",
+          "Gao R.",
+          "Wu M.",
+          "Wang L.",
+          "Din X.",
+          "Liu S."
+        ],
+        "title": "Cloning and analyzing of interferon gamma cDNA from the lymphocyte of Tibet pig.",
+        "publicationDate": "2003",
+        "journal": "Zhongguo Shouyi Ke-ji",
+        "firstPage": "48",
+        "lastPage": "51",
+        "volume": "5"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Tibetan",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 6,
+      "citation": {
+        "id": "CI-3J1322TL4A4LV",
+        "citationType": "submission",
+        "authors": [
+          "Yao Q.",
+          "Qian P.",
+          "Chen H."
+        ],
+        "title": "Cloning and expression of Meishan porcine interferon-gamma.",
+        "publicationDate": "JUN-2006",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Meishan",
+          "type": "STRAIN"
+        }
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "EMBL",
+      "id": "X53085",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "CAA37252.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "S63967",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAB20280.2"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF493993",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAM27193.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY188090",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAO34390.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY293733",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAQ24335.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "DQ666352",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ABG56234.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "PIR",
+      "id": "S10513",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "S10513"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_999113.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_213948.1"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "P17803",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SMR",
+      "id": "P17803",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "FunCoup",
+      "id": "P17803",
+      "properties": [
+        {
+          "key": "Number of interactors",
+          "value": "324"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "9823.ENSSSCP00000036242",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GlyCosmos",
+      "id": "P17803",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "2 sites, No reported glycans"
+        }
+      ]
+    },
+    {
+      "database": "GlyGen",
+      "id": "P17803",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "2 sites"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "9823-ENSSSCP00000036242",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00000055560.3",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00000036242.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00000032963.3"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00005021393.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00005012798.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00005013687.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00015040250.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00015015925.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00015030217.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00025093074.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00025040846.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00025067625.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00030062911.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00030028770.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00030045037.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00035020679.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00035007438.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00035016188.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00040105617.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00040048403.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00040075965.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00045055148.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00045038447.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00045032308.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00050006621.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00050002878.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00050004801.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00055038970.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00055030990.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00055019876.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00060092468.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00060039973.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00060067729.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00065053228.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00065023138.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00065038935.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00070017081.1",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00070014136.1"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00070008806.1"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSSSCT00085006647",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSSSCP00085004985"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSSSCG00085003551"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "396991",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "ssc:396991",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CTD",
+      "id": "3458",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VGNC",
+      "id": "VGNC:89040",
+      "properties": [
+        {
+          "key": "GeneName",
+          "value": "IFNG"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "ENOG502SBGW",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT00390000007831",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HOGENOM",
+      "id": "CLU_135106_0_0_1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "InParanoid",
+      "id": "P17803",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OMA",
+      "id": "QIVSMYL",
+      "properties": [
+        {
+          "key": "Fingerprint",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "9937106at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-877300",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Interferon gamma signaling"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-877312",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Regulation of IFNG signaling"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-SSC-9732724",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "IFNG signaling activates MAPKs"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000008227",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 5"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSSSCG00000032963",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in caecum and 19 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "ExpressionAtlas",
+      "id": "P17803",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "baseline and differential"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005576",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:extracellular region"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "ISS:UniProtKB"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005125",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:cytokine activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005133",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:type II interferon receptor binding"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:InterPro"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0002250",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:adaptive immune response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0048143",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:astrocyte activation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0097696",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:cell surface receptor signaling pathway via STAT"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0097191",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:extrinsic apoptotic signaling pathway"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0038096",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:Fc-gamma receptor signaling pathway involved in phagocytosis"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006959",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:humoral immune response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0042116",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:macrophage activation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0002281",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:macrophage activation involved in immune response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0030225",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:macrophage differentiation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0001774",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:microglial cell activation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045892",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of DNA-templated transcription"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0032700",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of interleukin-17 production"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0048662",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of smooth muscle cell proliferation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1902004",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of amyloid-beta formation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0010508",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of autophagy"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "ISS:UniProtKB"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045785",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of cell adhesion"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-ARBA"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0032722",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of chemokine production"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0010634",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of epithelial cell migration"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0060552",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of fructose 1,6-bisphosphate metabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0050729",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of inflammatory response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0032735",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of interleukin-12 production"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0032747",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of interleukin-23 production"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0032755",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of interleukin-6 production"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0051044",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of membrane protein ectodomain proteolysis"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0050769",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of neurogenesis"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045429",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of nitric oxide biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045672",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of osteoclast differentiation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0034393",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of smooth muscle cell apoptotic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:2000309",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of tumor necrosis factor (ligand) superfamily member 11 production"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0060557",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of vitamin D biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0050796",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:regulation of insulin secretion"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0060333",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:type II interferon-mediated signaling pathway"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0038196",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:type III interferon-mediated signaling pathway"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "1.20.1250.10:FF:000007",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Interferon gamma"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "1.20.1250.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "-"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR009079",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "4_helix_cytokine-like_core"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR002069",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Interferon_gamma"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR11419",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "INTERFERON GAMMA"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR11419:SF0",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "INTERFERON GAMMA"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF00714",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "IFN-gamma"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PIRSF",
+      "id": "PIRSF001936",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "IFN-gamma"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF47266",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "4-helical cytokines"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS52076",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "IFN_II"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MSYTTYFLAFQLCVTLCFSGSYCQAPFFKEITILKDYFNASTSDVPNGGPLFLEILKNWKEESDKKIIQSQIVSFYFKFFEIFKDNQAIQRSMDVIKQDMFQRFLNGSSGKLNDFEKLIKIPVDNLQIQRKAISELIKVMNDLSPRSNLRKRKRSQTMFQGQRASK",
+    "length": 166,
+    "molWeight": 19419,
+    "crc64": "19B51CC05D5ED276",
+    "md5": "C5CC51AAA7DBFDEBAEF1E68C75B6FD44"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "FUNCTION": 1,
+      "SUBUNIT": 1,
+      "SUBCELLULAR LOCATION": 1,
+      "TISSUE SPECIFICITY": 1,
+      "SIMILARITY": 1
+    },
+    "countByFeatureType": {
+      "Signal": 1,
+      "Chain": 1,
+      "Modified residue": 1,
+      "Glycosylation": 2
+    },
+    "uniParcId": "UPI00000060CA"
+  }
+}

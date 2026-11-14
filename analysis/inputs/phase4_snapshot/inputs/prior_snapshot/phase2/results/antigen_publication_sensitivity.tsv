@@ -1,0 +1,5 @@
+excluded_publication	n_positive	probability_superiority	mean_score	interpretation
+2018_FAM234A	7	0.833061323703035	0.797463090039429	leave_one_publication_out_descriptive
+21119562	4	0.812743072435586	0.75335092188275	leave_one_publication_out_descriptive
+22497511	6	0.917355371900826	0.886371906841167	leave_one_publication_out_descriptive
+source_unresolved	7	0.827713730120147	0.781850003465571	leave_one_publication_out_descriptive

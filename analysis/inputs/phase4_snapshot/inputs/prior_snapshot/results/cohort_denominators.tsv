@@ -1,0 +1,16 @@
+scope	category	n
+resource	all_axes	75
+resource	non_control	63
+features	sequence_identity_numeric	61
+features	interface_identity_numeric	3
+legacy_score	ISI_v2_numeric	63
+legacy_score	non_control_ISI_v2_numeric	51
+system	Adhesion	10
+system	Coagulation	12
+system	Complement	9
+system	Cytokine	15
+system	Endocrine	7
+system	Immune	22
+evidence	control	12
+evidence	direct	59
+evidence	disputed	4

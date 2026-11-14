@@ -1,0 +1,6 @@
+gene	uniprot	taxon	sequence_length	model	version	sequence_exact	pdb_template	template_species	role	caveat
+ICAM1	F1S3J9	9823	537	AF-F1S3J9-F1	6	True	1MQ8	9606	original_case	ITGAL_I_domain_only_not_full_heterodimer
+ULBP1	I6L5V9	9823	247	AF-I6L5V9-F1	6	True	1KCG	9606	original_case	human_ULBP3_paralog_template
+CD86	K7GMU1	9823	337	AF-K7GMU1-F1	6	True	1I8L	9606	original_case	human_CD80_paralog_template
+CD274	A0A8D2BPF9	9823	300	AF-A0A8D2BPF9-F1	6	True	4ZQK	9606	preserved_function_control	PMID17489864_PD1_dependent_inhibition
+THBD	A0A8W4FEQ7	9823	579	AF-A0A8W4FEQ7-F1	6	True	1DX5	9606	impaired_cofactor_control	PMID18444940_thrombin_binding_preserved_PC_activation_impaired_template_endpoint_mismatch

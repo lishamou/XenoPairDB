@@ -1,0 +1,11 @@
+gene	mode	retained_fraction	severe_fit_selection	has_interface_pLDDT_below70	paralog_template	relaxation_performed	independent_complex_prediction	functional_endpoint_validated	role	status
+ICAM1	raw_all_CA	1	False	False	False	False	False	False	original_case	NOT_VALIDATED_function;geometry_only
+ICAM1	filtered_CA	0.904494382022472	False	False	False	False	False	False	original_case	NOT_VALIDATED_function;geometry_only
+ULBP1	raw_all_CA	1	False	False	True	False	False	False	original_case	NOT_VALIDATED_function;geometry_only
+ULBP1	filtered_CA	0.805882352941176	False	False	True	False	False	False	original_case	NOT_VALIDATED_function;geometry_only
+CD86	raw_all_CA	1	False	False	True	False	False	False	original_case	NOT_VALIDATED_function;geometry_only
+CD86	filtered_CA	0.0740740740740741	True	False	True	False	False	False	original_case	NOT_VALIDATED_function;geometry_only
+CD274	raw_all_CA	1	False	False	False	False	False	False	preserved_function_control	NOT_VALIDATED_function;geometry_only
+CD274	filtered_CA	0.982608695652174	False	False	False	False	False	False	preserved_function_control	NOT_VALIDATED_function;geometry_only
+THBD	raw_all_CA	1	False	True	False	False	False	False	impaired_cofactor_control	NOT_VALIDATED_function;geometry_only
+THBD	filtered_CA	0.752136752136752	False	True	False	False	False	False	impaired_cofactor_control	NOT_VALIDATED_function;geometry_only

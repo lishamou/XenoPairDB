@@ -1,0 +1,38 @@
+{
+  "frozen_rankable": 4122,
+  "historical_positive": 8,
+  "S4_peptide_rows": 704,
+  "S4_protein_rows": 1409,
+  "S3_author_enriched_unique_peptides": 221,
+  "mapping_counts": {
+    "unmapped": 531,
+    "ambiguous_source_group": 143,
+    "unique_explicit_gene": 20,
+    "exact_accession": 10
+  },
+  "primary_exclusion_counts": {
+    "unmapped": 531,
+    "ambiguous_source_group": 143,
+    "no_observed_E": 23,
+    "eligible": 7
+  },
+  "observed_eligible_peptide_rows": 7,
+  "mapped_observed_genes": 6,
+  "legacy_in_observed": [],
+  "primary_n": 6,
+  "primary_unique_peptides": 7,
+  "exact_accession_n": 3,
+  "complete_control_n": 1,
+  "model_n": 22,
+  "abundance_complete_n": 5,
+  "S4_controls_all_missing": 548,
+  "glycopeptide_rows": 371,
+  "glycopeptide_mapped_genes": [
+    "ATP2B4",
+    "FRRS1",
+    "NUMB"
+  ],
+  "scope": "conditional_on_final_S4_assay_universe_NOT_4122_ground_truth_negatives",
+  "score_column": "antigenicity_v2",
+  "rank_column": "rank_v2"
+}

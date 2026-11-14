@@ -1,0 +1,9 @@
+species	antibody	WT_mean	KO_mean	ratio_KO_over_WT	reduction_percent	WT_min	WT_max	KO_min	KO_max	technical_replicates_per_condition	independent_biological_n	source_file	sheet	WT_cells	KO_cells
+Human	IgG	84178	5241.33333333	0.0622648831444	93.7735116856	83698	84521	4903	5462	3	not_estimated_from_technical_triplicates	41586_2023_6594_MOESM3_ESM.xlsx	1b	C2:E2	F2:H2
+Human	IgM	19213.3333333	980	0.0510062456627	94.8993754337	18764	19529	920	1032	3	not_estimated_from_technical_triplicates	41586_2023_6594_MOESM3_ESM.xlsx	1b	I2:K2	L2:N2
+Baboon	IgG	24565	6754.66666667	0.274971164937	72.5028835063	20569	27607	6349	7049	3	not_estimated_from_technical_triplicates	41586_2023_6594_MOESM3_ESM.xlsx	1b	C3:E3	F3:H3
+Baboon	IgM	78184.3333333	26027	0.332892779031	66.7107220969	75343	80092	25217	27345	3	not_estimated_from_technical_triplicates	41586_2023_6594_MOESM3_ESM.xlsx	1b	I3:K3	L3:N3
+Rhesus	IgG	22493	1869	0.0830925176722	91.6907482328	18589	25519	1788	1924	3	not_estimated_from_technical_triplicates	41586_2023_6594_MOESM3_ESM.xlsx	1b	C4:E4	F4:H4
+Rhesus	IgM	70708	17699.3333333	0.250315852992	74.9684147008	70191	71226	17327	18158	3	not_estimated_from_technical_triplicates	41586_2023_6594_MOESM3_ESM.xlsx	1b	I4:K4	L4:N4
+Cyno	IgG	25056	1600.66666667	0.0638835674755	93.6116432524	15636	35082	1456	1728	3	not_estimated_from_technical_triplicates	41586_2023_6594_MOESM3_ESM.xlsx	1b	C5:E5	F5:H5
+Cyno	IgM	181234	24199.3333333	0.133525350284	86.6474649716	178857	183322	24161	24276	3	not_estimated_from_technical_triplicates	41586_2023_6594_MOESM3_ESM.xlsx	1b	I5:K5	L5:N5

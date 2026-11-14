@@ -1,0 +1,9 @@
+{
+  "requested": "A0A8W4FPA2",
+  "url": "https://rest.uniprot.org/uniprotkb/A0A8W4FPA2.json",
+  "retrieved_at": "2026-11-03T16:30:39.548167+00:00",
+  "status": 200,
+  "final_url": "https://rest.uniprot.org/uniprotkb/A0A8W4FPA2.json",
+  "release": "2026_03",
+  "sha256": "55a335dc3cd1e4337460ba4e11f320c51b03e1e724a8593272fb688f2a361e87"
+}

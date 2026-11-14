@@ -1,0 +1,3 @@
+Scope	n / non-control / control	Groups	AUROC (95% interval)	AP / prevalence
+Sequence available	61 / 51 / 10	38	0.625 (0.369–0.809)	0.894 / 0.836
+Excluding disputed	57 / 47 / 10	36	0.604 (0.353–0.802)	0.871 / 0.825

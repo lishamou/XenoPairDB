@@ -1,0 +1,7 @@
+stage	n	status
+published_raw_pool	NA	NOT_REPRODUCED_missing_locked_raw_pool
+frozen_atlas_rows	1407	OBSERVED
+unique_unordered_pairs	1348	OBSERVED_not_directional
+all_axis_candidates	75	OBSERVED
+conservative_gene_pair_overlap	11	OBSERVED
+secreted_branch	NA	NOT_VALIDATED_topology_sequence_inputs_missing

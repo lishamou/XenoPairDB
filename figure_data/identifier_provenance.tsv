@@ -1,0 +1,5 @@
+source	location	old_id	old_pig	old_human	old_direction	old_endpoint	current_id	stable_axis_id	same_id_current_pig	status	basis	decision
+R3.4-FINAL	tier1_frozen.tsv:XP014	XP014	NT5E(CD73)	AMP	pig<-human	adenosine_barrier_loss	XP014	XPA-32146df76ccdfb947527	NT5E(CD73)	EXACT_ENTITY_KEY	4-field exact entity key; no ID-only join	D09
+R3.4-FINAL	tier1_frozen.tsv:XP049	XP049	EPO	EPOR	pig->human	post_tx_anemia	XP049	XPA-610928b56809bd9333d2	EPO	EXACT_ENTITY_KEY	4-field exact entity key; no ID-only join	D09
+reviewed_SI	SI:table8:row6:occ1	XP014	EPO	EPOR	NOT_SPECIFIED	NOT_SPECIFIED	XP049	XPA-610928b56809bd9333d2	NT5E(CD73)	MOLECULAR_MATCH_ENDPOINT_DIRECTION_NOT_SPECIFIED	S6 pig/human columns + current entity fields; direction and functional endpoint absent in SI row	D09; Q01 if evidence/rubric affected
+reviewed_SI	SI:table8:row10:occ1	XP049	EPO	EPOR	NOT_SPECIFIED	NOT_SPECIFIED	XP049	XPA-610928b56809bd9333d2	EPO	MOLECULAR_MATCH_ENDPOINT_DIRECTION_NOT_SPECIFIED	S6 pig/human columns + current entity fields; direction and functional endpoint absent in SI row	D09; Q01 if evidence/rubric affected

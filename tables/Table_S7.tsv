@@ -1,0 +1,6 @@
+Protein	Kept / aligned	Filtered-fit RMSD	All-pair RMSD after filtering	Interface mean pLDDT
+ICAM1	161 / 178	1.187	1.842	92.32
+ULBP1	137 / 170	0.956	2.655	94.18
+CD86	12 / 162	1.103	9.540	95.69
+CD274	113 / 115	0.795	0.864	95.30
+THBD	88 / 117	1.235	2.762	82.38

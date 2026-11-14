@@ -1,0 +1,9 @@
+{
+  "requested": "A0A5G2RDZ2",
+  "url": "https://rest.uniprot.org/uniprotkb/A0A5G2RDZ2.json",
+  "retrieved_at": "2026-11-03T16:30:38.507608+00:00",
+  "status": 200,
+  "final_url": "https://rest.uniprot.org/uniprotkb/Q6QRN9?from=A0A5G2RDZ2",
+  "release": "2026_03",
+  "sha256": "4e19a8022bc8669eed6c98c21c156657b8042cb646ef00f5d4dc20731d3b8f56"
+}

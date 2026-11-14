@@ -1,0 +1,12 @@
+Axis / gene pair	Direction	Catalogue annotation	Atlas score	Opposite annotations for shared pair
+XP009 / PROC|PROCR	pig<-human	control	75.88	No
+XP010 / F2|F2R	pig<-human	direct	51.34	No
+XP020 / CD47|SIRPA	pig->human	direct	91.06	Yes
+XP029 / CD2|CD58	pig->human	direct	63.80	No
+XP032 / CD40|CD40LG	pig<-human	direct	54.88	No
+XP033 / CD274|PDCD1	pig->human	control	91.35	No
+XP049 / EPO|EPOR	pig->human	direct	74.02	No
+XP051 / AVP|AVPR2	pig<-human	direct	64.90	No
+XP068 / CD47|SIRPA	pig->human	control	91.06	Yes
+XP080 / CSF1|CSF1R	pig->human	control	52.03	No
+XP081 / CSF1|CSF1R	pig<-human	control	52.03	No

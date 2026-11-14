@@ -1,0 +1,76 @@
+pair_id	pig_gene	human_partner	direction	gene_key	source	evidence	label	eligible	interface_identity	pdb	legacy_interface_status	sequence_identity
+XP001	CD46	C3B+CFI	pig<-human	CD46	10469245	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	73.4
+XP002	CD55	C3/C5_convertase	pig<-human	CD55	10.1161/01.RES.76.4.575	disputed	1	False	NA	NA	no_exact_single_gene_pair_mapping	53.1
+XP003	CD59	C8A/C9	pig<-human	CD59	7544344	disputed	1	False	NA	NA	no_exact_single_gene_pair_mapping	49.2
+XP004	GGTA1(aGal)	anti-aGal_IgM/C1Q	pig<-human	GGTA1	2460463	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP005	CMAH(Neu5Gc)	human anti-Neu5Gc IgM/IgG	pig<-human	CMAH	23384142	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP006	VWF	GP1BA	pig->human	VWF	15598271	direct	1	True	72	1SQ0	historical_summary_coordinates_NOT_revalidated	84.5
+XP008	THBD	F2/PROC	pig<-human	THBD	18444940	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	71.1
+XP009	PROCR	PROC	pig<-human	PROCR	31556182	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	71.6
+XP010	F2R(PAR1)	F2	pig<-human	F2R	10.1111/xen.70041	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	82.8
+XP011	TFPI	FXA	pig<-human	TFPI	9075849	disputed	1	False	NA	NA	no_exact_single_gene_pair_mapping	78
+XP012	F3	FVIIA	pig<-human	F3	10.1097/00007890-199709270-00017	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	71.9
+XP013	ENTPD1(CD39)	ATP/ADP	pig<-human	ENTPD1	10.1182/blood.V104.11.1869.1869	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	72.3
+XP014	NT5E(CD73)	AMP	pig<-human	NT5E	15955461	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	90.6
+XP015	ASGR1	human_platelet_glycan	pig->human	ASGR1	25728617	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	83.9
+XP016	ITGB2(Kupffer_CD18)	human_platelets	pig->human	ITGB2	21836538	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	84.1
+XP017	F2/PROC/PROS1	primate_coagulation	pig->human	F2	PMC13051420	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	83.1
+XP019	F8	human_coagulation	pig->human	F8	1905722;1429706	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	74.2
+XP020	CD47	SIRPA	pig->human	CD47	17360380	direct	1	True	79	2JJT	historical_summary_coordinates_NOT_revalidated	72.9
+XP021	CD200	CD200R1	pig->human	CD200	10.1111/xen.12863	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	73.2
+XP022	SLA-I	KIR2DL1/2DL3/3DL1	pig->human	SLA-I	9278321	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP023	SLA-I(HLA-E_like)	KLRC1(NKG2A)	pig->human	SLA-I	PMC5749293	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP024	SLA-I	LILRB1(ILT2)	pig->human	SLA-I	PMC5749293	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP025	ULBP1	KLRK1(NKG2D)	pig->human	ULBP1	16887974	disputed	1	True	38.5	1KCG	historical_summary_coordinates_NOT_revalidated	40.7
+XP026	SLA-I	human_CD8_TCR	pig->human	SLA-I	10480402	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP027	SLA-II	human_CD4_TCR	pig->human	SLA-II	7491676	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP028	SLA-I/II	human_HLA_antibodies	pig<-human	SLA-I	9808494	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP029	CD58	CD2	pig->human	CD58	13679072;40012743	direct	1	True	58.8	1QA9	historical_summary_coordinates_NOT_revalidated	40.2
+XP030	CD80/CD86	CD28	pig->human	CD80	10.4049/jimmunol.164.6.3434	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	60.1
+XP031	CD80/CD86	CTLA4	pig->human	CD80	7491676	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	60.1
+XP032	CD40	CD40LG	pig<-human	CD40	11468547	direct	1	True	87.5	3QD6	historical_summary_coordinates_NOT_revalidated	74.9
+XP033	CD274(PD-L1)	PDCD1	pig->human	CD274	17489864	control	0	True	81.8	4ZQK	historical_summary_coordinates_NOT_revalidated	74.1
+XP034	PVR	TIGIT/CD226	pig->human	PVR	31402149	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	57.7
+XP035	LAG3	HLA-II	pig->human	LAG3	10.1007/s10529-009-0144-9	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	77.8
+XP036	FAS	FASLG	pig<-human	FAS	10.4049/jimmunol.169.12.6850	direct	1	True	64.3	4MSV	historical_summary_coordinates_NOT_revalidated	61.7
+XP037	TNFRSF1A/B	TNF	pig<-human	TNFRSF1A	8666424	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	70
+XP038	IL1R1	IL1B	pig<-human	IL1R1	28303603	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	72.7
+XP039	IL17RA	IL17A	pig<-human	IL17RA	10.3389/fimmu.2022.857311	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	69.3
+XP040	IL6R	IL6	pig<-human	IL6R	28303603	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	76
+XP041	IFNGR1/2	IFNG	pig<-human	IFNGR1	8666424	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	60.9
+XP042	IL6(pig)	IL6R	pig->human	IL6	10.1111/xen.12408	direct	1	True	64.7	1P9M	historical_summary_coordinates_NOT_revalidated	59
+XP043	TNF(pig)	TNFRSF1A/B	pig->human	TNF	10.1111/xen.12408	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	87.1
+XP044	IL1B(pig)	IL1R1	pig->human	IL1B	10.1111/xen.12408	direct	1	True	46.7	1ITB	historical_summary_coordinates_NOT_revalidated	57.9
+XP045	IFNG(pig)	IFNGR	pig->human	IFNG	10.1111/xen.12408	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	59.6
+XP046	CXCL8(pig)	CXCR1/2	pig->human	CXCL8	29427404	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	75.8
+XP048	INS	INSR	pig->human	INS	7556975	control	0	True	100	3W12	historical_summary_coordinates_NOT_revalidated	87
+XP049	EPO	EPOR	pig->human	EPO	8364201	direct	1	True	82.1	1EER	historical_summary_coordinates_NOT_revalidated	83.3
+XP050	REN	AGT	pig->human	REN	10.1038/207636a0	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	73.6
+XP051	AVPR2	AVP	pig<-human	AVPR2	10.1210/endo-63-5-688	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	84.1
+XP052	GHR	GH1	pig<-human	GHR	33241624	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	84.6
+XP053	GH1(pig)	GHR	pig->human	GH1	7862673	direct	1	True	48.3	3HHR	historical_summary_coordinates_NOT_revalidated	68.8
+XP054	UOX	uric_acid	pig->human	UOX	PMC6200029	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP057	SELE	SELPLG/ESL1	pig<-human	SELE	10.1111/xen.12381	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	64.9
+XP058	SELP	SELPLG	pig<-human	SELP	PMC10204697	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	77.8
+XP059	VCAM1	ITGA4/ITGB1	pig<-human	VCAM1	10.1016/s0966-3274(96)80046-3	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	75.9
+XP060	ICAM1	ITGAL/ITGB2	pig<-human	ICAM1	7912457	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	55.1
+XP062	PECAM1/CD31 (p)	human PECAM1/CD31	pig<-human	PECAM1	10515388	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	71.8
+XP063	pB4GALNT2/Sd(a) glycan	human anti-Sd(a) antibody response	pig->human	B4GALNT2	28114170	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP064	SIGLEC1 (CD169)	human erythrocyte sialic acids	pig->human	SIGLEC1	12857889;10.1128/JVI.77.15.8207-8215.2003	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	78
+XP065	IL2	human IL-2-responsive lymphocyte proliferation	pig->human	IL2	10.1111/j.1399-3089.2006.00329.x	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	71.9
+XP066	porcine IL2R (lymphocyte-response axis)	porcine IL-2-responsive lymphocyte proliferation	pig<-human	IL2	10.1111/j.1399-3089.2006.00329.x	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	71.9
+XP067	C5AR1	human C5a	pig<-human	C5AR1	10.1111/j.1399-3089.2007.00421.x	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	70
+XP068	SIRPA	human CD47	pig->human	SIRPA	10.1111/xen.12466	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP069	ICAM2	human LFA1 (ITGAL/ITGB2)	pig->human	ICAM2	10.1111/j.1600-6143.2004.00369.x	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	55
+XP070	ITGA5/ITGB1 (pVLA5)	human FN1	pig->human	ITGA5	12060464	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	85
+XP071	porcine IL3R/CD123 (hematopoietic response)	porcine IL3R/CD123 hematopoietic response	pig<-human	IL3	10428510	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	39
+XP072	porcine IL3	human IL3R/CD123 hematopoietic response	pig->human	IL3	10428510	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	39
+XP073	porcine CTLA4	human CD80/CD86 (B7)	pig->human	CTLA4	10975832	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	72
+XP074	porcine αGal (glycan)	human LGALS3/galectin-3	pig->human	GGTA1	16818789	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP075	porcine CFH	human C3b/C3d	pig->human	CFH	14517701	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	62
+XP076	ITGA4/ITGB1 (pVLA4)	human VCAM1	pig->human	ITGA4	9721809	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	84.5
+XP078	porcine terminal sialylated glycan / CD15s-like determinant	human SELL/CD62L	pig->human	NA	10075584	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP079	ABO(glycanA)	human anti-A IgM	pig->human	ABO	10.1080/00365590151030840	direct	1	False	NA	NA	no_exact_single_gene_pair_mapping	NA
+XP080	CSF1	CSF1R	pig->human	CSF1	22974529	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	83
+XP081	CSF1R	CSF1	pig<-human	CSF1R	22974529	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	82
+XP082	CSF1R	IL34	pig<-human	CSF1R	22974529	control	0	False	NA	NA	no_exact_single_gene_pair_mapping	82

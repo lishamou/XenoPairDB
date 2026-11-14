@@ -1,0 +1,16 @@
+{
+  "all_axes": 75,
+  "controls": 12,
+  "controls_zero_severity": 12,
+  "noncontrols_positive_severity": 63,
+  "common_n": 61,
+  "severity_only_auc": 1.0,
+  "frozen_ISI_auc": 1.0,
+  "missing_sequence_controls": [
+    "XP054",
+    "XP068"
+  ],
+  "independent_validation": false,
+  "severity_auc_permitted_use": "definition_leakage_diagnostic_only",
+  "p_value": null
+}

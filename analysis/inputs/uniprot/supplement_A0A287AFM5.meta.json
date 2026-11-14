@@ -1,0 +1,9 @@
+{
+  "requested": "A0A287AFM5",
+  "url": "https://rest.uniprot.org/uniprotkb/A0A287AFM5.json",
+  "retrieved_at": "2026-11-03T16:30:37.480573+00:00",
+  "status": 200,
+  "final_url": "https://rest.uniprot.org/uniprotkb/A0A0A7BZR3?from=A0A287AFM5",
+  "release": "2026_03",
+  "sha256": "ac570f6053c7d2c79214d458ed3adb4dcc1394f0e3a27095166ec91b0e486ab3"
+}

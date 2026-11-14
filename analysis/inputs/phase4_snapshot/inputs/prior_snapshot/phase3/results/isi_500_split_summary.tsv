@@ -1,0 +1,8 @@
+model	n_splits	mean_auroc	sd_auroc	mean_ap	sd_ap
+ISI_v2	500	1	0	1	0
+divergence	500	0.630409090909091	0.20354016540576	0.911832245532246	0.0628240922259976
+formula	500	1	0	1	0
+formula_mixed3	500	1	0	1	0
+no_divergence	500	1	0	1	0
+no_expression	500	1	0	1	0
+severity_only	500	1	0	1	3.14332982042652e-17

@@ -1,0 +1,47 @@
+{
+  "source_unique_accessions": 509,
+  "frozen_accessions": 4122,
+  "union_accessions": 4613,
+  "retrieved_pig_source": 507,
+  "retrieved_pig_frozen": 4122,
+  "missing_source": [
+    "A0A4X1SUR0",
+    "A0A8W4FPA2"
+  ],
+  "missing_frozen": [],
+  "baseline_conflicts": [],
+  "source_suffix_accessions": [],
+  "source_observed_rows": 156,
+  "primary_mapping_observed_counts": {
+    "unmapped": 114,
+    "ambiguous_source_group": 35,
+    "unique_explicit_gene": 4,
+    "exact_accession": 3
+  },
+  "new_observed_rows": [
+    {
+      "source_row": 57,
+      "source_accession": "A0A480VU46;Q9GMB0",
+      "source_gene": "RPN1",
+      "new_target": "A0A480VU46",
+      "mapping_reason": "same_gene_group_official_name"
+    }
+  ],
+  "M4_archive_status": "Two deleted source entries resolved from stored UniSave flatfiles; archived gene annotations used only in M4/M5",
+  "archive_records": [
+    {
+      "accession": "A0A4X1SUR0",
+      "gene": "ATP1A1",
+      "source": "uniprot/archive_entry_A0A4X1SUR0.txt",
+      "entry_version": 26,
+      "sequence_length": 1028
+    },
+    {
+      "accession": "A0A8W4FPA2",
+      "gene": "YBX1",
+      "source": "uniprot/archive_entry_A0A8W4FPA2.txt",
+      "entry_version": 12,
+      "sequence_length": 537
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+ "ICAM1_ITGAL_1MQ8": {
+  "status": "ok",
+  "rmsd": 1.81,
+  "n_pairs": 178,
+  "n_contacts_8A": 23,
+  "contact_res": [
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   104,
+   105,
+   106,
+   108
+  ],
+  "n_clashes": 0,
+  "clash_detail": [],
+  "anchor_analysis": [
+   {
+    "human": "GLU34",
+    "pig_aa": "E",
+    "pig_resnum": 66,
+    "conservation": "identical",
+    "modeled_contact": "contact"
+   },
+   {
+    "human": "THR35",
+    "pig_aa": "T",
+    "pig_resnum": 67,
+    "conservation": "identical",
+    "modeled_contact": "contact"
+   },
+   {
+    "human": "PRO36",
+    "pig_aa": "H",
+    "pig_resnum": 68,
+    "conservation": "substituted",
+    "modeled_contact": "contact"
+   },
+   {
+    "human": "GLN62",
+    "pig_aa": "T",
+    "pig_resnum": 93,
+    "conservation": "substituted",
+    "modeled_contact": "contact"
+   },
+   {
+    "human": "PRO63",
+    "pig_aa": "L",
+    "pig_resnum": 94,
+    "conservation": "substituted",
+    "modeled_contact": "contact"
+   },
+   {
+    "human": "TYR66",
+    "pig_aa": "H",
+    "pig_resnum": 97,
+    "conservation": "substituted",
+    "modeled_contact": "contact"
+   }
+  ],
+  "interpretation": "MIDAS anchor Glu34+Thr35 identical & in contact; 4 substituted anchors retain <8A contact geometry; 0 clashes; fold RMSD 1.81A"
+ },
+ "ULBP1_KLRK1_1KCG": {
+  "status": "ok",
+  "rmsd": 2.61,
+  "n_pairs": 170,
+  "n_contacts_8A": 27,
+  "contact_res": [
+   84,
+   85,
+   88,
+   89,
+   91,
+   92,
+   93,
+   95,
+   99,
+   132,
+   133,
+   134,
+   176,
+   177,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192
+  ],
+  "n_clashes": 0,
+  "clash_detail": [],
+  "interpretation": "pig ULBP1 superimposes at 2.61A, 27 contacts, 0 clashes -> NKG2D ligand function retained despite 38.5% interface identity",
+  "template_note": "1KCG is human NKG2D complexed with an MHC-I-like ligand (family template); pig ULBP1 superimposed onto the ligand chain"
+ },
+ "CD86_CTLA4_1I8L": {
+  "status": "ok",
+  "rmsd": 3.55,
+  "n_sup_pairs": 74,
+  "n_contacts_8A": 20,
+  "contact_res": [
+   26,
+   62,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   115,
+   117,
+   119,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131
+  ],
+  "n_clashes": 0,
+  "clash_detail": [],
+  "interpretation": "after signal-peptide trim + iterative superposition: RMSD 3.55A, 20 contacts, 0 clashes -> co-stimulatory interface structurally compatible (50% interface identity)",
+  "template_note": "1I8L is human CD80(B7-1)/CTLA-4 complex (Stamper et al.); used as paralogous homology template - pig CD86 superimposed onto the CD80 chain (CD80/CD86 share the MYPPPY CTLA-4 binding interface)"
+ }
+}

@@ -1,0 +1,301 @@
+{
+  "files": [
+    {
+      "id": 67134084,
+      "name": "pr5c01244_si_001.zip",
+      "size": 4601588,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/67134084",
+      "supplied_md5": "a68ef756a60a0cad4e2a2c9ca7557bd6",
+      "computed_md5": "a68ef756a60a0cad4e2a2c9ca7557bd6",
+      "mimetype": "application/zip"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 515046,
+      "full_name": "Hongyi Liu",
+      "first_name": "Hongyi",
+      "last_name": "Liu",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 24489804,
+      "full_name": "Trung Hoàng",
+      "first_name": "Trung",
+      "last_name": "Hoàng",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 1837675,
+      "full_name": "Yingwei Hu",
+      "first_name": "Yingwei",
+      "last_name": "Hu",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 1512748,
+      "full_name": "Yuanwei Xu",
+      "first_name": "Yuanwei",
+      "last_name": "Xu",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 1609570,
+      "full_name": "Zhenyu Sun",
+      "first_name": "Zhenyu",
+      "last_name": "Sun",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 7296839,
+      "full_name": "Brandon J. Peiffer",
+      "first_name": "Brandon J.",
+      "last_name": "Peiffer",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 1422829,
+      "full_name": "Yuanyu Huang",
+      "first_name": "Yuanyu",
+      "last_name": "Huang",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 559305,
+      "full_name": "Zhaoli Sun",
+      "first_name": "Zhaoli",
+      "last_name": "Sun",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 7197,
+      "full_name": "Hui Zhang",
+      "first_name": "Hui",
+      "last_name": "Zhang",
+      "is_active": false,
+      "url_name": "Hui_Zhang",
+      "orcid_id": ""
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://acs.figshare.com/articles/dataset/Proteomic_Identification_of_Pig_Xenoantigens_for_Clinical_Xenotransplantation/33126714",
+  "download_disabled": false,
+  "description": "Xenotransplantation using genetically engineered pig\norgans offers\na promising solution to the shortage of donor organs for life-saving\ntransplantations. However, human-preformed antibodies against unknown\npig xenoantigens remain a significant barrier to successful xenotransplantation.\nCurrent methods for characterizing these antibodies or xenoantigens\nare limited to cellular-level cross-match assays. In this study, we\ndeveloped a novel approach to identify pig xenoantigens, including\npeptide and glycopeptide epitopes, that react with human-preformed\nantibodies. First, human-preformed antibodies against xenoantigens\nwere enriched from plasma using immobilized pig kidney proteins. The\nenriched antibodies were then immobilized and used to isolate pig\nkidney proteins, peptides, and intact glycopeptides, followed by liquid\nchromatography–tandem mass spectrometry analysis. This dual-level\napproach identified 221 peptides corresponding to 153 proteins, with\na significant enrichment of plasma membrane and extracellular proteins.\nNotably, 11 peptides were unique to pig sequences, suggesting their\npotential role in driving xenogeneic immune responses. Glycoproteomic\nanalysis identified 122 intact glycopeptides, predominantly complex/hybrid\nglycoforms, and Neu5Gc-containing glycans. Our method effectively\nidentifies peptides and intact glycopeptides reactive to human-preformed\nantibodies, providing critical insights for discovering xenoantigens.\nThese findings could guide genetic engineering strategies and enhance\nrecipient candidate screening for xenotransplantation, ultimately\nincreasing the feasibility and success of xenogeneic organ transplantation.",
+  "funding": null,
+  "funding_list": [],
+  "version": 1,
+  "status": "public",
+  "size": 4601588,
+  "created_date": "2026-07-30T18:14:19Z",
+  "modified_date": "2026-07-30T18:14:19Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 10,
+    "name": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "tags": [
+    "xenogeneic organ transplantation",
+    "providing critical insights",
+    "intact glycopeptides reactive",
+    "identify pig xenoantigens",
+    "intact glycopeptides",
+    "pig sequences",
+    "pig xenoantigens",
+    "ultimately increasing",
+    "significant enrichment",
+    "significant barrier",
+    "saving transplantations",
+    "proteomic identification",
+    "promising solution",
+    "predominantly complex",
+    "potential role",
+    "plasma membrane",
+    "novel approach",
+    "match assays",
+    "level cross",
+    "including peptide",
+    "hybrid glycoforms",
+    "glycopeptide epitopes",
+    "extracellular proteins",
+    "donor organs",
+    "current methods",
+    "containing glycans",
+    "153 proteins"
+  ],
+  "keywords": [
+    "xenogeneic organ transplantation",
+    "providing critical insights",
+    "intact glycopeptides reactive",
+    "identify pig xenoantigens",
+    "intact glycopeptides",
+    "pig sequences",
+    "pig xenoantigens",
+    "ultimately increasing",
+    "significant enrichment",
+    "significant barrier",
+    "saving transplantations",
+    "proteomic identification",
+    "promising solution",
+    "predominantly complex",
+    "potential role",
+    "plasma membrane",
+    "novel approach",
+    "match assays",
+    "level cross",
+    "including peptide",
+    "hybrid glycoforms",
+    "glycopeptide epitopes",
+    "extracellular proteins",
+    "donor organs",
+    "current methods",
+    "containing glycans",
+    "153 proteins"
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "title": "Biochemistry",
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 7,
+      "title": "Medicine",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 14,
+      "title": "Molecular Biology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 16,
+      "title": "Physiology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 19,
+      "title": "Pharmacology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 21,
+      "title": "Biotechnology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 46,
+      "title": "Immunology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 61,
+      "title": "Developmental Biology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 128,
+      "title": "Hematology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 132,
+      "title": "Infectious Diseases",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    }
+  ],
+  "references": [
+    "https://doi.org/10.1021/acs.jproteome.5c01244"
+  ],
+  "has_linked_file": false,
+  "citation": "Liu, Hongyi; Hoàng, Trung; Hu, Yingwei; Xu, Yuanwei; Sun, Zhenyu; Peiffer, Brandon J.; et al. (2026). Proteomic\nIdentification of Pig Xenoantigens for Clinical\nXenotransplantation. ACS Publications. Dataset. https://doi.org/10.1021/acs.jproteome.5c01244.s001",
+  "related_materials": [
+    {
+      "id": 283928856,
+      "identifier": "10.1021/acs.jproteome.5c01244",
+      "title": "Proteomic\nIdentification of Pig Xenoantigens for Clinical\nXenotransplantation",
+      "relation": "IsSupplementTo",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.1021/acs.jproteome.5c01244"
+    }
+  ],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 33126714,
+  "title": "Proteomic\nIdentification of Pig Xenoantigens for Clinical\nXenotransplantation",
+  "doi": "10.1021/acs.jproteome.5c01244.s001",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/33126714",
+  "published_date": "2026-07-30T18:14:19Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": 2454,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/33126714",
+  "url_public_api": "https://api.figshare.com/v2/articles/33126714",
+  "url_private_html": "https://figshare.com/account/articles/33126714",
+  "url_public_html": "https://acs.figshare.com/articles/dataset/Proteomic_Identification_of_Pig_Xenoantigens_for_Clinical_Xenotransplantation/33126714",
+  "timeline": {
+    "posted": "2026-07-30T18:14:19",
+    "publisherPublication": "2026-07-30T00:00:00"
+  },
+  "resource_title": "Proteomic\nIdentification of Pig Xenoantigens for Clinical\nXenotransplantation",
+  "resource_doi": "10.1021/acs.jproteome.5c01244"
+}

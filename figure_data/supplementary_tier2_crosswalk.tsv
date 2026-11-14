@@ -1,0 +1,12 @@
+pair_id	pig_gene	human_partner	direction	evidence	gene_key	source	pair_key	n_atlas_rows	eligible	reason	label	div_percentile	glyco_percentile	score_recomputed	conflicting_catalogue_labels
+XP009	PROCR	PROC	pig<-human	control	PROCR	31556182	PROC|PROCR	1	True	gene_pair_only_direction_unvalidated	0	0.884861407249	0.569651741294	75.8777540867	False
+XP010	F2R(PAR1)	F2	pig<-human	direct	F2R	10.1111/xen.70041	F2|F2R	1	True	gene_pair_only_direction_unvalidated	1	0.689410092395	0.249466950959	51.3432835821	False
+XP020	CD47	SIRPA	pig->human	direct	CD47	17360380	CD47|SIRPA	1	True	gene_pair_only_direction_unvalidated	1	0.862117981521	0.983297796731	91.0589907605	True
+XP029	CD58	CD2	pig->human	direct	CD58	13679072;40012743	CD2|CD58	1	True	gene_pair_only_direction_unvalidated	1	0.995735607676	0.101279317697	63.7953091684	False
+XP032	CD40	CD40LG	pig<-human	direct	CD40	11468547	CD40|CD40LG	1	True	gene_pair_only_direction_unvalidated	1	0.748400852878	0.249466950959	54.8827292111	False
+XP033	CD274(PD-L1)	PDCD1	pig->human	control	CD274	17489864	CD274|PDCD1	1	True	gene_pair_only_direction_unvalidated	0	0.947050461976	0.863184079602	91.3503909026	False
+XP049	EPO	EPOR	pig->human	direct	EPO	8364201	EPO|EPOR	1	True	gene_pair_only_direction_unvalidated	1	0.658137882018	0.863184079602	74.0156361052	False
+XP051	AVPR2	AVP	pig<-human	direct	AVPR2	10.1210/endo-63-5-688	AVP|AVPR2	1	True	gene_pair_only_direction_unvalidated	1	0.70184790334	0.569651741294	64.8969438522	False
+XP068	SIRPA	human CD47	pig->human	control	SIRPA	10.1111/xen.12466	CD47|SIRPA	1	True	gene_pair_only_direction_unvalidated	0	0.862117981521	0.983297796731	91.0589907605	True
+XP080	CSF1	CSF1R	pig->human	control	CSF1	22974529	CSF1|CSF1R	1	True	gene_pair_only_direction_unvalidated	0	0.799573560768	0.101279317697	52.0255863539	False
+XP081	CSF1R	CSF1	pig<-human	control	CSF1R	22974529	CSF1|CSF1R	1	True	gene_pair_only_direction_unvalidated	0	0.799573560768	0.101279317697	52.0255863539	False

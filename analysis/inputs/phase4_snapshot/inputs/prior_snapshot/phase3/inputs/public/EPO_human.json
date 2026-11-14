@@ -1,0 +1,4062 @@
+{
+  "entryType": "UniProtKB reviewed (Swiss-Prot)",
+  "primaryAccession": "P01588",
+  "secondaryAccessions": [
+    "Q2M2L6",
+    "Q549U2",
+    "Q9UDZ0",
+    "Q9UEZ5",
+    "Q9UHA0"
+  ],
+  "uniProtkbId": "EPO_HUMAN",
+  "entryAudit": {
+    "firstPublicDate": "1986-07-21",
+    "lastAnnotationUpdateDate": "2026-09-02",
+    "lastSequenceUpdateDate": "1986-07-21",
+    "entryVersion": 229,
+    "sequenceVersion": 1
+  },
+  "annotationScore": 5.0,
+  "organism": {
+    "scientificName": "Homo sapiens",
+    "commonName": "Human",
+    "taxonId": 9606,
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Euarchontoglires",
+      "Primates",
+      "Haplorrhini",
+      "Catarrhini",
+      "Hominidae",
+      "Homo"
+    ]
+  },
+  "proteinExistence": "1: Evidence at protein level",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000303",
+            "source": "PubMed",
+            "id": "3838366"
+          }
+        ],
+        "value": "Erythropoietin"
+      }
+    },
+    "innNames": [
+      {
+        "value": "Epoetin"
+      }
+    ],
+    "flag": "Precursor"
+  },
+  "genes": [
+    {
+      "geneName": {
+        "value": "EPO"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "28283061"
+            },
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "9774108"
+            }
+          ],
+          "value": "Hormone involved in the regulation of erythrocyte proliferation and differentiation and the maintenance of a physiological level of circulating erythrocyte mass (PubMed:28283061). Binds to EPOR leading to EPOR dimerization and JAK2 activation thereby activating specific downstream effectors, including STAT1 and STAT3 (PubMed:9774108)"
+        }
+      ],
+      "commentType": "FUNCTION"
+    },
+    {
+      "commentType": "INTERACTION",
+      "interactions": [
+        {
+          "interactantOne": {
+            "uniProtKBAccession": "P01588",
+            "intActId": "EBI-1027362"
+          },
+          "interactantTwo": {
+            "uniProtKBAccession": "P54760",
+            "geneName": "EPHB4",
+            "intActId": "EBI-702121"
+          },
+          "numberOfExperiments": 6,
+          "organismDiffer": false
+        },
+        {
+          "interactantOne": {
+            "uniProtKBAccession": "P01588",
+            "intActId": "EBI-1027362"
+          },
+          "interactantTwo": {
+            "uniProtKBAccession": "P19235",
+            "geneName": "EPOR",
+            "intActId": "EBI-617321"
+          },
+          "numberOfExperiments": 3,
+          "organismDiffer": false
+        },
+        {
+          "interactantOne": {
+            "uniProtKBAccession": "P01588",
+            "intActId": "EBI-1027362"
+          },
+          "interactantTwo": {
+            "uniProtKBAccession": "P33908",
+            "geneName": "MAN1A1",
+            "intActId": "EBI-12586254"
+          },
+          "numberOfExperiments": 2,
+          "organismDiffer": false
+        },
+        {
+          "interactantOne": {
+            "chainId": "PRO_0000008401",
+            "intActId": "EBI-11508463"
+          },
+          "interactantTwo": {
+            "uniProtKBAccession": "P19235",
+            "geneName": "EPOR",
+            "intActId": "EBI-617321"
+          },
+          "numberOfExperiments": 2,
+          "organismDiffer": false
+        }
+      ]
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "subcellularLocations": [
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "32989016"
+              }
+            ],
+            "value": "Secreted",
+            "id": "SL-0243"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "3865178"
+            }
+          ],
+          "value": "Produced by kidney or liver of adult mammals and by liver of fetal or neonatal mammals"
+        }
+      ],
+      "commentType": "TISSUE SPECIFICITY"
+    },
+    {
+      "commentType": "DISEASE",
+      "disease": {
+        "diseaseId": "Microvascular complications of diabetes 2",
+        "diseaseAccession": "DI-02755",
+        "acronym": "MVCD2",
+        "description": "Pathological conditions that develop in numerous tissues and organs as a consequence of diabetes mellitus. They include diabetic retinopathy, diabetic nephropathy leading to end-stage renal disease, and diabetic neuropathy. Diabetic retinopathy remains the major cause of new-onset blindness among diabetic adults. It is characterized by vascular permeability and increased tissue ischemia and angiogenesis.",
+        "diseaseCrossReference": {
+          "database": "MIM",
+          "id": "612623"
+        }
+      },
+      "note": {
+        "texts": [
+          {
+            "value": "Disease susceptibility is associated with variants affecting the gene represented in this entry"
+          }
+        ]
+      }
+    },
+    {
+      "commentType": "DISEASE",
+      "disease": {
+        "diseaseId": "Erythrocytosis, familial, 5",
+        "diseaseAccession": "DI-05215",
+        "acronym": "ECYT5",
+        "description": "An autosomal dominant disorder characterized by elevated serum hemoglobin and hematocrit. Some patients have increased serum erythropoietin levels.",
+        "diseaseCrossReference": {
+          "database": "MIM",
+          "id": "617907"
+        },
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000269",
+            "source": "PubMed",
+            "id": "27651169"
+          },
+          {
+            "evidenceCode": "ECO:0000269",
+            "source": "PubMed",
+            "id": "29514032"
+          }
+        ]
+      },
+      "note": {
+        "texts": [
+          {
+            "value": "The disease is caused by variants affecting the gene represented in this entry"
+          }
+        ]
+      }
+    },
+    {
+      "commentType": "DISEASE",
+      "disease": {
+        "diseaseId": "Diamond-Blackfan anemia-like",
+        "diseaseAccession": "DI-05222",
+        "acronym": "DBAL",
+        "description": "An autosomal recessive hematologic disease characterized by severe red cell hypoplastic anemia, selective absence of red cell precursors and progenitors seen on bone marrow biopsy, and increased serum erythropoietin.",
+        "diseaseCrossReference": {
+          "database": "MIM",
+          "id": "617911"
+        },
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000269",
+            "source": "PubMed",
+            "id": "28283061"
+          }
+        ]
+      },
+      "note": {
+        "texts": [
+          {
+            "value": "The disease is caused by variants affecting the gene represented in this entry"
+          }
+        ]
+      }
+    },
+    {
+      "texts": [
+        {
+          "value": "Used for the treatment of anemia. Available under the names Epogen (Amgen), Epogin (Chugai), Epomax (Elanex), Eprex (Janssen-Cilag), NeoRecormon or Recormon (Roche), Dynepo (Shire Pharmaceuticals) and Procrit (Ortho Biotech). Variations in the glycosylation pattern of EPO distinguishes these products. Epogen, Epogin, Eprex and Procrit are generically known as epoetin alfa, NeoRecormon and Recormon as epoetin beta, Dynepo as epoetin delta and Epomax as epoetin omega. Epoetin zeta is the name used for some 'biosimilars' forms of epoetin alfa and is available under the names Silapo (Stada) and Retacrit (Hospira). Darbepoetin alfa is a form created by 5 substitutions (Asn-57, Thr-59, Val-114, Asn-115 and Thr-117) that create 2 new N-glycosylation sites. It has a longer circulating half-life in vivo. It is available under the name Aranesp (Amgen). EPO is being much misused as a performance-enhancing drug in endurance athletes"
+        }
+      ],
+      "commentType": "PHARMACEUTICAL"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ],
+          "value": "Belongs to the EPO/TPO family"
+        }
+      ],
+      "commentType": "SIMILARITY"
+    },
+    {
+      "commentType": "WEB RESOURCE",
+      "resourceName": "Wikipedia",
+      "resourceUrl": "https://en.wikipedia.org/wiki/Erythropoietin",
+      "ftp": false,
+      "note": "Erythropoietin entry"
+    },
+    {
+      "commentType": "WEB RESOURCE",
+      "resourceName": "Protein Spotlight",
+      "resourceUrl": "https://www.proteinspotlight.org/back_issues/084/",
+      "ftp": false,
+      "note": "Journey into a tiny world - Issue 84 of July 2007"
+    }
+  ],
+  "features": [
+    {
+      "type": "Signal",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 27,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "3949763"
+        }
+      ]
+    },
+    {
+      "type": "Chain",
+      "location": {
+        "start": {
+          "value": 28,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 193,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Erythropoietin",
+      "featureId": "PRO_0000008401"
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 51,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 51,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "3949763"
+        }
+      ],
+      "featureId": "CAR_000052"
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 65,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 65,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "3949763"
+        }
+      ],
+      "featureId": "CAR_000166"
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 110,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 110,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "3949763"
+        }
+      ],
+      "featureId": "CAR_000192"
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 153,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 153,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "O-linked (GalNAc...) serine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "3949763"
+        }
+      ],
+      "featureId": ""
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 34,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 188,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "3949763"
+        }
+      ]
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 56,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 60,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "3949763"
+        }
+      ]
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 70,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 70,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in ECYT5; uncertain significance; dbSNP:rs62483572",
+      "featureCrossReferences": [
+        {
+          "database": "dbSNP",
+          "id": "rs62483572"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "27651169"
+        }
+      ],
+      "featureId": "VAR_080573",
+      "alternativeSequence": {
+        "originalSequence": "D",
+        "alternativeSequences": [
+          "N"
+        ]
+      }
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 84,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 84,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in ECYT5; uncertain significance; dbSNP:rs137953994",
+      "featureCrossReferences": [
+        {
+          "database": "dbSNP",
+          "id": "rs137953994"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "27651169"
+        }
+      ],
+      "featureId": "VAR_080574",
+      "alternativeSequence": {
+        "originalSequence": "G",
+        "alternativeSequences": [
+          "R"
+        ]
+      }
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 99,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 99,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "found in a patient thought to have erythrocytosis, but had normal red cell mass; uncertain significance",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "27651169"
+        }
+      ],
+      "featureId": "VAR_080575",
+      "alternativeSequence": {
+        "originalSequence": "E",
+        "alternativeSequences": [
+          "G"
+        ]
+      }
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 114,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 114,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in ECYT5; uncertain significance; dbSNP:rs11976235",
+      "featureCrossReferences": [
+        {
+          "database": "dbSNP",
+          "id": "rs11976235"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "27651169"
+        }
+      ],
+      "featureId": "VAR_080576",
+      "alternativeSequence": {
+        "originalSequence": "P",
+        "alternativeSequences": [
+          "L"
+        ]
+      }
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 131,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 132,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in a hepatocellular carcinoma",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "8396923"
+        }
+      ],
+      "featureId": "VAR_009870",
+      "alternativeSequence": {
+        "originalSequence": "SL",
+        "alternativeSequences": [
+          "NF"
+        ]
+      }
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 147,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 147,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in ECYT5; uncertain significance; dbSNP:rs149431976",
+      "featureCrossReferences": [
+        {
+          "database": "dbSNP",
+          "id": "rs149431976"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "27651169"
+        }
+      ],
+      "featureId": "VAR_080577",
+      "alternativeSequence": {
+        "originalSequence": "S",
+        "alternativeSequences": [
+          "C"
+        ]
+      }
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 149,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 149,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in a hepatocellular carcinoma",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "8396923"
+        }
+      ],
+      "featureId": "VAR_009871",
+      "alternativeSequence": {
+        "originalSequence": "P",
+        "alternativeSequences": [
+          "Q"
+        ]
+      }
+    },
+    {
+      "type": "Natural variant",
+      "location": {
+        "start": {
+          "value": 177,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 177,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in DBAL; loss of support of normal erythroid expansion or differentiation; reduced ability to promote EPOR dimer formation upon binding, resulting in reduced JAK2 activation and decreased STAT1 and STAT3 phosphorylation; mild decrease in affinity for EPOR; no effect on STAT5A phosphorylation; dbSNP:rs1358275550",
+      "featureCrossReferences": [
+        {
+          "database": "dbSNP",
+          "id": "rs1358275550"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "28283061"
+        }
+      ],
+      "featureId": "VAR_078447",
+      "alternativeSequence": {
+        "originalSequence": "R",
+        "alternativeSequences": [
+          "Q"
+        ]
+      }
+    },
+    {
+      "type": "Mutagenesis",
+      "location": {
+        "start": {
+          "value": 127,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 127,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Decreased erythrocyte proliferation; impaired EPOR dimerization following binding.",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000269",
+          "source": "PubMed",
+          "id": "28283061"
+        }
+      ],
+      "alternativeSequence": {
+        "originalSequence": "S",
+        "alternativeSequences": [
+          "E"
+        ]
+      }
+    },
+    {
+      "type": "Sequence conflict",
+      "location": {
+        "start": {
+          "value": 40,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 40,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in Ref. 1; CAA26095",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000305"
+        }
+      ],
+      "alternativeSequence": {
+        "originalSequence": "E",
+        "alternativeSequences": [
+          "Q"
+        ]
+      }
+    },
+    {
+      "type": "Sequence conflict",
+      "location": {
+        "start": {
+          "value": 85,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 85,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in Ref. 8; AA sequence",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000305"
+        }
+      ],
+      "alternativeSequence": {
+        "originalSequence": "Q",
+        "alternativeSequences": [
+          "QQ"
+        ]
+      }
+    },
+    {
+      "type": "Sequence conflict",
+      "location": {
+        "start": {
+          "value": 140,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 140,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in Ref. 1; CAA26095",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000305"
+        }
+      ],
+      "alternativeSequence": {
+        "originalSequence": "G",
+        "alternativeSequences": [
+          "R"
+        ]
+      }
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 32,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 34,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 36,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 52,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 53,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 55,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Beta strand",
+      "location": {
+        "start": {
+          "value": 57,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 60,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1BUY"
+        }
+      ]
+    },
+    {
+      "type": "Beta strand",
+      "location": {
+        "start": {
+          "value": 61,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 68,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 75,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 78,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Beta strand",
+      "location": {
+        "start": {
+          "value": 79,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 81,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1BUY"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 83,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 109,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 118,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 138,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 141,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 147,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Beta strand",
+      "location": {
+        "start": {
+          "value": 160,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 164,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 165,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 175,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 176,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 180,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    },
+    {
+      "type": "Helix",
+      "location": {
+        "start": {
+          "value": 181,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 188,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0007829",
+          "source": "PDB",
+          "id": "1EER"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "id": "KW-0002",
+      "category": "Technical term",
+      "name": "3D-structure"
+    },
+    {
+      "id": "KW-0985",
+      "category": "Disease",
+      "name": "Congenital erythrocytosis"
+    },
+    {
+      "id": "KW-0903",
+      "category": "Technical term",
+      "name": "Direct protein sequencing"
+    },
+    {
+      "id": "KW-0225",
+      "category": "Disease",
+      "name": "Disease variant"
+    },
+    {
+      "id": "KW-1015",
+      "category": "PTM",
+      "name": "Disulfide bond"
+    },
+    {
+      "id": "KW-0265",
+      "category": "Biological process",
+      "name": "Erythrocyte maturation"
+    },
+    {
+      "id": "KW-0325",
+      "category": "PTM",
+      "name": "Glycoprotein"
+    },
+    {
+      "id": "KW-0372",
+      "category": "Molecular function",
+      "name": "Hormone"
+    },
+    {
+      "id": "KW-0582",
+      "category": "Technical term",
+      "name": "Pharmaceutical"
+    },
+    {
+      "id": "KW-1267",
+      "category": "Technical term",
+      "name": "Proteomics identification"
+    },
+    {
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "id": "KW-0964",
+      "category": "Cellular component",
+      "name": "Secreted"
+    },
+    {
+      "id": "KW-0732",
+      "category": "Domain",
+      "name": "Signal"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "3838366",
+        "citationType": "journal article",
+        "authors": [
+          "Jacobs K.",
+          "Shoemaker C.",
+          "Rudersdorf R.",
+          "Neill S.D.",
+          "Kaufman R.J.",
+          "Mufson A.",
+          "Seehra J.",
+          "Jones S.S.",
+          "Hewick R.",
+          "Fritsch E.F.",
+          "Kawakita M.",
+          "Shimizu T.",
+          "Miyake T."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "3838366"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1038/313806a0"
+          }
+        ],
+        "title": "Isolation and characterization of genomic and cDNA clones of human erythropoietin.",
+        "publicationDate": "1985",
+        "journal": "Nature",
+        "firstPage": "806",
+        "lastPage": "810",
+        "volume": "313"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA]"
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "3865178",
+        "citationType": "journal article",
+        "authors": [
+          "Lin F.-K.",
+          "Suggs S.",
+          "Lin C.-H.",
+          "Browne J.K.",
+          "Smalling R.",
+          "Egrie J.C.",
+          "Chen K.K.",
+          "Fox G.M.",
+          "Martin F.",
+          "Stabinsky Z.",
+          "Badrawi S.M.",
+          "Lai P.-H.",
+          "Goldwasser E."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "3865178"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1073/pnas.82.22.7580"
+          }
+        ],
+        "title": "Cloning and expression of the human erythropoietin gene.",
+        "publicationDate": "1985",
+        "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+        "firstPage": "7580",
+        "lastPage": "7584",
+        "volume": "82"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]",
+        "TISSUE SPECIFICITY"
+      ]
+    },
+    {
+      "referenceNumber": 3,
+      "citation": {
+        "id": "9799793",
+        "citationType": "journal article",
+        "authors": [
+          "Gloeckner G.",
+          "Scherer S.",
+          "Schattevoy R.",
+          "Boright A.P.",
+          "Weber J.",
+          "Tsui L.-C.",
+          "Rosenthal A."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "9799793"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1101/gr.8.10.1060"
+          }
+        ],
+        "title": "Large-scale sequencing of two regions in human chromosome 7q22: analysis of 650 kb of genomic sequence around the EPO and CUTL1 loci reveals 17 genes.",
+        "publicationDate": "1998",
+        "journal": "Genome Res.",
+        "firstPage": "1060",
+        "lastPage": "1073",
+        "volume": "8"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+      ]
+    },
+    {
+      "referenceNumber": 4,
+      "citation": {
+        "id": "CI-9KP3MQVOBF9BL",
+        "citationType": "submission",
+        "authors": [
+          "Rupert J.L.",
+          "Hochachka P.W."
+        ],
+        "title": "Erythropoietin gene sequence in the Quechua, a high altitude native population.",
+        "publicationDate": "NOV-1999",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+      ]
+    },
+    {
+      "referenceNumber": 5,
+      "citation": {
+        "id": "12853948",
+        "citationType": "journal article",
+        "authors": [
+          "Hillier L.W.",
+          "Fulton R.S.",
+          "Fulton L.A.",
+          "Graves T.A.",
+          "Pepin K.H.",
+          "Wagner-McPherson C.",
+          "Layman D.",
+          "Maas J.",
+          "Jaeger S.",
+          "Walker R.",
+          "Wylie K.",
+          "Sekhon M.",
+          "Becker M.C.",
+          "O'Laughlin M.D.",
+          "Schaller M.E.",
+          "Fewell G.A.",
+          "Delehaunty K.D.",
+          "Miner T.L.",
+          "Nash W.E.",
+          "Cordes M.",
+          "Du H.",
+          "Sun H.",
+          "Edwards J.",
+          "Bradshaw-Cordum H.",
+          "Ali J.",
+          "Andrews S.",
+          "Isak A.",
+          "Vanbrunt A.",
+          "Nguyen C.",
+          "Du F.",
+          "Lamar B.",
+          "Courtney L.",
+          "Kalicki J.",
+          "Ozersky P.",
+          "Bielicki L.",
+          "Scott K.",
+          "Holmes A.",
+          "Harkins R.",
+          "Harris A.",
+          "Strong C.M.",
+          "Hou S.",
+          "Tomlinson C.",
+          "Dauphin-Kohlberg S.",
+          "Kozlowicz-Reilly A.",
+          "Leonard S.",
+          "Rohlfing T.",
+          "Rock S.M.",
+          "Tin-Wollam A.-M.",
+          "Abbott A.",
+          "Minx P.",
+          "Maupin R.",
+          "Strowmatt C.",
+          "Latreille P.",
+          "Miller N.",
+          "Johnson D.",
+          "Murray J.",
+          "Woessner J.P.",
+          "Wendl M.C.",
+          "Yang S.-P.",
+          "Schultz B.R.",
+          "Wallis J.W.",
+          "Spieth J.",
+          "Bieri T.A.",
+          "Nelson J.O.",
+          "Berkowicz N.",
+          "Wohldmann P.E.",
+          "Cook L.L.",
+          "Hickenbotham M.T.",
+          "Eldred J.",
+          "Williams D.",
+          "Bedell J.A.",
+          "Mardis E.R.",
+          "Clifton S.W.",
+          "Chissoe S.L.",
+          "Marra M.A.",
+          "Raymond C.",
+          "Haugen E.",
+          "Gillett W.",
+          "Zhou Y.",
+          "James R.",
+          "Phelps K.",
+          "Iadanoto S.",
+          "Bubb K.",
+          "Simms E.",
+          "Levy R.",
+          "Clendenning J.",
+          "Kaul R.",
+          "Kent W.J.",
+          "Furey T.S.",
+          "Baertsch R.A.",
+          "Brent M.R.",
+          "Keibler E.",
+          "Flicek P.",
+          "Bork P.",
+          "Suyama M.",
+          "Bailey J.A.",
+          "Portnoy M.E.",
+          "Torrents D.",
+          "Chinwalla A.T.",
+          "Gish W.R.",
+          "Eddy S.R.",
+          "McPherson J.D.",
+          "Olson M.V.",
+          "Eichler E.E.",
+          "Green E.D.",
+          "Waterston R.H.",
+          "Wilson R.K."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "12853948"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1038/nature01782"
+          }
+        ],
+        "title": "The DNA sequence of human chromosome 7.",
+        "publicationDate": "2003",
+        "journal": "Nature",
+        "firstPage": "157",
+        "lastPage": "164",
+        "volume": "424"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+      ]
+    },
+    {
+      "referenceNumber": 6,
+      "citation": {
+        "id": "15489334",
+        "citationType": "journal article",
+        "authoringGroup": [
+          "The MGC Project Team"
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "15489334"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1101/gr.2596504"
+          }
+        ],
+        "title": "The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).",
+        "publicationDate": "2004",
+        "journal": "Genome Res.",
+        "firstPage": "2121",
+        "lastPage": "2127",
+        "volume": "14"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Brain",
+          "type": "TISSUE"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 7,
+      "citation": {
+        "id": "8396923",
+        "citationType": "journal article",
+        "authors": [
+          "Funakoshi A.",
+          "Muta H.",
+          "Baba T.",
+          "Shimizu S."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "8396923"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1006/bbrc.1993.2104"
+          }
+        ],
+        "title": "Gene expression of mutant erythropoietin in hepatocellular carcinoma.",
+        "publicationDate": "1993",
+        "journal": "Biochem. Biophys. Res. Commun.",
+        "firstPage": "717",
+        "lastPage": "722",
+        "volume": "195"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [MRNA] OF 58-193",
+        "VARIANTS HEPATOCELLULAR CARCINOMA 131-SER-LEU-132 DELINS ASN-PHE AND GLN-149"
+      ]
+    },
+    {
+      "referenceNumber": 8,
+      "citation": {
+        "id": "3949763",
+        "citationType": "journal article",
+        "authors": [
+          "Lai P.H.",
+          "Everett R.",
+          "Wang F.F.",
+          "Arakawa T.",
+          "Goldwasser E."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "3949763"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1016/s0021-9258(17)35756-3"
+          }
+        ],
+        "title": "Structural characterization of human erythropoietin.",
+        "publicationDate": "1986",
+        "journal": "J. Biol. Chem.",
+        "firstPage": "3116",
+        "lastPage": "3121",
+        "volume": "261"
+      },
+      "referencePositions": [
+        "PROTEIN SEQUENCE OF 28-193",
+        "DISULFIDE BONDS"
+      ],
+      "referenceComments": [
+        {
+          "value": "Urine",
+          "type": "TISSUE"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 9,
+      "citation": {
+        "id": "6698989",
+        "citationType": "journal article",
+        "authors": [
+          "Yanagawa S.",
+          "Hirade K.",
+          "Ohnota H.",
+          "Sasaki R.",
+          "Chiba H.",
+          "Ueda M.",
+          "Goto M."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "6698989"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1016/s0021-9258(17)43202-9"
+          }
+        ],
+        "title": "Isolation of human erythropoietin with monoclonal antibodies.",
+        "publicationDate": "1984",
+        "journal": "J. Biol. Chem.",
+        "firstPage": "2707",
+        "lastPage": "2710",
+        "volume": "259"
+      },
+      "referencePositions": [
+        "PRELIMINARY PROTEIN SEQUENCE OF 28-57"
+      ]
+    },
+    {
+      "referenceNumber": 10,
+      "citation": {
+        "id": "3346214",
+        "citationType": "journal article",
+        "authors": [
+          "Takeuchi M.",
+          "Takasaki S.",
+          "Miyazaki H.",
+          "Kato T.",
+          "Hoshi S.",
+          "Kochibe N.",
+          "Kobata A."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "3346214"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1016/s0021-9258(18)68975-6"
+          }
+        ],
+        "title": "Comparative study of the asparagine-linked sugar chains of human erythropoietins purified from urine and the culture medium of recombinant Chinese hamster ovary cells.",
+        "publicationDate": "1988",
+        "journal": "J. Biol. Chem.",
+        "firstPage": "3657",
+        "lastPage": "3663",
+        "volume": "263"
+      },
+      "referencePositions": [
+        "STRUCTURE OF CARBOHYDRATES"
+      ]
+    },
+    {
+      "referenceNumber": 11,
+      "citation": {
+        "id": "3219367",
+        "citationType": "journal article",
+        "authors": [
+          "Sasaki H.",
+          "Ochi N.",
+          "Dell A.",
+          "Fukuda M."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "3219367"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1021/bi00423a017"
+          }
+        ],
+        "title": "Site-specific glycosylation of human recombinant erythropoietin: analysis of glycopeptides or peptides at each glycosylation site by fast atom bombardment mass spectrometry.",
+        "publicationDate": "1988",
+        "journal": "Biochemistry",
+        "firstPage": "8618",
+        "lastPage": "8626",
+        "volume": "27"
+      },
+      "referencePositions": [
+        "STRUCTURE OF CARBOHYDRATES"
+      ]
+    },
+    {
+      "referenceNumber": 12,
+      "citation": {
+        "id": "1820196",
+        "citationType": "journal article",
+        "authors": [
+          "Takeuchi M.",
+          "Kobata A."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "1820196"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1093/glycob/1.4.337"
+          }
+        ],
+        "title": "Structures and functional roles of the sugar chains of human erythropoietins.",
+        "publicationDate": "1991",
+        "journal": "Glycobiology",
+        "firstPage": "337",
+        "lastPage": "346",
+        "volume": "1"
+      },
+      "referencePositions": [
+        "STRUCTURE OF CARBOHYDRATES"
+      ]
+    },
+    {
+      "referenceNumber": 13,
+      "citation": {
+        "id": "11739166",
+        "citationType": "journal article",
+        "authors": [
+          "Skibeli V.",
+          "Nissen-Lie G.",
+          "Torjesen P."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "11739166"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1182/blood.v98.13.3626"
+          }
+        ],
+        "title": "Sugar profiling proves that human serum erythropoietin differs from recombinant human erythropoietin.",
+        "publicationDate": "2001",
+        "journal": "Blood",
+        "firstPage": "3626",
+        "lastPage": "3634",
+        "volume": "98"
+      },
+      "referencePositions": [
+        "STRUCTURE OF CARBOHYDRATES"
+      ]
+    },
+    {
+      "referenceNumber": 14,
+      "citation": {
+        "id": "32989016",
+        "citationType": "journal article",
+        "authors": [
+          "Lin Z.",
+          "King R.",
+          "Tang V.",
+          "Myers G.",
+          "Balbin-Cuesta G.",
+          "Friedman A.",
+          "McGee B.",
+          "Desch K.",
+          "Ozel A.B.",
+          "Siemieniak D.",
+          "Reddy P.",
+          "Emmer B.",
+          "Khoriaty R."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "32989016"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1128/mcb.00180-20"
+          }
+        ],
+        "title": "The endoplasmic reticulum cargo receptor SURF4 facilitates efficient erythropoietin secretion.",
+        "publicationDate": "2020",
+        "journal": "Mol. Cell. Biol.",
+        "firstPage": "0",
+        "lastPage": "0",
+        "volume": "40"
+      },
+      "referencePositions": [
+        "SUBCELLULAR LOCATION"
+      ]
+    },
+    {
+      "referenceNumber": 15,
+      "citation": {
+        "id": "29514032",
+        "citationType": "journal article",
+        "authors": [
+          "Zmajkovic J.",
+          "Lundberg P.",
+          "Nienhold R.",
+          "Torgersen M.L.",
+          "Sundan A.",
+          "Waage A.",
+          "Skoda R.C."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "29514032"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1056/nejmoa1709064"
+          }
+        ],
+        "title": "A Gain-of-function mutation in EPO in familial erythrocytosis.",
+        "publicationDate": "2018",
+        "journal": "N. Engl. J. Med.",
+        "firstPage": "924",
+        "lastPage": "930",
+        "volume": "378"
+      },
+      "referencePositions": [
+        "INVOLVEMENT IN ECYT5"
+      ]
+    },
+    {
+      "referenceNumber": 16,
+      "citation": {
+        "id": "9774108",
+        "citationType": "journal article",
+        "authors": [
+          "Syed R.S.",
+          "Reid S.W.",
+          "Li C.",
+          "Cheetham J.C.",
+          "Aoki K.H.",
+          "Liu B.",
+          "Zhan H.",
+          "Osslund T.D.",
+          "Chirino A.J.",
+          "Zhang J.",
+          "Finer-Moore J.",
+          "Elliott S.",
+          "Sitney K.",
+          "Katz B.A.",
+          "Matthews D.J.",
+          "Wendoloski J.J.",
+          "Egrie J.",
+          "Stroud R.M."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "9774108"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1038/26773"
+          }
+        ],
+        "title": "Efficiency of signalling through cytokine receptors depends critically on receptor orientation.",
+        "publicationDate": "1998",
+        "journal": "Nature",
+        "firstPage": "511",
+        "lastPage": "516",
+        "volume": "395"
+      },
+      "referencePositions": [
+        "X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 28-193 IN COMPLEX WITH EPOR",
+        "FUNCTION"
+      ]
+    },
+    {
+      "referenceNumber": 17,
+      "citation": {
+        "id": "9783743",
+        "citationType": "journal article",
+        "authors": [
+          "Cheetham J.C.",
+          "Smith D.M.",
+          "Aoki K.H.",
+          "Stevenson J.L.",
+          "Hoeffel T.J.",
+          "Syed R.S.",
+          "Egrie J.",
+          "Harvey T.S."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "9783743"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1038/2302"
+          }
+        ],
+        "title": "NMR structure of human erythropoietin and a comparison with its receptor bound conformation.",
+        "publicationDate": "1998",
+        "journal": "Nat. Struct. Biol.",
+        "firstPage": "861",
+        "lastPage": "866",
+        "volume": "5"
+      },
+      "referencePositions": [
+        "STRUCTURE BY NMR OF 28-193"
+      ]
+    },
+    {
+      "referenceNumber": 18,
+      "citation": {
+        "id": "18458324",
+        "citationType": "journal article",
+        "authoringGroup": [
+          "Genetics of diabetes and diabetic complication study group"
+        ],
+        "authors": [
+          "Tong Z.",
+          "Yang Z.",
+          "Patel S.",
+          "Chen H.",
+          "Gibbs D.",
+          "Yang X.",
+          "Hau V.S.",
+          "Kaminoh Y.",
+          "Harmon J.",
+          "Pearson E.",
+          "Buehler J.",
+          "Chen Y.",
+          "Yu B.",
+          "Tinkham N.H.",
+          "Zabriskie N.A.",
+          "Zeng J.",
+          "Luo L.",
+          "Sun J.K.",
+          "Prakash M.",
+          "Hamam R.N.",
+          "Tonna S.",
+          "Constantine R.",
+          "Ronquillo C.C.",
+          "Sadda S.",
+          "Avery R.L.",
+          "Brand J.M.",
+          "London N.",
+          "Anduze A.L.",
+          "King G.L.",
+          "Bernstein P.S.",
+          "Watkins S.",
+          "Jorde L.B.",
+          "Li D.Y.",
+          "Aiello L.P.",
+          "Pollak M.R.",
+          "Zhang K."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "18458324"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1073/pnas.0800454105"
+          }
+        ],
+        "title": "Promoter polymorphism of the erythropoietin gene in severe diabetic eye and kidney complications.",
+        "publicationDate": "2008",
+        "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+        "firstPage": "6998",
+        "lastPage": "7003",
+        "volume": "105"
+      },
+      "referencePositions": [
+        "INVOLVEMENT IN SUSCEPTIBILITY TO MICROVASCULAR COMPLICATIONS OF DIABETES TYPE 2"
+      ]
+    },
+    {
+      "referenceNumber": 19,
+      "citation": {
+        "id": "27651169",
+        "citationType": "journal article",
+        "authors": [
+          "Camps C.",
+          "Petousi N.",
+          "Bento C.",
+          "Cario H.",
+          "Copley R.R.",
+          "McMullin M.F.",
+          "van Wijk R.",
+          "Ratcliffe P.J.",
+          "Robbins P.A.",
+          "Taylor J.C."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "27651169"
+          },
+          {
+            "database": "DOI",
+            "id": "10.3324/haematol.2016.144063"
+          }
+        ],
+        "title": "Gene panel sequencing improves the diagnostic work-up of patients with idiopathic erythrocytosis and identifies new mutations.",
+        "publicationDate": "2016",
+        "journal": "Haematologica",
+        "firstPage": "1306",
+        "lastPage": "1318",
+        "volume": "101"
+      },
+      "referencePositions": [
+        "INVOLVEMENT IN ECYT5",
+        "VARIANTS ECYT5 ASN-70; ARG-84; LEU-114 AND CYS-147",
+        "VARIANT GLY-99"
+      ]
+    },
+    {
+      "referenceNumber": 20,
+      "citation": {
+        "id": "28283061",
+        "citationType": "journal article",
+        "authors": [
+          "Kim A.R.",
+          "Ulirsch J.C.",
+          "Wilmes S.",
+          "Unal E.",
+          "Moraga I.",
+          "Karakukcu M.",
+          "Yuan D.",
+          "Kazerounian S.",
+          "Abdulhay N.J.",
+          "King D.S.",
+          "Gupta N.",
+          "Gabriel S.B.",
+          "Lander E.S.",
+          "Patiroglu T.",
+          "Ozcan A.",
+          "Ozdemir M.A.",
+          "Garcia K.C.",
+          "Piehler J.",
+          "Gazda H.T.",
+          "Klein D.E.",
+          "Sankaran V.G."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "28283061"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1016/j.cell.2017.02.026"
+          }
+        ],
+        "title": "Functional selectivity in cytokine signaling revealed through a pathogenic EPO mutation.",
+        "publicationDate": "2017",
+        "journal": "Cell",
+        "firstPage": "1053",
+        "lastPage": "1064",
+        "volume": "168"
+      },
+      "referencePositions": [
+        "INVOLVEMENT IN DBAL",
+        "VARIANT DBAL GLN-177",
+        "CHARACTERIZATION OF VARIANT DBAL GLN-177",
+        "FUNCTION",
+        "MUTAGENESIS OF SER-127"
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "EMBL",
+      "id": "X02158",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "CAA26095.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "X02157",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "CAA26094.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "M11319",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAA52400.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF053356",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAC78791.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF202308",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF23132.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF202306",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF23132.1"
+        },
+        {
+          "key": "Status",
+          "value": "JOINED"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF202307",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF23132.1"
+        },
+        {
+          "key": "Status",
+          "value": "JOINED"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AH009004",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF23133.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF202311",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF17572.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF202314",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF23134.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF202312",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF23134.1"
+        },
+        {
+          "key": "Status",
+          "value": "JOINED"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AF202313",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF23134.1"
+        },
+        {
+          "key": "Status",
+          "value": "JOINED"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AC009488",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAP22357.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "BC093628",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAH93628.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "BC111937",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAI11938.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "S65458",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAD13964.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "CCDS",
+      "id": "CCDS5705.1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PIR",
+      "id": "A01855",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "ZUHU"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_000790.2",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_000799.4"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1BUY",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "NMR"
+        },
+        {
+          "key": "Resolution",
+          "value": "-"
+        },
+        {
+          "key": "Chains",
+          "value": "A=28-193"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1CN4",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "2.80 A"
+        },
+        {
+          "key": "Chains",
+          "value": "C=28-193"
+        }
+      ]
+    },
+    {
+      "database": "PDB",
+      "id": "1EER",
+      "properties": [
+        {
+          "key": "Method",
+          "value": "X-ray"
+        },
+        {
+          "key": "Resolution",
+          "value": "1.90 A"
+        },
+        {
+          "key": "Chains",
+          "value": "A=28-193"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1BUY",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1CN4",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PDBsum",
+      "id": "1EER",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "MDposit",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SMR",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "BioGRID",
+      "id": "108370",
+      "properties": [
+        {
+          "key": "Interactions",
+          "value": "35"
+        }
+      ]
+    },
+    {
+      "database": "ComplexPortal",
+      "id": "CPX-26531",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Erythropoietin receptor-ligand complex"
+        }
+      ]
+    },
+    {
+      "database": "CORUM",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "DIP",
+      "id": "DIP-5731N",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "FunCoup",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Number of interactors",
+          "value": "843"
+        }
+      ]
+    },
+    {
+      "database": "IntAct",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Interactions",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "database": "MINT",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "NDEx",
+      "id": "IQUERY-CP-EPO",
+      "properties": [
+        {
+          "key": "Evidences",
+          "value": "18 NDEx IQuery Curated Pathways"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "9606.ENSP00000252723",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "ChEMBL",
+      "id": "CHEMBL5837",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Allergome",
+      "id": "11697",
+      "properties": [
+        {
+          "key": "AllergenName",
+          "value": "Hom s EPO"
+        }
+      ]
+    },
+    {
+      "database": "GlyConnect",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "201 N-Linked glycans (3 sites), 26 O-Linked glycans (1 site)"
+        }
+      ]
+    },
+    {
+      "database": "GlyCosmos",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "4 sites, 210 glycans"
+        }
+      ]
+    },
+    {
+      "database": "GlyGen",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "5 sites, 190 N-linked glycans (4 sites), 18 O-linked glycans (2 sites)"
+        }
+      ]
+    },
+    {
+      "database": "iPTMnet",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "MetOSite",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PhosphoSitePlus",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "BioMuta",
+      "id": "EPO",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "DMDM",
+      "id": "119526",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "MassIVE",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "9606-ENSP00000252723",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PeptideAtlas",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Antibodypedia",
+      "id": "4151",
+      "properties": [
+        {
+          "key": "antibodies",
+          "value": "1324 antibodies from 42 providers"
+        }
+      ]
+    },
+    {
+      "database": "DNASU",
+      "id": "2056",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENST00000252723.3",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSP00000252723.2"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSG00000130427.3"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "2056",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "hsa:2056",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "MANE-Select",
+      "id": "ENST00000252723.3",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSP00000252723.2"
+        },
+        {
+          "key": "RefSeqNucleotideId",
+          "value": "NM_000799.4"
+        },
+        {
+          "key": "RefSeqProteinId",
+          "value": "NP_000790.2"
+        }
+      ]
+    },
+    {
+      "database": "UCSC",
+      "id": "uc003uwi.5",
+      "properties": [
+        {
+          "key": "OrganismName",
+          "value": "human"
+        }
+      ]
+    },
+    {
+      "database": "AGR",
+      "id": "HGNC:3415",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "ClinPGx",
+      "id": "PA27833",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CTD",
+      "id": "2056",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "DisGeNET",
+      "id": "2056",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GeneCards",
+      "id": "EPO",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HGNC",
+      "id": "HGNC:3415",
+      "properties": [
+        {
+          "key": "GeneName",
+          "value": "EPO"
+        }
+      ]
+    },
+    {
+      "database": "HPA",
+      "id": "ENSG00000130427",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Tissue enriched (liver)"
+        }
+      ]
+    },
+    {
+      "database": "MalaCards",
+      "id": "EPO",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "MIM",
+      "id": "133170",
+      "properties": [
+        {
+          "key": "Type",
+          "value": "gene"
+        }
+      ]
+    },
+    {
+      "database": "MIM",
+      "id": "612623",
+      "properties": [
+        {
+          "key": "Type",
+          "value": "phenotype"
+        }
+      ]
+    },
+    {
+      "database": "MIM",
+      "id": "617907",
+      "properties": [
+        {
+          "key": "Type",
+          "value": "phenotype"
+        }
+      ]
+    },
+    {
+      "database": "MIM",
+      "id": "617911",
+      "properties": [
+        {
+          "key": "Type",
+          "value": "phenotype"
+        }
+      ]
+    },
+    {
+      "database": "OpenTargets",
+      "id": "ENSG00000130427",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Orphanet",
+      "id": "247511",
+      "properties": [
+        {
+          "key": "Disease",
+          "value": "Autosomal dominant secondary polycythemia"
+        }
+      ]
+    },
+    {
+      "database": "VEuPathDB",
+      "id": "HostDB:ENSG00000130427",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "ENOG502RXRC",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT00390000017226",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HOGENOM",
+      "id": "CLU_110946_0_0_1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "InParanoid",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OMA",
+      "id": "AMEFPRL",
+      "properties": [
+        {
+          "key": "Fingerprint",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "9892121at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PAN-GO",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Number of GO annotations",
+          "value": "8 GO annotations based on evolutionary models"
+        }
+      ]
+    },
+    {
+      "database": "PhylomeDB",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PathwayCommons",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-HSA-1234158",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Regulation of gene expression by Hypoxia-inducible Factor"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-HSA-9006335",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Signaling by Erythropoietin"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-HSA-9027276",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Erythropoietin activates Phosphoinositide-3-kinase (PI3K)"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-HSA-9027277",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Erythropoietin activates Phospholipase C gamma (PLCG)"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-HSA-9027283",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Erythropoietin activates STAT5"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-HSA-9027284",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Erythropoietin activates RAS"
+        }
+      ]
+    },
+    {
+      "database": "SignaLink",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SIGNOR",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Agora",
+      "id": "ENSG00000130427",
+      "properties": [
+        {
+          "key": "NominatedTarget",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "BioGRID-ORCS",
+      "id": "2056",
+      "properties": [
+        {
+          "key": "hits",
+          "value": "14 hits in 1149 CRISPR screens"
+        }
+      ]
+    },
+    {
+      "database": "CD-CODE",
+      "id": "FB4E32DD",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Presynaptic clusters and postsynaptic densities"
+        }
+      ]
+    },
+    {
+      "database": "EvolutionaryTrace",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GeneWiki",
+      "id": "Erythropoietin",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GenomeRNAi",
+      "id": "2056",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Pharos",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "DevelopmentLevel",
+          "value": "Tbio"
+        }
+      ]
+    },
+    {
+      "database": "PRO",
+      "id": "PR:P01588",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000005640",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 7"
+        }
+      ]
+    },
+    {
+      "database": "RNAct",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "moleculeType",
+          "value": "protein"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSG00000130427",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in right lobe of liver and 65 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "ExpressionAtlas",
+      "id": "P01588",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "baseline and differential"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0044297",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:cell body"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0009986",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:cell surface"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "14569084"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005576",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:extracellular region"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "32989016"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0043235",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:signaling receptor complex"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IPI:ComplexPortal"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000353",
+          "source": "PubMed",
+          "id": "9774108"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005125",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:cytokine activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "9774108"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005128",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:erythropoietin receptor binding"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "28283061"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005179",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:hormone activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "9722506"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0030295",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:protein kinase activator activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006953",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:acute-phase response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0008015",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:blood circulation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "NAS:ProtInc"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000303",
+          "source": "PubMed",
+          "id": "3838366"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0097696",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:cell surface receptor signaling pathway via STAT"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "9722506"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0071474",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:cellular hyperosmotic response"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "14569084"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0030218",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:erythrocyte differentiation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "15084469"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0038162",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:erythropoietin-mediated signaling pathway"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "9774108"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0010523",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of calcium ion transport into cytosol"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "14569084"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1902251",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of erythrocyte apoptotic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "14569084"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:1902219",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "14569084"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0000122",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:negative regulation of transcription by RNA polymerase II"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "16497104"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0042104",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of activated T cell proliferation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0008284",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of cell population proliferation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "9722506"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045893",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of DNA-templated transcription"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "9722506"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0070374",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of ERK1 and ERK2 cascade"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0045666",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of neuron differentiation"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0010976",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of neuron projection development"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0046579",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of Ras protein signal transduction"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:BHF-UCL"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "9722506"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0048678",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to axon injury"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0071548",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to dexamethasone"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0051602",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to electrical stimulus"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0043627",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to estrogen"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0055093",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to hyperoxia"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0001666",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to hypoxia"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0070555",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to interleukin-1"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0032496",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to lipopolysaccharide"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0009651",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to salt stress"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0033574",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to testosterone"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0033189",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:response to vitamin A"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0007165",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:signal transduction"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "NAS:ProtInc"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000303",
+          "source": "PubMed",
+          "id": "3838366"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "1.20.1250.10:FF:000013",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Erythropoietin"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "1.20.1250.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "-"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR009079",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "4_helix_cytokine-like_core"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR019767",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "EPO/TPO_CS"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR001323",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "EPO_TPO"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR003013",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Erythroptn"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR10370",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "ERYTHROPOIETIN"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR10370:SF0",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "ERYTHROPOIETIN"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF00758",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "EPO_TPO"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PIRSF",
+      "id": "PIRSF001951",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "EPO"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PRINTS",
+      "id": "PR00272",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "ERYTHROPTN"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF47266",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "4-helical cytokines"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS00817",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "EPO_TPO"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MGVHECPAWLWLLLSLLSLPLGLPVLGAPPRLICDSRVLERYLLEAKEAENITTGCAEHCSLNENITVPDTKVNFYAWKRMEVGQQAVEVWQGLALLSEAVLRGQALLVNSSQPWEPLQLHVDKAVSGLRSLTTLLRALGAQKEAISPPDAASAAPLRTITADTFRKLFRVYSNFLRGKLKLYTGEACRTGDR",
+    "length": 193,
+    "molWeight": 21307,
+    "crc64": "C91F0E4C26A52033",
+    "md5": "3462A824B3F6F5A28C343D6C3F5959B9"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "FUNCTION": 1,
+      "INTERACTION": 4,
+      "SUBCELLULAR LOCATION": 1,
+      "TISSUE SPECIFICITY": 1,
+      "DISEASE": 3,
+      "PHARMACEUTICAL": 1,
+      "SIMILARITY": 1,
+      "WEB RESOURCE": 2
+    },
+    "countByFeatureType": {
+      "Signal": 1,
+      "Chain": 1,
+      "Glycosylation": 4,
+      "Disulfide bond": 2,
+      "Natural variant": 8,
+      "Mutagenesis": 1,
+      "Sequence conflict": 3,
+      "Helix": 10,
+      "Beta strand": 4
+    },
+    "uniParcId": "UPI0000033477"
+  }
+}

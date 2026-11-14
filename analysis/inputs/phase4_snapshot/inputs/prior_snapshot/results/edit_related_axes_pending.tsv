@@ -1,0 +1,5 @@
+edit	related_axis	primary_axis	status	reason
+GGTA1 KO	XP074	XP004	NEEDS_DECISION_Q02	XP074 is alphaGal–LGALS3 adhesion, distinct from XP004 antibody/complement. Canonical mapping only lists XP004; no automatic propagation.
+hCD47 KI	XP068	XP020	NO_AUTOMATIC_REVERSE_MAPPING	XP068 has pig SIRPA/human CD47 species roles and is already control; does not equal XP020
+GHR KO	XP053	XP052	NO_AUTOMATIC_REVERSE_MAPPING	XP053 is pig GH1 on human GHR, not donor GHR; no shared-ID or gene-name-only masking
+donor ABO phenotype	XP079	NA	UNKNOWN_APPLICABILITY	Axis is phenotype conditional; donor ABO phenotype absent. Kept unchanged, not implicitly absent.

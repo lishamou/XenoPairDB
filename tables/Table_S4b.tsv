@@ -1,0 +1,7 @@
+Divergence weight	Spearman vs 0.6	Unique pairs in top 100 rows	Jaccard vs 0.6
+0.0	0.454	88	0.479
+0.2	0.691	90	0.661
+0.4	0.881	92	0.848
+0.6	1.000	91	1.000
+0.8	0.946	92	0.726
+1.0	0.854	93	0.219

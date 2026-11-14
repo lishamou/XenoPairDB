@@ -1,0 +1,13 @@
+scheme	endpoint	mapped_rows	mapped_control_observed_rows	shared_peptide_sequences	included_peptides	n
+M0	observed_control	30	7	0	7	6
+M0	source_model_FC	30	7	0	30	22
+M1	observed_control	30	7	0	7	6
+M1	source_model_FC	30	7	0	30	22
+M2	observed_control	30	7	0	7	6
+M2	source_model_FC	30	7	0	30	22
+M3	observed_control	41	8	0	8	7
+M3	source_model_FC	41	8	0	41	28
+M4	observed_control	44	8	0	8	7
+M4	source_model_FC	44	8	0	44	29
+M5	observed_control	40	8	0	8	7
+M5	source_model_FC	40	8	0	40	29

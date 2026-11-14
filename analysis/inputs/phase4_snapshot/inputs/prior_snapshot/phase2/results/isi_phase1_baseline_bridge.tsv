@@ -1,0 +1,19 @@
+model	donor	T	A	R	C	n_sequence_available	n_noncontrol	note
+phase1_mixed3	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	1079.55249	60.707706	1018.844784	0.0562341401296754	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+phase1_mixed3	ClonOrgan-8GE (Xijing kidney #2 2026)	1079.55249	73.887106	1005.665384	0.0684423468839389	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+phase1_mixed3	GTKO (NYU 2021-23)	1079.55249	0	1079.55249	0	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+phase1_mixed3	Revivicor-10GE (Maryland heart/NYU kidney)	1079.55249	88.412386	991.140104	0.0818972554081182	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+phase1_mixed3	Yunnan-10GE (Anhui auxiliary liver 2024)	1079.55249	124.05677	955.49572	0.114914995935029	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+phase1_mixed3	eGenesis-69GE (MGH kidney 2024-25)	1079.55249	94.785746	984.766744	0.0878009609333586	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+sequence_only	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	1071.04889	56.157706	1014.891184	0.0524324393819222	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+sequence_only	ClonOrgan-8GE (Xijing kidney #2 2026)	1071.04889	71.008506	1000.040384	0.0662980996133612	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+sequence_only	GTKO (NYU 2021-23)	1071.04889	0	1071.04889	0	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+sequence_only	Revivicor-10GE (Maryland heart/NYU kidney)	1071.04889	85.533786	985.515104	0.079859833475949	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+sequence_only	Yunnan-10GE (Anhui auxiliary liver 2024)	1071.04889	121.17817	949.87072	0.11313971857998	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+sequence_only	eGenesis-69GE (MGH kidney 2024-25)	1071.04889	91.907146	979.141744	0.0858104115116538	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+mixed3_CFH_legacy_exception	ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	1068.45249	60.707706	1007.744784	0.0568183485631635	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+mixed3_CFH_legacy_exception	ClonOrgan-8GE (Xijing kidney #2 2026)	1068.45249	73.887106	994.565384	0.0691533846301392	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+mixed3_CFH_legacy_exception	GTKO (NYU 2021-23)	1068.45249	0	1068.45249	0	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+mixed3_CFH_legacy_exception	Revivicor-10GE (Maryland heart/NYU kidney)	1068.45249	88.412386	980.040104	0.0827480742732885	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+mixed3_CFH_legacy_exception	Yunnan-10GE (Anhui auxiliary liver 2024)	1068.45249	124.05677	944.39572	0.116108831380982	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved
+mixed3_CFH_legacy_exception	eGenesis-69GE (MGH kidney 2024-25)	1068.45249	94.785746	973.666744	0.0887131125502829	61	51	two_missing_sequence_controls_zero_severity_not_ranked;12_missing_noncontrol_unresolved

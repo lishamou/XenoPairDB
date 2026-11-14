@@ -1,0 +1,9 @@
+Comparison / n	Spearman rho	95% interval	Permutation p	Secondary BH q
+Primary / 6	-0.714	-1.000 to 0.226	0.13803	NA
+Include literature positives / 6	-0.714	-1.000 to 0.226	0.13803	0.27606
+Exact accession / 3	NA	NA to NA	NA	NA
+All controls observed / 1	NA	NA to NA	NA	NA
+Source-model FC / 22	-0.248	-0.663 to 0.252	0.26743	0.35657
+Protein-level / 137	0.137	-0.045 to 0.316	0.10787	0.27606
+Abundance complete / 5	-0.500	-1.000 to 1.000	0.44909	0.44909
+Abundance adjusted / 5	-0.972	NA to NA	NA	NA

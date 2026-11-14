@@ -1,0 +1,6 @@
+Protein / template	Aligned	Raw RMSD	Filtered n / RMSD	Raw-fit residue contacts
+ICAM1 / 1MQ8	178	1.81	161 / 1.19	40
+ULBP1 / 1KCG	170	2.61	137 / 0.96	41
+CD86 / 1I8L	162	8.15	12 / 1.10	40
+CD274 / 4ZQK	115	0.86	113 / 0.79	64
+THBD / 1DX5	117	2.64	88 / 1.24	54

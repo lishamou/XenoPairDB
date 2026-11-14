@@ -1,0 +1,4 @@
+donor	organ	Complement	Coagulation	Immune	Cytokine	Endocrine	Adhesion	all_six_unmasked	masked_Complement	masked_Coagulation	masked_Immune	masked_Cytokine	masked_Endocrine	masked_Adhesion	all_six_masked	selected_systems	selected_total
+Yunnan-10GE	liver	34	103	301	261	102	145	946	8	40	60	103	60	85	356	Complement,Coagulation,Endocrine	239
+Revivicor-10GE	heart	60	126	301	261	102	145	995	28	30	40	80	60	96	334	Complement,Coagulation,Endocrine	288
+eGenesis-69GE	kidney	60	126	280	261	102	145	974	38	40	80	110	60	96	424	Complement,Coagulation,Endocrine	288

@@ -1,0 +1,13 @@
+{
+  "figure": 2,
+  "source_table": "figure2_source.tsv",
+  "source_sha256": "57b46e18928131c79c939ccf9321b6bef8eabb0da78bceec94bf1882d7b3fe97",
+  "source_extractor": "code/extract_figure_sources.py",
+  "source_extractor_sha256": "1ed3057722468968c4d547b6fabcd586c7894dcaae8a33fed5dceae516afaad8",
+  "plotting_code": "code/plot_figures.R",
+  "plotting_code_sha256": "42adc56fb4a09b60e46f52828833d15c85dc6e8884ea325995eb3f088262e5af",
+  "png_sha256": "dac8d95678910af5ee179d3d9227241ba1678b98da8a09f69197a9adbde061bc",
+  "pdf_sha256": "dba103c052918e842e9daa38c62137ae7d32b9099495771211b16f31dba57f1a",
+  "source_table_replayed": true,
+  "export": "Frozen verified figure export; graphical R export not rerun in this environment."
+}

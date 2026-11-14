@@ -1,0 +1,13 @@
+Comparison / n per group	Difference	95% model CI	Exact p	Holm p
+C3b cyno 30min 7TG / 3:3	-6.339	-11.138 to -1.540	0.10	1.00
+C3b cyno 30min RI / 2:3	-6.337	-11.756 to -0.917	0.10	1.00
+C3b human 30min 7TG / 3:3	-3.843	-5.644 to -2.042	0.10	1.00
+C3b human 30min RI / 2:3	-3.977	-6.102 to -1.853	0.10	1.00
+CDC cyno 45min 7TG / 3:3	-38.815	-55.629 to -22.000	0.10	1.00
+CDC cyno 45min RI / 2:3	-36.738	-51.322 to -22.154	0.10	1.00
+CDC human 45min 7TG / 3:3	0.003	-1.431 to 1.437	1.00	1.00
+CDC human 45min RI / 2:3	-0.063	-1.540 to 1.414	0.90	1.00
+CDC, Extended Data Fig. 4 cyno 15h 7TG / 3:3	-77.619	-87.549 to -67.690	0.10	1.00
+CDC, Extended Data Fig. 4 cyno 45min 7TG / 3:3	-66.476	-74.983 to -57.970	0.10	1.00
+CDC, Extended Data Fig. 4 human 15h 7TG / 3:3	-25.387	-76.222 to 25.449	0.10	1.00
+CDC, Extended Data Fig. 4 human 45min 7TG / 3:3	-0.815	-2.352 to 0.721	0.30	1.00

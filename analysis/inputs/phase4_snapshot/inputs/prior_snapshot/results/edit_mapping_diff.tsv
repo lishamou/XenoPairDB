@@ -1,0 +1,7 @@
+donor	legacy_gene	candidate_gene	legacy_pair_id	candidate_pair_id	status	basis
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	B4GALNT2	B4GALNT2	NA	XP063	CANONICAL_REPORTED_MAPPING_CANDIDATE_Q02	canonical/genotype_definitions.tsv:row5
+ClonOrgan-8GE (Xijing kidney #2 2026)	B4GALNT2	B4GALNT2	NA	XP063	CANONICAL_REPORTED_MAPPING_CANDIDATE_Q02	canonical/genotype_definitions.tsv:row11
+Yunnan-10GE (Anhui auxiliary liver 2024)	B4GALNT2	B4GALNT2	NA	XP063	CANONICAL_REPORTED_MAPPING_CANDIDATE_Q02	canonical/genotype_definitions.tsv:row19
+Revivicor-10GE (Maryland heart/NYU kidney)	B4GALNT2	B4GALNT2	NA	XP063	CANONICAL_REPORTED_MAPPING_CANDIDATE_Q02	canonical/genotype_definitions.tsv:row29
+Revivicor-10GE (Maryland heart/NYU kidney)	GHRHR	GHR	NA	XP052	CANONICAL_REPORTED_MAPPING_CANDIDATE_Q02	canonical/genotype_definitions.tsv:row30
+eGenesis-69GE (MGH kidney 2024-25)	B4GALNT2	B4GALNT2	NA	XP063	CANONICAL_REPORTED_MAPPING_CANDIDATE_Q02	canonical/genotype_definitions.tsv:row39

@@ -1,0 +1,71 @@
+{
+  "status": "EXTRACTION_VERIFIED_TIMEPOINT_UNRESOLVED_PREPOST_NOT_COMPUTABLE",
+  "S1_caption_verbatim": "S1 Table. List of serum IgM and IgG natural antibody signals from five cynomolgas macaques to 408 array components",
+  "n_tables": 1,
+  "n_components": 408,
+  "n_monkeys": 5,
+  "n_isotypes": 2,
+  "n_matrix_cells": 4080,
+  "n_numeric_values": 4076,
+  "n_signal_matrices": 1,
+  "n_source_missing_numeric_values": 4,
+  "missing_cells": [
+    {
+      "print_id": 339,
+      "monkey_id": "13CP10",
+      "isotype": "IgM"
+    },
+    {
+      "print_id": 339,
+      "monkey_id": "13CP10",
+      "isotype": "IgG"
+    },
+    {
+      "print_id": 383,
+      "monkey_id": "13CP10",
+      "isotype": "IgM"
+    },
+    {
+      "print_id": 383,
+      "monkey_id": "13CP10",
+      "isotype": "IgG"
+    }
+  ],
+  "unique_array_print_ids": 408,
+  "array_print_id_range": [
+    1,
+    411
+  ],
+  "missing_print_ids_within_range": [
+    97,
+    363,
+    364
+  ],
+  "duplicate_abbreviations": {
+    "Man9 #2": 2
+  },
+  "explicit_control_labels": [
+    "Cy3",
+    "BSA"
+  ],
+  "technical_details_from_article": {
+    "serum_dilution": "1:50",
+    "wells_per_sample_per_isotype": 2,
+    "intensity_floor_before_log2": 150,
+    "reported_values": "duplicate-spot averaged, reference normalized, log2 transformed",
+    "technical_replicates_in_S1": false
+  },
+  "paired_prepost_recomputable_from_S1": false,
+  "separately_labeled_baseline_matrix_present": false,
+  "post_matrix_unambiguously_labeled": false,
+  "peak_timepoint_present": false,
+  "analysis_performed": "structural extraction and missingness/uniqueness checks only; no tests or effect estimates",
+  "restrictions": [
+    "408 array components are not 408 biological replicates",
+    "array contains controls and glycopeptides; not 408 unique protein antigens",
+    "recipient n=5; genotype WT n=4, GGTA1KO n=1; rejection day differs by recipient",
+    "no per-protein glycosylation occupancy",
+    "cannot establish ISI/protein ranking validation",
+    "never infer baseline or timepoint from signal magnitude"
+  ]
+}

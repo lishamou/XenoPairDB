@@ -1,0 +1,409 @@
+array_version	array_print_id	abbreviation	description	explicit_control_by_label	source_table_row_1based
+A411	1	Cy3	Cy3-BSA (20mg/mL + BSA, 125mg/mL total)	yes	3
+A411	2	BSA	Bovine serum albumin	yes	4
+A411	3	Maltose - 23	Glca1-4Glcb-BSA	not_classified	5
+A411	4	Glc-b - 23	Glc-b - BSA	not_classified	6
+A411	5	GalNAc-a - 22	GalNAc-a - BSA	not_classified	7
+A411	6	Glc-a - 22	Glc-a - BSA	not_classified	8
+A411	7	Man-a - 20	Man-a - BSA	not_classified	9
+A411	8	GlcNAc-b -21	GlcNAc-b - BSA	not_classified	10
+A411	9	GalNAc-b - 21	GalNAc-b - BSA	not_classified	11
+A411	10	Fuc-b - 22	Fuc-b - BSA	not_classified	12
+A411	11	Fuc-a - 22	Fuc-a - BSA	not_classified	13
+A411	12	Rha-a - 18	Rha-a – BSA	not_classified	14
+A411	13	Rha-b - 21	Rha-b - BSA	not_classified	15
+A411	14	Gal-a- 24	Gal-a - BSA	not_classified	16
+A411	15	Gal-b- 21	Gal-b - BSA	not_classified	17
+A411	16	Ac-Tn(Thr)-G - 21	Ac(GalNAca)Thr-Gly-Hex-BSA	not_classified	18
+A411	17	GalNAca1-6Galb - 22	GalNAca1-6Galb-BSA	not_classified	19
+A411	18	Adi - 17	GalNAca1-3Galb-BSA	not_classified	20
+A411	19	GlcNAca1-4Galb - 20	GlcNAca1-4Galb-BSA	not_classified	21
+A411	20	Bdi -23	Gala1-3Gal– BSA	not_classified	22
+A411	21	LacNAc - 22	Galb1-4GlcNAc – BSA	not_classified	23
+A411	22	GA1di -11	Galb1-3GalNAcb – HSA	not_classified	24
+A411	23	Lac - 33	Galb1-4Glcb – BSA	not_classified	25
+A411	24	Ac-S-Ser(GlcNAc-a)-S-G - 24	Ac-Ser-(GlcNAcα)Ser-Ser-Gly-Hex-BSA	not_classified	26
+A411	25	Galb1-6Man-a - 13	Galb1-6Man-a - BSA	not_classified	27
+A411	26	Mana1-6Man-a - 15	Mana1-6Man-a - BSA	not_classified	28
+A411	27	Ac-S-Thr(F1a)-S-G - 04	Ac-Ser-(Galb1-4GlcNAcb1-6GalNAca)Thr-Ser-Gly-Hex-BSA	not_classified	29
+A411	28	Cellobiose -13	Glcb1-4Glcb-BSA	not_classified	30
+A411	29	HSA	Human serum albumin (isolated from serum)	not_classified	31
+A411	30	Isomaltose - 13	Glca1-6Glcb-BSA	not_classified	32
+A411	31	Gala1-4Galb - 11	Gala1-4Galb-CETE-BSA	not_classified	33
+A411	32	ManT -26	Mana1-6[Mana1-3]Manb -BSA	not_classified	34
+A411	33	3'Neu5Ac-LacNAc -19	Neu5Aca2-3Galb1-4GlcNAc – BSA	not_classified	35
+A411	34	BG-A -19	GalNAca1-3(Fuca1-2)Galb- -BSA	not_classified	36
+A411	35	2'F-A type 2-Sp - 13	GalNAca1-3[Fuca1-2]Galb1-4[Fuca1-3]GlcNAcb-Sp-BSA	not_classified	37
+A411	36	BG-H1- 20	Fuca1-2Galb1-3GlcNAcb1-3Galb1-4Glcb–APD-HSA	not_classified	38
+A411	37	LeA -18	Galb1-3[Fuca1-4)GlcNAcb1-3Galb1-4Glcb- BSA	not_classified	39
+A411	38	LeB - 09	Fuca1-2Galb1-3(Fuca1-4)GlcNAcb1-3Galb1-4Glcb-BSA	not_classified	40
+A411	39	LeY -08	Fuca1-2Galb1-4[Fuca1-3)GlcNAc –HSA	not_classified	41
+A411	40	LeX (monomeric)	Galb1-4[Fuca1-3)GlcNAc-APD-HSA ; SSEA-1; CD-15	not_classified	42
+A411	41	3'Neu5Ac-LeX (Sialyl LeX) - 09	Neu5Aca2-3Galb1-4[Fuca1-3)GlcNAc – BSA	not_classified	43
+A411	42	Gb3- 13	Gala1-4Galb1-4Glc-HSA [aka: Pk or CD77]	not_classified	44
+A411	43	Xylb4 - 22	Xylb1-4Xylb1-4Xylb1-4Xylb1-BSA	not_classified	45
+A411	44	Ara5 - 20	Araa1-5Araa1-5Araa1-5Araa1-5Araa1-BSA	not_classified	46
+A411	45	X3Glc3 - 15	Xyla1-6Glcb1-4(Xyla1-6)Glcb1-4(Xyla1-6)Glcb1-BSA	not_classified	47
+A411	46	GM3 - 12	Neu5Aca2-3Galb1-4Glc-APD-HSA  (new, IsoSep, bad?)	not_classified	48
+A411	47	6'Neu5Ac-Lac	Neu5Aca2-6Galb1-4Glc-APD-HSA	not_classified	49
+A411	48	3'Neu5Ac-LeA -12	Neu5Aca2-3Galb1-3[Fuca1-4)GlcNAcb1-3Galb1-APD-HSA	not_classified	50
+A411	49	LeX (dimeric) -07	Galb1-4[Fuca1-3)GlcNAcb1-3Galb1-4(Fuca1-3)GlcNAcb1-3Galb1-APE-BSA	not_classified	51
+A411	50	Manb4 - 14	Manb1-4Manb1-4Manb1-4Manb1-BSA	not_classified	52
+A411	51	G2M4 - 07	Manb1-4(Gala1-6)Manb1-4(Gala1-6)Manb1-4Manb1-BSA	not_classified	53
+A411	52	Glca1-6Glca1-4Glca1-4Glcb - 15	Glca1-6Glca1-4Glca1-4Glcb-CETE-BSA	not_classified	54
+A411	53	LNT - 21	Galb1-3GlcNAcb1-3Galb-BSA	not_classified	55
+A411	54	LSTa - 10	Neu5Aca2-3Galb1-3GlcNAcb1-3Galb1-BSA	not_classified	56
+A411	55	LSTb - 11	Galb1-3(Neu5Aca2-6)GlcNAcb1-3Galb1-BSA	not_classified	57
+A411	56	LSTc - 07	Neu5Aca2-6Galb1-3GlcNAcb1-3Galb1-BSA	not_classified	58
+A411	57	GA1 - 20	Galb1-3GalNAcb1-4Galb1-BSA (GA1tri or asialo-GM1)	not_classified	59
+A411	58	BG-B4-06	Gala1-3(Fuca1-2)Galb1-3GalNAcb1-linker-BSA	not_classified	60
+A411	59	BG-B4-High	Gala1-3(Fuca1-2)Galb1-3GalNAcb1-linker-BSA	not_classified	61
+A411	60	BG-A3-04	GalNAca1-3(Fuca1-2)Galb1-3GalNAcα1-linker-BSA	not_classified	62
+A411	61	BG-A3-14	GalNAca1-3(Fuca1-2)Galb1-3GalNAcα1-linker-BSA	not_classified	63
+A411	62	BG-A4-05	GalNAca1-3(Fuca1-2)Galb1-3GalNAcb1-linker-BSA	not_classified	64
+A411	63	BG-A4-14	GalNAca1-3(Fuca1-2)Galb1-3GalNAcb1-linker-BSA	not_classified	65
+A411	64	BG-B2-03	Gala1-3(Fuca1-2)Galb1-4GlcNAcb1-linker-BSA	not_classified	66
+A411	65	BG-B3-05	Gala1-3(Fuca1-2)Galb1-3GalNAcα1-linker-BSA	not_classified	67
+A411	66	BG-B3-17	Gala1-3(Fuca1-2)Galb1-3GalNAcα1-linker-BSA	not_classified	68
+A411	67	BG-A1-04	GalNAca1-3(Fuca1-2)Galb1-3GlcNAcb1-linker-BSA	not_classified	69
+A411	68	BG-A1-12	GalNAca1-3(Fuca1-2)Galb1-3GlcNAcb1-linker-BSA	not_classified	70
+A411	69	BG-A2-04	GalNAca1-3(Fuca1-2)Galb1-4GlcNAcb1-linker-BSA	not_classified	71
+A411	70	BG-A2-16	GalNAca1-3(Fuca1-2)Galb1-4GlcNAcb1-linker-BSA	not_classified	72
+A411	71	BG-B1-05	Gala1-3(Fuca1-2)Galb1-3GlcNAcb1-linker-BSA	not_classified	73
+A411	72	BG-B1-15	Gala1-3(Fuca1-2)Galb1-3GlcNAcb1-linker-BSA	not_classified	74
+A411	73	BG-B2-17	Gala1-3(Fuca1-2)Galb1-4GlcNAcb1-linker-BSA	not_classified	75
+A411	74	Ac-Tn(Ser)-Tn(Ser)-Tn(Ser)-G - 16	Ac-(GalNAca)Ser-(GalNAca)Ser-(GalNAca)Ser-Gly-Hex-BSA	not_classified	76
+A411	75	Chitotriose - 08	GlcNAcb1-4GlcNAcb1-4GlcNAcb-BSA	not_classified	77
+A411	76	Gal3- 07	Gala1-3Galb1-4Gala-BSA	not_classified	78
+A411	77	Man3 - 05	Mana1-6(Mana1-3)Manb1-4GlcNAc -BSA	not_classified	79
+A411	78	Ac-S-S-S-G - 24	Ac-Ser-Ser-Ser-Gly-Hex-BSA	not_classified	80
+A411	79	Ac-S-Tn(Ser)-S-G - 22	Ac-Ser-(GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	81
+A411	80	P1 - 09	Gala1-4Galb1-4GlcNAc-BSA	not_classified	82
+A411	81	Gb4 - 09	GalNAcb1-3Gala1-4Galb1-BSA (aka: P antigen)	not_classified	83
+A411	82	GM1a - 29	Galb1-3GalNAcb1-4(Neu5Aca2-3)Galb1-4(Glc)HSA	not_classified	84
+A411	83	pLNH - 21	Galb1-3GlcNAcb1-3Galb1-4GlcNAcb1-3Galb1-BSA	not_classified	85
+A411	84	HSA (recomb)	human serum albumin (recombinant)	not_classified	86
+A411	85	LNnT - 14	Galb1-4GlcNAcb1-3Galb1-BSA	not_classified	87
+A411	86	Man5 - 05	Mana1-6(Mana1-3)Mana1-6(Mana1-3)Manb1-4GlcNAc-BSA	not_classified	88
+A411	87	Gb4 tetra (P1 tetra)-Sp - 06	GalNAcb1-3Gala1-4Galb1-4GlcNAcb-Sp-BSA	not_classified	89
+A411	88	Man6 - II - 05	Mana1-2Mana1-3Mana1-6(Mana1-2Mana1-3)Manb1-BSA	not_classified	90
+A411	89	DFpLNH I, LeB - 09	Fuca1-2Galb1-3(Fuca1-4)GlcNAcb1-3Galb1-4GlcNAcb1-3Galb-BSA	not_classified	91
+A411	90	DSLNT - 06	Neu5Aca2-3Galb1-3(Neu5Aca2-6)GlcNAcb1-3Galb1-BSA	not_classified	92
+A411	91	Man9 #2	Mana1-2Mana1-6(Mana1-2Mana1-3)Mana1-6(Mana1-2Mana1-2Mana1-3)Manb1-4GlcNAc-BSA	not_classified	93
+A411	92	2'F-B type 2-Sp - 07	Gala1-3[Fuca1-2]Galb1-4[Fuca1-3]GlcNAcb-Sp-BSA	not_classified	94
+A411	93	Man7D3 - 08	Mana1-2Mana1-6(Mana1-3)Mana1-6(Mana1-2Mana1-3)Manb1-4GlcNAc-BSA	not_classified	95
+A411	94	Globo A - 03	GalNAca1-3(Fuca1-2)Galb1-3GalNAcb1-3Gala1-4Galb1-BSA	not_classified	96
+A411	95	Man7D1 - 10	Mana1-6(Mana1-3)Mana1-6(Mana1-2Mana1-2Mana1-3)Manb1-4GlcNAc-BSA	not_classified	97
+A411	96	GM2-Sp - 14	Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	98
+A411	98	BG-H4- 04	Fuca1-2Galb1-3GalNAcb1-linker-BSA	not_classified	99
+A411	99	BG-A1- 05	GalNAca1-3(Fuca1-2)Galb1-3GlcNAcb1-3Galb1-4(Glc)-APD-HSA	not_classified	100
+A411	100	BG-H3- 04	Fuca1-2Galb1-3GalNAcα1-linker-BSA	not_classified	101
+A411	101	BG-B (Dextra) - 13	Gala1-3(Fuca1-2)Galb-BSA [BG-B] from Dextra	not_classified	102
+A411	102	alphaGal- 08	Gala1-3Galb1-4GlcNAc-BSA	not_classified	103
+A411	103	Cellotriose - 13	Glcb1-4Glcb1-4Glcb-BSA	not_classified	104
+A411	104	Maltopentaose - 11	Glca1-4Glca1-4Glca1-4Glca1-4Glca-BSA	not_classified	105
+A411	105	BG-H4- 15	Fuca1-2Galb1-3GalNAcb1-linker-BSA	not_classified	106
+A411	106	Globo B - 05	Gala1-3(Fuca1-2)Galb1-3GalNAcb1-3Gala1-4Galb1-BSA	not_classified	107
+A411	107	LacNAc (trimeric) - 08	Galb1-4GlcNAcb1-3Galb1-4GlcNAcb1-3Galb1-4GlcNAcb-APE-HSA	not_classified	108
+A411	108	Forssman Di - 21	GalNAca1-3GalNAcb1-BSA	not_classified	109
+A411	109	Ac-S-TF(Ser)-S-G - 16	Ac-Ser-(Galb1-3GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	110
+A411	110	Globo H - 03	Fuca1-2Galb1-3GalNAcb1-3Gala1-4Galb1-BSA	not_classified	111
+A411	111	LeC-Sp - 06	Galb1-3GlcNAcb-Sp-BSA	not_classified	112
+A411	112	Globo B - 12	Gala1-3(Fuca1-2)Galb1-3GalNAcb1-3Gala1-4Galb1-BSA	not_classified	113
+A411	113	GalNAc-a - 04	GalNAc-a - BSA	not_classified	114
+A411	114	GalNAca1-6Galb - 04	GalNAca1-6Galb-BSA	not_classified	115
+A411	115	Adi - 04	GalNAca1-3Galb-BSA	not_classified	116
+A411	116	GA2di - 05	GalNAcb1-4Galb - BSA (aka: asialo-GM2)	not_classified	117
+A411	117	LNT - 05	Galb1-3GlcNAcb1-3Galb-BSA	not_classified	118
+A411	118	GA1 - 06	Galb1-3GalNAcb1-4Galb1-BSA (GA1tri or asialo-GM1)	not_classified	119
+A411	119	Forssman Di - 04	GalNAca1-3GalNAcb1-BSA	not_classified	120
+A411	120	Ac-S-Tn(Ser)-S-G - 04	AcSer-(GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	121
+A411	121	Ac-Tn(Ser)Tn(Ser)Tn(Ser)-G - 03	Ac-(GalNAca)Ser-(GalNAca)Ser-(GalNAca)Ser-Gly-Hex-BSA	not_classified	122
+A411	122	Ac-S-Tn(Thr)-S-G - 04	Ac-Ser-(GalNAca)Thr-Ser-Gly-Hex-BSA	not_classified	123
+A411	123	Ac-S-TF(Ser)-S-G - 04	Ac-Ser-(Galb1-3GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	124
+A411	124	GA2di - 37	GalNAcb1-4Galb - BSA (aka: asialo-GM2)	not_classified	125
+A411	125	Forssman Di - 31	GalNAca1-3GalNAcb1-BSA	not_classified	126
+A411	126	Ac-S-Tn(Ser)-S-G - 33	Ac-Ser-(GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	127
+A411	127	Ac-Tn(Ser)Tn(Ser)Tn(Ser)-G - 27	Ac-(GalNAca)Ser-(GalNAca)Ser-(GalNAca)Ser-Gly-Hex-BSA	not_classified	128
+A411	128	Ac-S-TF(Ser)-S-G - 28	Ac-Ser-(Galb1-3GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	129
+A411	129	Chitotriose - 20	GlcNAcb1-4GlcNAcb1-4GlcNAcb-BSA	not_classified	130
+A411	130	Fuc-a - 04	Fuc-a - BSA	not_classified	131
+A411	131	Fuc-b - 04	Fuc-b - BSA	not_classified	132
+A411	132	GlcNAca1-4Galb - 03	GlcNAca1-4Galb-BSA	not_classified	133
+A411	133	LNH - 13	Galb1-4GlcNAcb1-6(Galb1-3GlcNAcb1-3)Galb1-BSA	not_classified	134
+A411	134	LNnH - 11	Galb1-4GlcNAcb1-6(Galb1-4GlcNAcb1-3)Galb1-BSA	not_classified	135
+A411	135	LNnT - 04	Galb1-4GlcNAcb1-3Galb1-BSA	not_classified	136
+A411	136	pLNH - 07	Galb1-3GlcNAcb1-3Galb1-4GlcNAcb1-3Galb1-BSA	not_classified	137
+A411	137	BG-H1- 06	Fuca1-2Galb1-3GlcNAcb1-linker-BSA	not_classified	138
+A411	138	BG-H2- 06	Fuca1-2Galb1-4GlcNAcb1-linker-BSA	not_classified	139
+A411	139	BG-H2- 12	Fuca1-2Galb1-4GlcNAcb1-linker-BSA	not_classified	140
+A411	140	BG-H3- 14	Fuca1-2Galb1-3GalNAcα1-linker-BSA	not_classified	141
+A411	141	Ac-S-Tn(Thr)-A-G - 04	Ac-Ser-(GalNAca)Thr-Ala-Gly-Hex-BSA (muc1)	not_classified	142
+A411	142	Ac-S-Tn(Thr)-A-G - 08	Ac-Ser-(GalNAca)Thr-Ala-Gly-Hex-BSA (muc1)	not_classified	143
+A411	143	Ac-S-Tn(Thr)-A-G - 22	Ac-Ser-(GalNAca)Thr-Ala-Gly-Hex-BSA (muc1)	not_classified	144
+A411	144	Ac-V-Tn(Thr)-S-G - 04	Ac-Val-(GalNAca)Thr-Ser-Gly-Hex-BSA (muc1)	not_classified	145
+A411	145	Ac-V-Tn(Thr)-S-G - 08	Ac-Val-(GalNAca)Thr-Ser-Gly-Hex-BSA (muc1)	not_classified	146
+A411	146	Ac-V-Tn(Thr)-S-G - 19	Ac-Val-(GalNAca)Thr-Ser-Gly-Hex-BSA (muc1)	not_classified	147
+A411	147	Ac-A-Tn(Thr)-S-G - 05	Ac-Ala-(GalNAca)Thr-Ser-Gly-Hex-BSA (muc4)	not_classified	148
+A411	148	Ac-A-Tn(Thr)-S-G - 08	Ac-Ala-(GalNAca)Thr-Ser-Gly-Hex-BSA (muc4)	not_classified	149
+A411	149	Ac-A-Tn(Thr)-S-G - 23	Ac-Ala-(GalNAca)Thr-Ser-Gly-Hex-BSA (muc4)	not_classified	150
+A411	150	Ac-S-Tn(Thr)-G-G - 03	Ac-Ser-(GalNAca)Thr-Gly-Gly-Hex-BSA (muc4)	not_classified	151
+A411	151	Ac-S-Tn(Thr)-G-G - 07	Ac-Ser-(GalNAca)Thr-Gly-Gly-Hex-BSA (muc4)	not_classified	152
+A411	152	Ac-S-Tn(Thr)-G-G - 19	Ac-Ser-(GalNAca)Thr-Gly-Gly-Hex-BSA (muc4)	not_classified	153
+A411	153	Ac-T-Tn(Thr)-P-G - 04	Ac-Thr-(GalNAca)Thr-Pro-Gly-Hex-BSA (muc2,6,7)	not_classified	154
+A411	154	Ac-T-Tn(Thr)-P-G - 08	Ac-Thr-(GalNAca)Thr-Pro-Gly-Hex-BSA (muc2,6,7)	not_classified	155
+A411	155	Ac-T-Tn(Thr)-P-G - 21	Ac-Thr-(GalNAca)Thr-Pro-Gly-Hex-BSA (muc2,6,7)	not_classified	156
+A411	156	Ac-S-Tn(Thr)-S-G HSA-23	Ac-Ser-(GalNAca)Thr-Ser-Gly-Hex-HSA	not_classified	157
+A411	157	Ac-S-Tn(Thr)-S-G HSA-04	Ac-Ser-(GalNAca)Thr-Ser-Gly-Hex-HSA	not_classified	158
+A411	158	Ac-TF(Ser)-G - 04	Ac-(Galb1-3GalNAca)Ser-Gly-Hex-BSA	not_classified	159
+A411	159	Ac-TF(Ser)-G - 24	Ac-(Galb1-3GalNAca)Ser-Gly-Hex-BSA	not_classified	160
+A411	160	NA2 - 08	Galb1-4GlcNAcb1-2Mana1-6[Galb1-4GlcNAcb1-2Mana1-3]Manb1-4GlcNAc -BSA	not_classified	161
+A411	161	NA3 - 05	Galb1-4GlcNAcb1-2Mana1-6[Galb1-4GlcNAcb1-2(Galb1-4GlcNAcb1-4)Mana1-3]Manb1-4GlcNAc -BSA	not_classified	162
+A411	162	NGA2 - 07	GlcNAcb1-2Mana1-6(GlcNAcb1-2Mana1-3)Manb1-4GlcNAc -BSA	not_classified	163
+A411	163	NGA2B - 05	GlcNAcb1-2Mana1-6(GlcNAcb1-2Mana1-3)(GlcNAcb1-4)Manb1-4GlcNAc -BSA	not_classified	164
+A411	164	NA4 - 05	Galb1-4GlcNAcb1-2(Galb1-4GlcNAcb1-6)Mana1-6[Galb1-4GlcNAcb1-2(Galb1-4GlcNAcb1-4)Mana1-3]Manb1-4GlcNAc -BSA	not_classified	165
+A411	165	NGA3B - 06	GlcNAcb1-2Mana1-6[GlcNAcb1-2(GlcNAcb1-4)Mana1-3](GlcNAcb1-4)Manb1-4GlcNAc -BSA	not_classified	166
+A411	166	NGA3 - 01	GlcNAcb1-2Mana1-6[GlcNAcb1-2(GlcNAcb1-4)Mana1-3]Manb1-4GlcNAc -BSA	not_classified	167
+A411	167	NGA4 - 06	GlcNAcb1-2(GlcNAcb1-6)Mana1-6[GlcNAcb1-2(GlcNAcb1-4)Mana1-3]Manb1-4GlcNAc -BSA	not_classified	168
+A411	168	NGA4(B)2 - 04	GlcNAcb1-2(GlcNAcb1-4)(GlcNAcb1-6)Mana1-6[GlcNAcb1-2Mana1-3](GlcNAcb1-4)Manb1-4GlcNAc -BSA	not_classified	169
+A411	169	NGA5B - 02	GlcNAcb1-2(GlcNAcb1-4)(GlcNAcb1-6)Mana1-6[GlcNAcb1-2(GlcNAcb1-4)Mana1-3](GlcNAcb1-4)Manb1-4GlcNAc -BSA	not_classified	170
+A411	170	GA2di (accurate) - 28	GalNAcb1-4Galb - BSA (aka: asialo-GM2)	not_classified	171
+A411	171	Ac-P-Tn(Thr)-T-G - 05	Ac-Pro-(GalNAca)Thr-Thr-Gly-Hex-BSA (muc2)	not_classified	172
+A411	172	Ac-P-Tn(Thr)-T-G - 08	Ac-Pro-(GalNAca)Thr-Thr-Gly-Hex-BSA (muc2)	not_classified	173
+A411	173	Ac-P-Tn(Thr)-T-G - 22	Ac-Pro-(GalNAca)Thr-Thr-Gly-Hex-BSA (muc2)	not_classified	174
+A411	174	Ac-Tn(Thr)-Tn(Thr)-Tn(Thr)-G - 05	Ac-(GalNAca)Thr-(GalNAca)Thr-(GalNAca)Thr-Gly-Hex-BSA (muc2)	not_classified	175
+A411	175	Ac-Tn(Thr)-Tn(Thr)-Tn(Thr)-G - 08	Ac-(GalNAca)Thr-(GalNAca)Thr-(GalNAca)Thr-Gly-Hex-BSA (muc2)	not_classified	176
+A411	176	Ac-Tn(Thr)-Tn(Thr)-Tn(Thr)-G - 20	Ac-(GalNAca)Thr-(GalNAca)Thr-(GalNAca)Thr-Gly-Hex-BSA (muc2)	not_classified	177
+A411	177	Ac-S-Tn(Thr)-Tn(Thr)-G - 05	Ac-Ser-(GalNAca)Thr-(GalNAca)Thr-Gly-Hex-BSA (muc2)	not_classified	178
+A411	178	Ac-S-Tn(Thr)-Tn(Thr)-G - 09	Ac-Ser-(GalNAca)Thr-(GalNAca)Thr-Gly-Hex-BSA (muc2)	not_classified	179
+A411	179	Ac-S-Tn(Thr)-Tn(Thr)-G - 22	Ac-Ser-(GalNAca)Thr-(GalNAca)Thr-Gly-Hex-BSA (muc2)	not_classified	180
+A411	180	Gala3-type1 - 09	Gala1-3Galb1-3GlcNAc-BSA	not_classified	181
+A411	181	2'FucLac (BG-H6) - 07	Fuca1-2Galb1-4Glc-BSA	not_classified	182
+A411	182	Ac-S-Tn(Thr)-V-G - 04	Ac-Ser-(GalNAca)Thr-Val-Gly-Hex-BSA	not_classified	183
+A411	183	Ac-S-Tn(Thr)-V-G - 22	Ac-Ser-(GalNAca)Thr-Val-Gly-Hex-BSA	not_classified	184
+A411	184	Ac-G-V-Tn(Thr)-S-A-G - 04	Ac-Gly-Val-(GalNAca)Thr-Ser-Ala-Gly-Hex-BSA (muc1)	not_classified	185
+A411	185	Ac-G-V-Tn(Thr)-S-A-G - 21	Ac-Gly-Val-(GalNAca)Thr-Ser-Ala-Gly-Hex-BSA (muc1)	not_classified	186
+A411	186	GTSSA-TF(Ser)-TGHATPLPVTD	BSA-PEG7-Gly-Thr-Ser-Ser-Ala-(Galb1-3GalNAca)Ser-Thr-Gly-His-Ala-Thr-Pro-Leu-Pro-Val-Thr-Asp	not_classified	187
+A411	187	GTSSAS-TF(Thr)-GHATPLPVTD	BSA-PEG7-Gly-Thr-Ser-Ser-Ala-Ser-(Galb1-3GalNAca)Thr-Gly-His-Ala-Thr-Pro-Leu-Pro-Val-Thr-Asp	not_classified	188
+A411	188	GTSSASTGHA-TF(Thr)-PLPVTD	BSA-PEG7-Gly-Thr-Ser-Ser-Ala-Ser-Thr-Gly-His-Ala-(Galb1-3GalNAca)Thr-Pro-Leu-Pro-Val-Thr-Asp	not_classified	189
+A411	189	GTSSA-TF(Ser)-TF(Thr)-GHATPLPVTD	BSA-PEG7-Gly-Thr-Ser-Ser-Ala-(Galb1-3GalNAca)Ser-(Galb1-3GalNAca)Thr-Gly-His-Ala-Thr-Pro-Leu-Pro-Val-Thr-Asp	not_classified	190
+A411	190	GTSSASTGHATPLPVTD	BSA-PEG7-Gly-Thr-Ser-Ser-Ala-Ser-Thr-Gly-His-Ala-Thr-Pro-Leu-Pro-Val-Thr-Asp	not_classified	191
+A411	191	PEG-linker - 06	OH-(CH2)2-NH-Gly-CO-PEG7-NH-(CO)Hept-SH-Mal-Cychex-CO-BSA	not_classified	192
+A411	192	Galilli - 21	Gala1-3Galb1-4Glc-BSA	not_classified	193
+A411	193	6'Neu5Ac-LNF V - 12	Fuca1-2Galb1-3(Neu5Aca2-6)GlcNAcb1-3Galb1-APD-HSA	not_classified	194
+A411	194	Fuc, 6'Neu5Ac-LNnH-APD-HSA - 12	Galb1-4[Fuca1-3]GlcNAcb1-6[Neu5Aca2-6Galb1-4GlcNAcb1-3]Galb1-APD-HSA	not_classified	195
+A411	195	3'Neu5Ac-3-FL - 07	Neu5Aca2-3Galb1-4(Fuca1-3)Glc -BSA	not_classified	196
+A411	196	GlcNAc-Man5 - 03	Mana1-6(Mana1-3)Mana1-6(GlcNAcb1-2Mana1-3)Manb1-4GlcNAcb-BSA	not_classified	197
+A411	197	GlcNAc-Man3 - 02	Mana1-6(GlcNAcb1-2Mana1-3)Manb1-4GlcNAcb-BSA	not_classified	198
+A411	198	LacNAc-Man5 - 02	Mana1-6(Mana1-3)Mana1-6(Galb1-4GlcNAcb1-2Mana1-3)Manb1-4GlcNAcb-BSA	not_classified	199
+A411	199	Ac-S-Thr-S-G - 18	Ac-Ser-Thr-Ser-Gly-Hex-BSA	not_classified	200
+A411	200	LeA-LeX - 21	Galb1-3(Fuca1-4)GlcNAcb1-3Galb1-4(Fuca1-3)GlcNAcb1-3Galb1-APD-HSA	not_classified	201
+A411	201	3'Neu5Ac-LNnT - 09	Neu5Aca2-3Galb1-4GlcNAcb1-3Galb1-APD-HSA	not_classified	202
+A411	202	Hep-N-acetylated	fully N-acetylated heparin polysaccharide	not_classified	203
+A411	203	Hep-5000 - 01	heparin polysaccharide (MW ~5000)	not_classified	204
+A411	204	Man6 - I - 04	Mana1-6(Mana1-3)Mana1-6(Mana1-2Mana1-3)Manb1-BSA	not_classified	205
+A411	205	3'-sulpho-LeX - 15	3-SO3-Galb1-4[Fuca1-3)GlcNAc-BSA	not_classified	206
+A411	206	Hya9 - 03	(GlcAb1-3GlcNAcb1-4)4b1-3GlcAb1-BSA	not_classified	207
+A411	207	3'-sulpho-LeA - 15	3-SO3-Galb1-3[Fuca1-4)GlcNAc-BSA	not_classified	208
+A411	208	Gala1-2Gal - 13	Gala1-2Gal-BSA	not_classified	209
+A411	209	6'-sulpho-LeX - 08	6-SO3-Galb1-4[Fuca1-3)GlcNAc-BSA	not_classified	210
+A411	210	Hya8 - 03	(GlcNAcb1-4GlcAb1-3)4b1-BSA	not_classified	211
+A411	211	6'-sulpho-LeA - 16	6-SO3-Galb1-3[Fuca1-4)GlcNAc-BSA	not_classified	212
+A411	212	MSMFLNH I - 11	Neu5Aca2-6Galb1-4GlcNAcb1-6 (Fuca1-2Galb1-3GlcNAcb1-3)Galb1-BSA	not_classified	213
+A411	213	A-LeB hexa - 06	GalNAca1-3(Fuca1-2)Galb1-3(Fuca1-4)GlcNAcb1-3Galb1-BSA	not_classified	214
+A411	214	Hybrid-M5N4B - 03	GlcNAcb1-2Mana1-3[Mana1-3(Mana1-6)Mana1-6](GlcNAcb1-4)Manb1-4GlcNAcb1-BSA	not_classified	215
+A411	215	MSMFLnNH - 09	Galb1-4(Fuca1-3)GlcNAcb1-6 (Neu5Aca2-6Galb1-4GlcNAcb1-3)Galb1-BSA	not_classified	216
+A411	216	iLNO - 06	Galb1-3GlcNAcb1-3Galb1-4GlcNAcb1-6 (Galb1-3GlcNAcb1-3)Galb1-BSA	not_classified	217
+A411	217	MFLNH I - 11	Galb1-4GlcNAcb1-6 (Fuca1-2Galb1-3GlcNAcb1-3)Galb1-BSA	not_classified	218
+A411	218	alphaGal-6-deoxy - 11	Gala1-3Galb1-4(6deoxy-GlcNAc)-HSA (alphaGal)-HSA	not_classified	219
+A411	219	MFLNH III - 14	Galb1-4(Fuca1-3)GlcNAcb1-6 (Galb1-3GlcNAcb1-3)Galb1-BSA	not_classified	220
+A411	220	TFiLNO(1-2,1-2,1-3) - 04	Fuca1-2Galb1-3GlcNAcb1-3Galb1-4(Fuca1-3)GlcNAcb1-6(Fuca1-2Galb1-3GlcNAcb1-3)Galb-BSA (mixed with other stuff by MS)	not_classified	221
+A411	221	LeC (dimeric)-Sp - 16	Galb1-3GlcNAcb1-3Galb1-3GlcNAcb-Sp-BSA	not_classified	222
+A411	222	3'Neu5Ac(9Ac)-LacNAc-Sp - 04	Neu5Ac(9Ac)a2-3Galb1-4GlcNAcb-Sp-BSA	not_classified	223
+A411	223	Bdi-g - 06	Gala1-3Galb– BSA	not_classified	224
+A411	224	Lac-C5 - 14	Galb1-4Glcb – BSA	not_classified	225
+A411	225	Mana1-6Man-a - 04	Mana1-6Man-a - BSA	not_classified	226
+A411	226	B tetra type 1-Sp - 16	Gala1-3[Fuca1-2]Galb1-3GlcNAcb-Sp-BSA	not_classified	227
+A411	227	LacNAc-Sp - 06	Galb1-4GlcNAcb-Sp-BSA	not_classified	228
+A411	228	LNT-2-Sp - 15	GlcNAcb1-3Galb1-4Glcb-Sp-BSA	not_classified	229
+A411	229	GD1a-Sp - 05	Neu5Aca2-3[Neu5Aca2-3Galb1-3GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	230
+A411	230	6'Neu5Gc-LacNAc-Sp - 05	Neu5Gca2-6Galb1-4GlcNAcb-Sp-BSA	not_classified	231
+A411	231	SSEA-4-Sp - 05	Neu5Aca2-3Galb1-3GalNAcb1-3Gala1-4Galb1-4Glcb-Sp-BSA	not_classified	232
+A411	232	3'Neu5Ac(9Ac)-LacNAc-Sp - 10	Neu5Ac(9Ac)a2-3Galb1-4GlcNAcb-Sp-BSA	not_classified	233
+A411	233	3'Neu5Ac(9Ac)-LeC-Sp - 12	Neu5Ac(9Ac)a2-3Galb1-3GlcNAcb-Sp-BSA	not_classified	234
+A411	234	LDN-Sp - 14	GalNAcb1-4GlcNAcb-Sp-BSA	not_classified	235
+A411	235	B tetra type 2-Sp - 07	Gala1-3[Fuca1-2]Galb1-4GlcNAcb-Sp-BSA	not_classified	236
+A411	236	GD1a-Sp - 10	Neu5Aca2-3[Neu5Aca2-3Galb1-3GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	237
+A411	237	Ac-S-Ser(GlcNAc-b)-S-G - 24	Ac-Ser-(GlcNAcβ)Ser-Ser-Gly-Hex-BSA	not_classified	238
+A411	238	LacNAc-Sp - 15	Galb1-4GlcNAcb-Sp-BSA	not_classified	239
+A411	239	LeC (dimeric)-Sp - 06	Galb1-3GlcNAcb1-3Galb1-3GlcNAcb-Sp-BSA	not_classified	240
+A411	240	Lac-C5 - 05	Galb1-4Glcb – BSA	not_classified	241
+A411	241	SSEA-4-Sp - 12	Neu5Aca2-3Galb1-3GalNAcb1-3Gala1-4Galb1-4Glcb-Sp-BSA	not_classified	242
+A411	242	Bdi-g - 16	Gala1-3Galb– BSA	not_classified	243
+A411	243	A tetra type 1-Sp - 15	GalNAca1-3[Fuca1-2]Galb1-3GlcNAcb-Sp-BSA	not_classified	244
+A411	244	Forssman Tetra-BSA - 05	GalNAca1-3GalNAcb1-3Gala1-4Galb-BSA	not_classified	245
+A411	245	BSA - C5 (Alkyne) - 10	DF-168B-175-1 C5-alkyne-BSA	not_classified	246
+A411	246	BG-H2 - 16	Fuca1-2Galb1-4GlcNAcb-HSA	not_classified	247
+A411	247	CT/Sda-Sp - 13	Neu5Aca2-3[GalNAcb1-4]Galb1-4GlcNAcb-Sp-BSA; like GM2 but on glycoproteins	not_classified	248
+A411	248	A tetra type 2-Sp - 17	GalNAca1-3[Fuca1-2]Galb1-4GlcNAcb-Sp-BSA	not_classified	249
+A411	249	6'Neu5Ac-LacNAc (dimeric)-Sp - 13	Neu5Aca2-6[Galb1-4GlcNAcb1-3)2b-Sp-BSA	not_classified	250
+A411	250	GM3(Gc)-Sp - 14	Neu5Gca2-3Galb1-4Glcb-Sp-BSA	not_classified	251
+A411	251	3'KDN-LacNAc-Sp - 05	KDNa2-3Galb1-4GlcNAcb-Sp-BSA	not_classified	252
+A411	252	GNLacNAc-Sp - 06	GlcNAcb1-3Galb1-4GlcNAcb-Sp-BSA	not_classified	253
+A411	253	2'F-A type 2-Sp - 05	GalNAca1-3[Fuca1-2]Galb1-4[Fuca1-3]GlcNAcb-Sp-BSA	not_classified	254
+A411	254	Gb4 tetra (P1 tetra)-Sp - 15	GalNAcb1-3Gala1-4Galb1-4GlcNAcb-Sp-BSA	not_classified	255
+A411	255	GNLacNAc-Sp - 16	GlcNAcb1-3Galb1-4GlcNAcb-Sp-BSA	not_classified	256
+A411	256	3'Neu5Gc-LacNAc-Sp - 06	Neu5Gca2-3Galb1-4GlcNAcb-Sp-BSA	not_classified	257
+A411	257	GT3-Sp - 03	Neu5Aca2-8Neu5Aca2-8Neu5Aca2-3Galb1-4Glcb-Sp-BSA	not_classified	258
+A411	258	Glc-a - 05	Glc-a - BSA	not_classified	259
+A411	259	LeC-Sp - 15	Galb1-3GlcNAcb-Sp-BSA	not_classified	260
+A411	260	Triazole linker from Xuefei - 43	BSA-linker-triazole from Xuefei	not_classified	261
+A411	261	6'Neu5Ac-LacNAc-Sp - 05	Neu5Aca2-6Galb1-4GlcNAcb-Sp-BSA	not_classified	262
+A411	262	Fuc-GM1a - 08	Fuca1-2Galb1-3GalNAcb1-4(Neu5Aca2-3)Galb1-4-BSA	not_classified	263
+A411	263	3'KDN-LeC-Sp - 04	KDNa2-3Galb1-3GlcNAcb-Sp-BSA	not_classified	264
+A411	264	Man1 - 04	Manβ1-4GlcNAcβ1-4GlcNAcβ1-BSA	not_classified	265
+A411	265	A tetra type 1-Sp - 05	GalNAca1-3[Fuca1-2]Galb1-3GlcNAcb-Sp-BSA	not_classified	266
+A411	266	3'GN type1-Sp - 16	GlcNAcb1-3Galb1-3GlcNAcb-Sp-BSA	not_classified	267
+A411	267	2'F-B type 2-Sp - 15	Gala1-3[Fuca1-2]Galb1-4[Fuca1-3]GlcNAcb-Sp-BSA	not_classified	268
+A411	268	3'KDN-LeC-Sp - 12	KDNa2-3Galb1-3GlcNAcb-Sp-BSA	not_classified	269
+A411	269	B tetra type 2-Sp - 20	Gala1-3[Fuca1-2]Galb1-4GlcNAcb-Sp-BSA	not_classified	270
+A411	270	Galb1-4Gal	Galb1-4Gal-BSA	not_classified	271
+A411	271	GD3-Sp - 04	Neu5Aca2-8Neu5Aca2-3Galb1-4Glcb-Sp-BSA	not_classified	272
+A411	272	3'KDN-LacNAc-Sp - 12	KDNa2-3Galb1-4GlcNAcb-Sp-BSA	not_classified	273
+A411	273	3'Neu5Ac-LacNAc-Sp - 05	Neu5Aca2-3Galb1-4GlcNAcb-Sp-BSA	not_classified	274
+A411	274	6'Neu5Ac-LDN-Sp - 13	Neu5Aca2-6GalNAcb1-4GlcNAcb-Sp-BSA	not_classified	275
+A411	275	Man-a - 05	Man-a - BSA	not_classified	276
+A411	276	B tetra type 1-Sp - 04	Gala1-3[Fuca1-2]Galb1-3GlcNAcb-Sp-BSA	not_classified	277
+A411	277	A tetra type 2-Sp - 07	GalNAca1-3[Fuca1-2]Galb1-4GlcNAcb-Sp-BSA	not_classified	278
+A411	278	LNT-Sp - 06	Galb1-3GlcNAcb1-3Galb1-4GlcNAcb-Sp-BSA	not_classified	279
+A411	279	LeC-Sp - 07	Galb1-3GlcNAcb-Sp-BSA	not_classified	280
+A411	280	GQ2-Sp - 06	Neu5Aca2-8Neu5Aca2-8Neu5Aca2-8Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	281
+A411	281	3'Neu5Ac-LeC-Sp - 12	Neu5Aca2-3Galb1-3GlcNAcb-Sp-BSA	not_classified	282
+A411	282	GM3-Sp - 11	Neu5Aca2-3Galb1-4Glcb-Sp-BSA	not_classified	283
+A411	283	R-Tn(Ser)-Tn-hydroxyethylamide - 36	BSA-linker-Tn(Ser)-hydroxyethylamide	not_classified	284
+A411	284	3'Neu5Ac-LeC-Sp - 05	Neu5Aca2-3Galb1-3GlcNAcb-Sp-BSA	not_classified	285
+A411	285	GM3-Sp - 04	Neu5Aca2-3Galb1-4Glcb-Sp-BSA	not_classified	286
+A411	286	3'GN-LacNAc (dimeric)-Sp - 14	GlcNAcb1-3(Galb1-4GlcNAcb1-3)2b-Sp-BSA	not_classified	287
+A411	287	LNT-2-Sp - 06	GlcNAcb1-3Galb1-4Glcb-Sp-BSA	not_classified	288
+A411	288	GT2-Sp - 08	Neu5Aca2-8Neu5Aca2-8Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	289
+A411	289	Forssman Tetra-BSA - 13	GalNAca1-3GalNAcb1-3Gala1-4Galb-BSA	not_classified	290
+A411	290	alpha-Gal tetra - 17	Gala1-3Galb1-4GlcNAcb1-3Galb1-BSA	not_classified	291
+A411	291	Gb5/SSEA3 - 04	Galb1-3GalNAcb1-3Gala1-4Galb1-BSA	not_classified	292
+A411	292	3'Neu5Ac-LacNAc-Sp - 10	Neu5Aca2-3Galb1-4GlcNAcb-Sp-BSA	not_classified	293
+A411	293	Globo H - 10	Fuca1-2Galb1-3GalNAcb1-3Gala1-4Galb1-BSA	not_classified	294
+A411	294	Globo A - 09	GalNAca1-3(Fuca1-2)Galb1-3GalNAcb1-3Gala1-4Galb1-BSA	not_classified	295
+A411	295	GT2-Sp - 03	Neu5Aca2-8Neu5Aca2-8Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	296
+A411	296	3'Neu5Gc-LacNAc-Sp - 10	Neu5Gca2-3Galb1-4GlcNAcb-Sp-BSA	not_classified	297
+A411	297	3'Neu5Ac-LacNAc (dimeric)-Sp - 13	Neu5Aca2-3(Galb1-4GlcNAcb1-3)2b-Sp-BSA	not_classified	298
+A411	298	CT/Sda-Sp - 05	Neu5Aca2-3[GalNAcb1-4]Galb1-4GlcNAcb-Sp-BSA; like GM2 but on glycoproteins	not_classified	299
+A411	299	Ac-S-Ser(GlcNAc-a)-S-G - 07	Ac-Ser-(GlcNAcα)Ser-Ser-Gly-Hex-BSA	not_classified	300
+A411	300	TFiLNO(1-2,1-2,1-4) - 06	Fuca1-2Galb1-3GlcNAcb1-3Galb1-4GlcNAcb1-6[Fuca1-2Galb1-3(Fuca1-4)GlcNAcb1-3]Galb-BSA	not_classified	301
+A411	301	GD3-Sp - 08	Neu5Aca2-8Neu5Aca2-3Galb1-4Glcb-Sp-BSA	not_classified	302
+A411	302	LNT-Sp - 15	Galb1-3GlcNAcb1-3Galb1-4GlcNAcb-Sp-BSA	not_classified	303
+A411	303	3'Neu5Gc-LeC-Sp - 12	Neu5Gca2-3Galb1-3GlcNAcb-Sp-BSA	not_classified	304
+A411	304	GQ2-Sp - 03	Neu5Aca2-8Neu5Aca2-8Neu5Aca2-8Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	305
+A411	305	Gb5/SSEA3 - 12	Galb1-3GalNAcb1-3Gala1-4Galb1-BSA	not_classified	306
+A411	306	Ac-S-Ser(GlcNAc-b)-S-G - 07	Ac-Ser-(GlcNAcβ)Ser-Ser-Gly-Hex-BSA	not_classified	307
+A411	307	LacNAc (dimeric)-Sp - 16	(Galb1-4GlcNAcb1-3)2b-Sp-BSA	not_classified	308
+A411	308	3'Neu5Ac-LacNAc (dimeric)-Sp - 06	Neu5Aca2-3(Galb1-4GlcNAcb1-3)2b-Sp-BSA	not_classified	309
+A411	309	alpha-Gal tetra - 04	Gala1-3Galb1-4GlcNAcb1-3Galb1-BSA	not_classified	310
+A411	310	3'Neu5Ac(9Ac)-LeC-Sp - 05	Neu5Ac(9Ac)a2-3Galb1-3GlcNAcb-Sp-BSA	not_classified	311
+A411	311	LacNAc (dimeric)-Sp - 06	(Galb1-4GlcNAcb1-3)2b-Sp-BSA	not_classified	312
+A411	312	GM2-Sp - 07	Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	313
+A411	313	MFiLNO(1-3) - 09	Galb1-3GlcNAcb1-3Galb1-4(Fuca1-3)GlcNAcb1-6 (Galb1-3GlcNAcb1-3)Galb1-BSA	not_classified	314
+A411	314	GD2-Sp - 04	Neu5Aca2-8Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	315
+A411	315	6'Neu5Ac-LacNAc (dimeric)-Sp - 05	Neu5Aca2-6[Galb1-4GlcNAcb1-3)2b-Sp-BSA	not_classified	316
+A411	316	3'Neu5Gc-LeC-Sp - 05	Neu5Gca2-3Galb1-3GlcNAcb-Sp-BSA	not_classified	317
+A411	317	DFLNnH, LeA/LeA - 10	Galb1-4(Fuca1-3)GlcNAcb1-6[Galb1-4(Fuca1-3)GlcNAcb1-3]Galb1-BSA	not_classified	318
+A411	318	GD1b - 05	Neu5Aca2-8Siaa2-3(Galb1-3GalNAcb1-4)Galb1-4-BSA	not_classified	319
+A411	319	6'Neu5Ac-LacNAc-Sp - 11	Neu5Aca2-6Galb1-4GlcNAcb-Sp-BSA	not_classified	320
+A411	320	3'GN-LacNAc (dimeric)-Sp - 06	GlcNAcb1-3(Galb1-4GlcNAcb1-3)2b-Sp-BSA	not_classified	321
+A411	321	Man1 - 12	Manβ1-4GlcNAcβ1-4GlcNAcβ1-BSA	not_classified	322
+A411	322	GM3(Gc)-Sp - 05	Neu5Gca2-3Galb1-4Glcb-Sp-BSA	not_classified	323
+A411	323	LDN-Sp - 05	GalNAcb1-4GlcNAcb-Sp-BSA	not_classified	324
+A411	324	6'Neu5Ac-LDN-Sp - 05	Neu5Aca2-6GalNAcb1-4GlcNAcb-Sp-BSA	not_classified	325
+A411	325	GT3-Sp - 07	Neu5Aca2-8Neu5Aca2-8Neu5Aca2-3Galb1-4Glcb-Sp-BSA	not_classified	326
+A411	326	Ac-S-Thr(core 3)-S-G - 05	Ac-Ser-(GlcNAcb1-3GalNAca)Thr-Ser-Gly-Hex-BSA	not_classified	327
+A411	327	3'Neu5Ac-LDN-Sp - 11	Neu5Aca2-3GalNAcb1-4GlcNAcb-Sp-BSA	not_classified	328
+A411	328	3'GN type1-Sp - 04	GlcNAcb1-3Galb1-3GlcNAcb-Sp-BSA	not_classified	329
+A411	329	DFLNHc, LacNAc/LeB - 08	Galb1-4GlcNAcb1-6[Fuca1-2Galb1-3(Fuca1-4)GlcNAcb1-3]Galb1-BSA	not_classified	330
+A411	330	GD2-Sp - 10	Neu5Aca2-8Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	331
+A411	331	3'Neu5Ac-LDN-Sp - 05	Neu5Aca2-3GalNAcb1-4GlcNAcb-Sp-BSA	not_classified	332
+A411	332	BSA - C5 (Alkyne) - 23	DF-168C-16-B5 C5-alkyne-BSA	not_classified	333
+A411	333	2'F-B type 2-Sp - 03	Gala1-3[Fuca1-2]Galb1-4[Fuca1-3]GlcNAcb-Sp-BSA	not_classified	334
+A411	334	A tetra type 2-Sp - 05	GalNAca1-3[Fuca1-2]Galb1-4GlcNAcb-Sp-BSA	not_classified	335
+A411	335	B tetra type 2-Sp - 05	Gala1-3[Fuca1-2]Galb1-4GlcNAcb-Sp-BSA	not_classified	336
+A411	336	GM2-Sp - 04	Neu5Aca2-3[GalNAcb1-4]Galb1-4Glcb-Sp-BSA	not_classified	337
+A411	337	BG-A5-05	GalNAca1-3(Fuca1-2)Galb1-3Galb1-linker-BSA	not_classified	338
+A411	338	Ac-S-Thr(core 3)-S-G - 21	Ac-Ser-(GlcNAcb1-3GalNAca)Thr-Ser-Gly-Hex-BSA	not_classified	339
+A411	339	BG-B5-04	Gala1-3(Fuca1-2)Galb1-3Galb1-linker-BSA	not_classified	340
+A411	340	BG-B5-17	Gala1-3(Fuca1-2)Galb1-3Galb1-linker-BSA	not_classified	341
+A411	341	Ac-S-Thr(F1a)-S-G - 18	AcSer-(Galb1-4GlcNAcb1-6GalNAca)Thr-Ser-Gly-Hex-BSA	not_classified	342
+A411	342	BG-H1-10	Fuca1-2Galb1-3GlcNAcb1-linker-BSA	not_classified	343
+A411	343	BG-A6-04	GalNAca1-3(Fuca1-2)Galb1-4Glcb1-linker-BSA	not_classified	344
+A411	344	BG-A6-23	GalNAca1-3(Fuca1-2)Galb1-4Glcb1-linker-BSA	not_classified	345
+A411	345	BG-H5-04	Fuca1-2Galb1-3Galb1-linker-BSA	not_classified	346
+A411	346	BG-H5-19	Fuca1-2Galb1-3Galb1-linker-BSA	not_classified	347
+A411	347	BG-B6- 03	Gala1-3(Fuca1-2)Galb1-4Glcb1-linker-BSA	not_classified	348
+A411	348	BG-B6-15	Gala1-3(Fuca1-2)Galb1-4Glcb1-linker-BSA	not_classified	349
+A411	349	BG-H6-05	Fuca1-2Galb1-4Glcb1-linker-BSA	not_classified	350
+A411	350	BG-H6-21	Fuca1-2Galb1-4Glcb1-linker-BSA	not_classified	351
+A411	351	BG-A5-16	GalNAca1-3(Fuca1-2)Galb1-3Galb1-linker-BSA	not_classified	352
+A411	352	AGE60	Advanced glycation endproducts day 60	not_classified	353
+A411	353	Alpha-1-acid glycoprotein	alpha1 Acid Glycoprotein-purified from human serum	not_classified	354
+A411	354	Alpha-fetoprotein	alpha fetoprotein (AFP)-human, from cell culture	not_classified	355
+A411	355	BSM	Bovine submaxillary mucin (STn, STF, S-GlcNAcb1-3, ~20% of Sia is acetylated at 7,8, or 9)	not_classified	356
+A411	356	BSM (asialo)	Asialo-Bovine submaxillary mucin (aBSM, Tn, TF, GlcNAcb1-3GalNAc)	not_classified	357
+A411	357	BSM (deacetylated)	Deacetylated-Bovine submaxillary mucin	not_classified	358
+A411	358	BSM (ox)	periodate oxidized bovine submaxillary mucin	not_classified	359
+A411	359	CEA	carcinoembryonic antigen  isolated from human metastatic liver	not_classified	360
+A411	360	FABP	Fatty Acid Binding Protein	not_classified	361
+A411	361	fetuin	fetuin from calf serum (Neu5Ac2-3LacNAc, Neu5Ac2-6LacNAc, SiaLeC, STF)	not_classified	362
+A411	362	fetuin (asialo)	asialofetuin from calf serum- type I (Galb1-4GlcNAc, Galb1-3GlcNAc, Galb1-3GalNAc; mostly NA2 and NA3)	not_classified	363
+A411	365	Fetuin (ox)	periodate oxidized fetuin	not_classified	364
+A411	366	glycophorin (asialo)	asialo-glycophorin A (aGn)	not_classified	365
+A411	367	Glycophorin A	Glycophorin A (Gn)	not_classified	366
+A411	368	hsp90	Heat Shock Protein 90	not_classified	367
+A411	369	KLH	Keyhole limpet hemocyanin	not_classified	368
+A411	370	gp120	gp120 from HIV; expressed  in HEK293T cells; LOTS OF CARRY OVER.  WE NEED TO DOPE W BSA OR PUT A BLANK/BUFFER AFTER THIS (OR BOTH)	not_classified	369
+A411	371	OSM	Ovine submaxillary mucin (94% STn, 4% TF, 2% Fuca1-2Galb1-3GalNAc)	not_classified	370
+A411	372	OSM (asialo)	asialo-Ovine submaxillary mucin	not_classified	371
+A411	373	OSM (ox)	periodate oxidized ovine submaxillary mucin	not_classified	372
+A411	374	ovalbumin	ovalbumin (56% Man5+Man6)	not_classified	373
+A411	375	Ovalbumin (ox)	periodate oxidized ovalbumin	not_classified	374
+A411	376	PSA	Prostate Specific Antigen (PSA); human seminal fluid	not_classified	375
+A411	377	Tgl	Thyroglobulin -human	not_classified	376
+A411	378	FABP-3	Fatty Acid Binding Protein (Heart type)	not_classified	377
+A411	379	Ac-S-Thr(core 2)-S-G - 12	Ac-Ser-(Galb1-3(GlcNAcb1-6)GalNAca)Thr-Ser-Gly-Hex-BSA	not_classified	378
+A411	380	Ac-F-N(GlcNAcb1)-S-G-Hex-12	AcPhe-(GlcNAcb1)Asn-Ser-Gly-Hex-12	not_classified	379
+A411	381	Ac-S-Ser(core 5)-S-G-04	Ac-Ser-(GalNAca1-3GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	380
+A411	382	Ac-S-Ser(core 5)-S-G-18	Ac-Ser-(GalNAca1-3GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	381
+A411	383	Ac-Ser(core 5)-S-G-05	Ac-(GalNAca1-3GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	382
+A411	384	Ac-Ser(core 5)-S-G-08	Ac-(GalNAca1-3GalNAca)Ser-Ser-Gly-Hex-BSA	not_classified	383
+A411	385	Man9 #2	extra?	not_classified	384
+A411	386	Ac-G-S(Fuca)-S-G-Hex-05	Ac-G-S(Fuca)-S-G-Hex-BSA	not_classified	385
+A411	387	Ac-G-S(Fuca)-S-G-Hex-15	Ac-G-S(Fuca)-S-G-Hex-BSA	not_classified	386
+A411	388	Ac-G-S(Xylb)-G-G-Hex-04	Ac-Gly-Ser(Xylb)-Gly-Gly-Hex-BSA	not_classified	387
+A411	389	Ac-G-S(Xylb)-G-G-Hex-21	Ac-Gly-Ser(Xylb)-Gly-Gly-Hex-BSA	not_classified	388
+A411	390	Ac-G-S-T(Tna)A-P-G-Hex-06	Ac-G-S-T(GalNAca)A-P-G-Hex-BSA	not_classified	389
+A411	391	Ac-G-S-T(Tna)A-P-G-Hex-19	Ac-G-S-T(GalNAca)A-P-G-Hex-BSA	not_classified	390
+A411	392	Ac-A-S(Glcb)-S-G-Hex-05	Ac-A-S(Glcb)-S-G-Hex-BSA	not_classified	391
+A411	393	Ac-A-S(Glcb)-S-G-Hex-18	Ac-A-S(Glcb)-S-G-Hex-BSA	not_classified	392
+A411	394	Man8D1D3 #2	Mana1-2Mana1-6(Mana1-3)Mana1-6(Mana1-2Mana1-2Mana1-3)Manb1-4GlcNAc-BSA	not_classified	393
+A411	395	Muc1	BSA--hexyl-G-V-T-S-A-P-D-T-R-P-A-P-G-S-T-A-P-P-A-amide	not_classified	394
+A411	396	Muc1-Tn8	BSA--hexyl-G-V-T-S-A-P-D-T(GalNAc-a)-R-P-A-P-G-S-T-A-P-P-A-amide	not_classified	395
+A411	397	Muc1-Tn15	BSA--hexyl-G-V-T-S-A-P-D-T-R-P-A-P-G-S-T(GalNAc-a)-A-P-P-A-amide	not_classified	396
+A411	398	human IgM	use 50ug/mL + 75ug/mL BSA;from Saddam's data, it appears to have a little IgG and IgA in it.	not_classified	397
+A411	399	human IgA	use 50ug/mL + 75ug/mL BSA	not_classified	398
+A411	400	human IgG	use 25ug/mL + 100ug/mL BSA	not_classified	399
+A411	401	Alexa Fluoro 647	Alexa Fluoro 647-BSA (30mg/mL+ BSA, 125mg/mL total)	not_classified	400
+A411	402	rabbit IgG	use 25ug/mL + 100ug/mL BSA;	not_classified	401
+A411	403	mouse IgM	use 50ug/mL + 75ug/mL BSA; monoclonal IgM purified from hybridoma	not_classified	402
+A411	404	mouse IgG	use 25ug/mL + 100ug/mL BSA	not_classified	403
+A411	405	BSA #2	Bovine serum albumin	not_classified	404
+A411	406	Ac-S-S(Mana)-S-G - 06	Ac-S-S(Man a)-S-G-Hex-OH	not_classified	405
+A411	407	Ac-S-S(Gala)-S-G - 06	Ac-S-S(Gal a)-S-G-Hex-OH	not_classified	406
+A411	408	Ac-P-T(Mana)-A-G - 07	Ac-Pro-Thr(Man a)-Ala-Gly-Hex-BSA	not_classified	407
+A411	409	Ac-S-S(Mana)-S-G - 20	Ac-S-S(Man a)-S-G-Hex-OH	not_classified	408
+A411	410	Ac-S-S(Gala)-S-G - 16	Ac-S-S(Gal a)-S-G-Hex-OH	not_classified	409
+A411	411	Ac-P-T(Mana)-A-G - 22	Ac-Pro-Thr(Man a)-Ala-Gly-Hex-BSA	not_classified	410

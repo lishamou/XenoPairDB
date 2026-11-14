@@ -1,0 +1,145 @@
+{
+  "version": "v1.3 (R31, 2026-08-15) — accession correction after v22 reviewer audit; CD55/SLA-1/SLA-DRA accessions replaced with species/gene-matched UniProt entries. Scoreable subset N = 4122; SLA-1 (non-1:1) excluded from antigenicity v2 ranking; SLA-DRA (1:1 scoreable) retained in membrane universe but excluded from the literature-derived positive set and labeled reference_only.",
+  "positives_n": 8,
+  "negatives_n": 12,
+  "covered_positives": {
+    "CD46": {
+      "score": 0.996,
+      "rank": 1,
+      "top_pct": 0.02,
+      "provenance": "Release 1.0 scoreable surfaceome subset (R31 v2 after accession correction)"
+    },
+    "CD59": {
+      "score": 0.9774,
+      "rank": 17,
+      "top_pct": 0.41,
+      "provenance": "Release 1.0 scoreable surfaceome subset (R31 v2 after accession correction)"
+    },
+    "PROCR": {
+      "score": 0.9537,
+      "rank": 44,
+      "provenance": "Release 1.0 scoreable surfaceome subset (R31 v2)",
+      "top_pct": 1.07
+    },
+    "FAM234A": {
+      "score": 0.8806,
+      "rank": 161,
+      "top_pct": 3.91,
+      "provenance": "Release 1.0 scoreable surfaceome subset (R31 v2)"
+    },
+    "CDH1": {
+      "score": 0.5763,
+      "rank": 1447,
+      "provenance": "Release 1.0 scoreable surfaceome subset (R31 v2)",
+      "top_pct": 35.1
+    },
+    "CFTR": {
+      "score": 0.5688,
+      "rank": 1489,
+      "provenance": "Release 1.0 scoreable surfaceome subset (R31 v2)",
+      "top_pct": 36.12
+    },
+    "CD9": {
+      "score": 0.5236,
+      "rank": 1835,
+      "provenance": "Release 1.0 scoreable surfaceome subset (R31 v2)",
+      "top_pct": 44.52
+    },
+    "CD55": {
+      "score": 0.9897,
+      "rank": 4,
+      "top_pct": 0.1,
+      "provenance": "Release 1.0 scoreable surfaceome subset (R31 v2 after accession correction)"
+    }
+  },
+  "putative_negatives": {
+    "ATP1A3": {
+      "score": 0.6808
+    },
+    "ATP1B1": {
+      "score": 0.5616
+    },
+    "ATP1A1": {
+      "score": 0.3361
+    },
+    "CLDN1": {
+      "score": 0.3271
+    },
+    "AQP1": {
+      "score": 0.3216
+    },
+    "ATP2B1": {
+      "score": 0.2819
+    },
+    "GJA1": {
+      "score": 0.2786
+    },
+    "SLC12A2": {
+      "score": 0.2745
+    },
+    "KCNJ10": {
+      "score": 0.2591
+    },
+    "SLC9A1": {
+      "score": 0.2525
+    },
+    "SLC2A1": {
+      "score": 0.2356
+    },
+    "GJB1": {
+      "score": 0.2077
+    }
+  },
+  "putative_negatives_rule": "essential membrane proteins, human-pig sequence identity >= 95%, present in the 4,118-protein surfaceome; putative proxy set, not experimentally confirmed negatives",
+  "v2": {
+    "auroc": 0.958,
+    "auprc": 0.942
+  },
+  "v1_seq_only": {
+    "auroc": null,
+    "note": "sequence-only comparator reported in manuscript text for CFTR (0.308 -> 0.569 percentile)"
+  },
+  "mwu_p_one_sided_exact": 9.53e-05,
+  "mwu_p_two_sided_exact": 0.000191,
+  "pos_median_v2": 0.917,
+  "neg_median_v2": 0.28,
+  "PROCR_rank": 44,
+  "FAM234A_rank": 161,
+  "CFTR_v1pct": 0.308,
+  "CFTR_v2score": 0.569,
+  "missing_positives": {
+    "SLA-I": "no conventional 1:1 human ortholog (representation failure)",
+    "SLA-II": "no conventional 1:1 human ortholog",
+    "ENO1": "porcine gene-annotation gap",
+    "ANXA2": "porcine gene-annotation gap",
+    "VIM": "porcine gene-annotation gap",
+    "FN1": "secreted ECM protein, outside the surfaceome; targeted glycosylation-layer case study in main text"
+  },
+  "corrected_R1_0": {
+    "surfaceome_rows": 4123,
+    "added_genes": [
+      "CD46",
+      "CD55",
+      "CD59",
+      "SLA-1",
+      "SLA-DRA"
+    ],
+    "auroc_4_123": "see manuscript Fig. 5d; remains 0.958 (95% CI [0.846, 1.000] unchanged)",
+    "note": "R1.0c supersedes R1.0; CD46/CD59 are now scored within the 4,123-protein universe rather than back-computed from Tier-1."
+  },
+  "pos_n": 8,
+  "neg_n": 12,
+  "release_1_0_universe": {
+    "n_membrane": 4123,
+    "n_scoreable": 4122,
+    "n_non_scoreable": 1,
+    "non_scoreable_entries": [
+      "SLA-1"
+    ]
+  },
+  "_NOTE_R100_MWU_canonicalization": "R100: canonicalized MWU p-values. The previously stored 0.000238 (=2.38e-4) was an older rounded value. scipy.stats.mannwhitneyu(method=\"exact\", alternative=\"greater\") on the actual 8 positives vs 12 putative negatives dataset with U+ = 92 (AUROC=0.958) gives p = 9.526e-5. This matches the value cited in main.md and si.md. Two-sided p = 2*9.53e-5 = 1.91e-4. The figure_provenance.json had this corrected in R99 but this antigenicity_benchmark_summary.json was missed.",
+  "_R102_fixes": {
+    "fix_date": "2026-08-18",
+    "fix_T05": "pos_median_v2 0.954 → 0.917 (correct scipy exact median); neg_median_v2 0.282 → 0.280. Previous values were a copy-paste error from AUROC. Now matches facts.json antigen_full.positives_median=0.917."
+  }
+}

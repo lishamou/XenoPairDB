@@ -1,0 +1,11 @@
+gene	mode	n_draws	residue_pairs5A_p025	median	p975	interval
+CD274	filtered_CA	100	8	56	198.575	rigid_geometry_sensitivity_NOT_statistical_CI
+CD274	raw_all_CA	100	7.9	55.5	141.825	rigid_geometry_sensitivity_NOT_statistical_CI
+CD86	filtered_CA	100	0.475	25.5	116.1	rigid_geometry_sensitivity_NOT_statistical_CI
+CD86	raw_all_CA	100	3	38	158.05	rigid_geometry_sensitivity_NOT_statistical_CI
+ICAM1	filtered_CA	100	2	36	218.4	rigid_geometry_sensitivity_NOT_statistical_CI
+ICAM1	raw_all_CA	100	2	33.5	140.625	rigid_geometry_sensitivity_NOT_statistical_CI
+THBD	filtered_CA	100	8.9	54.5	152.25	rigid_geometry_sensitivity_NOT_statistical_CI
+THBD	raw_all_CA	100	11.9	65	199.025	rigid_geometry_sensitivity_NOT_statistical_CI
+ULBP1	filtered_CA	100	8.475	49	197.4	rigid_geometry_sensitivity_NOT_statistical_CI
+ULBP1	raw_all_CA	100	10.475	48	204.5	rigid_geometry_sensitivity_NOT_statistical_CI

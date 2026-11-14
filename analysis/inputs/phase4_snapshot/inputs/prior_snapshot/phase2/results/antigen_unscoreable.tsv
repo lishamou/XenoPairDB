@@ -1,0 +1,2 @@
+gene	acc	human_gene	perc_id	divergence	p_len	p_sequons	p_sequon_density	h_sequons	conserved_sequons	pig_only_sequons	glyco_epitope_sites	glyco_density	div_pct	glyco_pct	antigenicity_v2	rank_v2
+SLA-1	O19075	HLA-A	73.4	26.6	361	1	0.277008	1	1	0	1	0.277008	0.849441476444876	0.250242836328315	0.549842156386595	NA

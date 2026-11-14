@@ -1,0 +1,76 @@
+pair_id	pig_gene	human_partner	direction	evidence	gene_key	source	pair_key	n_atlas_rows	eligible	reason	label	div_percentile	glyco_percentile	score_recomputed	conflicting_catalogue_labels
+XP001	CD46	C3B+CFI	pig<-human	direct	CD46	10469245	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP002	CD55	C3/C5_convertase	pig<-human	disputed	CD55	10.1161/01.RES.76.4.575	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP003	CD59	C8A/C9	pig<-human	disputed	CD59	7544344	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP004	GGTA1(aGal)	anti-aGal_IgM/C1Q	pig<-human	direct	GGTA1	2460463	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP005	CMAH(Neu5Gc)	human anti-Neu5Gc IgM/IgG	pig<-human	direct	CMAH	23384142	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP006	VWF	GP1BA	pig->human	direct	VWF	15598271	GP1BA|VWF	0	False	no_atlas_match	1	NA	NA	NA	False
+XP008	THBD	F2/PROC	pig<-human	direct	THBD	18444940	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP009	PROCR	PROC	pig<-human	control	PROCR	31556182	PROC|PROCR	1	True	gene_pair_only_direction_unvalidated	0	0.884861407249467	0.569651741293532	75.8777540867093	False
+XP010	F2R(PAR1)	F2	pig<-human	direct	F2R	10.1111/xen.70041	F2|F2R	1	True	gene_pair_only_direction_unvalidated	1	0.689410092395167	0.249466950959488	51.3432835820895	False
+XP011	TFPI	FXA	pig<-human	disputed	TFPI	9075849	FXA|TFPI	0	False	no_atlas_match	1	NA	NA	NA	False
+XP012	F3	FVIIA	pig<-human	direct	F3	10.1097/00007890-199709270-00017	F3|FVIIA	0	False	no_atlas_match	1	NA	NA	NA	False
+XP013	ENTPD1(CD39)	ATP/ADP	pig<-human	direct	ENTPD1	10.1182/blood.V104.11.1869.1869	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP014	NT5E(CD73)	AMP	pig<-human	direct	NT5E	15955461	AMP|NT5E	0	False	no_atlas_match	1	NA	NA	NA	False
+XP015	ASGR1	human_platelet_glycan	pig->human	direct	ASGR1	25728617	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP016	ITGB2(Kupffer_CD18)	human_platelets	pig->human	direct	ITGB2	21836538	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP017	F2/PROC/PROS1	primate_coagulation	pig->human	direct	F2	PMC13051420	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP019	F8	human_coagulation	pig->human	control	F8	1905722;1429706	NA	0	False	compound_or_non_gene_endpoint	0	NA	NA	NA	False
+XP020	CD47	SIRPA	pig->human	direct	CD47	17360380	CD47|SIRPA	1	True	gene_pair_only_direction_unvalidated	1	0.862117981520967	0.983297796730633	91.0589907604833	True
+XP021	CD200	CD200R1	pig->human	direct	CD200	10.1111/xen.12863	CD200|CD200R1	0	False	no_atlas_match	1	NA	NA	NA	False
+XP022	SLA-I	KIR2DL1/2DL3/3DL1	pig->human	direct	SLA-I	9278321	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP023	SLA-I(HLA-E_like)	KLRC1(NKG2A)	pig->human	direct	SLA-I	PMC5749293	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP024	SLA-I	LILRB1(ILT2)	pig->human	direct	SLA-I	PMC5749293	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP025	ULBP1	KLRK1(NKG2D)	pig->human	disputed	ULBP1	16887974	KLRK1|ULBP1	0	False	no_atlas_match	1	NA	NA	NA	False
+XP026	SLA-I	human_CD8_TCR	pig->human	direct	SLA-I	10480402	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP027	SLA-II	human_CD4_TCR	pig->human	direct	SLA-II	7491676	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP028	SLA-I/II	human_HLA_antibodies	pig<-human	direct	SLA-I	9808494	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP029	CD58	CD2	pig->human	direct	CD58	13679072;40012743	CD2|CD58	1	True	gene_pair_only_direction_unvalidated	1	0.995735607675906	0.101279317697228	63.7953091684435	False
+XP030	CD80/CD86	CD28	pig->human	direct	CD80	10.4049/jimmunol.164.6.3434	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP031	CD80/CD86	CTLA4	pig->human	control	CD80	7491676	NA	0	False	compound_or_non_gene_endpoint	0	NA	NA	NA	False
+XP032	CD40	CD40LG	pig<-human	direct	CD40	11468547	CD40|CD40LG	1	True	gene_pair_only_direction_unvalidated	1	0.748400852878465	0.249466950959488	54.8827292110874	False
+XP033	CD274(PD-L1)	PDCD1	pig->human	control	CD274	17489864	CD274|PDCD1	1	True	gene_pair_only_direction_unvalidated	0	0.947050461975835	0.86318407960199	91.3503909026297	False
+XP034	PVR	TIGIT/CD226	pig->human	direct	PVR	31402149	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP035	LAG3	HLA-II	pig->human	direct	LAG3	10.1007/s10529-009-0144-9	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP036	FAS	FASLG	pig<-human	direct	FAS	10.4049/jimmunol.169.12.6850	FAS|FASLG	0	False	no_atlas_match	1	NA	NA	NA	False
+XP037	TNFRSF1A/B	TNF	pig<-human	direct	TNFRSF1A	8666424	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP038	IL1R1	IL1B	pig<-human	direct	IL1R1	28303603	IL1B|IL1R1	0	False	no_atlas_match	1	NA	NA	NA	False
+XP039	IL17RA	IL17A	pig<-human	direct	IL17RA	10.3389/fimmu.2022.857311	IL17A|IL17RA	0	False	no_atlas_match	1	NA	NA	NA	False
+XP040	IL6R	IL6	pig<-human	direct	IL6R	28303603	IL6|IL6R	0	False	no_atlas_match	1	NA	NA	NA	False
+XP041	IFNGR1/2	IFNG	pig<-human	direct	IFNGR1	8666424	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP042	IL6(pig)	IL6R	pig->human	direct	IL6	10.1111/xen.12408	IL6|IL6R	0	False	no_atlas_match	1	NA	NA	NA	False
+XP043	TNF(pig)	TNFRSF1A/B	pig->human	direct	TNF	10.1111/xen.12408	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP044	IL1B(pig)	IL1R1	pig->human	direct	IL1B	10.1111/xen.12408	IL1B|IL1R1	0	False	no_atlas_match	1	NA	NA	NA	False
+XP045	IFNG(pig)	IFNGR	pig->human	direct	IFNG	10.1111/xen.12408	IFNG|IFNGR	0	False	no_atlas_match	1	NA	NA	NA	False
+XP046	CXCL8(pig)	CXCR1/2	pig->human	direct	CXCL8	29427404	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP048	INS	INSR	pig->human	control	INS	7556975	INS|INSR	0	False	no_atlas_match	0	NA	NA	NA	False
+XP049	EPO	EPOR	pig->human	direct	EPO	8364201	EPO|EPOR	1	True	gene_pair_only_direction_unvalidated	1	0.658137882018479	0.86318407960199	74.0156361051883	False
+XP050	REN	AGT	pig->human	direct	REN	10.1038/207636a0	AGT|REN	0	False	no_atlas_match	1	NA	NA	NA	False
+XP051	AVPR2	AVP	pig<-human	direct	AVPR2	10.1210/endo-63-5-688	AVP|AVPR2	1	True	gene_pair_only_direction_unvalidated	1	0.701847903340441	0.569651741293532	64.8969438521677	False
+XP052	GHR	GH1	pig<-human	direct	GHR	33241624	GH1|GHR	0	False	no_atlas_match	1	NA	NA	NA	False
+XP053	GH1(pig)	GHR	pig->human	direct	GH1	7862673	GH1|GHR	0	False	no_atlas_match	1	NA	NA	NA	False
+XP054	UOX	uric_acid	pig->human	control	UOX	PMC6200029	NA	0	False	compound_or_non_gene_endpoint	0	NA	NA	NA	False
+XP057	SELE	SELPLG/ESL1	pig<-human	direct	SELE	10.1111/xen.12381	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP058	SELP	SELPLG	pig<-human	direct	SELP	PMC10204697	SELP|SELPLG	0	False	no_atlas_match	1	NA	NA	NA	False
+XP059	VCAM1	ITGA4/ITGB1	pig<-human	direct	VCAM1	10.1016/s0966-3274(96)80046-3	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP060	ICAM1	ITGAL/ITGB2	pig<-human	direct	ICAM1	7912457	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP062	PECAM1/CD31 (p)	human PECAM1/CD31	pig<-human	direct	PECAM1	10515388	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP063	pB4GALNT2/Sd(a) glycan	human anti-Sd(a) antibody response	pig->human	direct	B4GALNT2	28114170	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP064	SIGLEC1 (CD169)	human erythrocyte sialic acids	pig->human	direct	SIGLEC1	12857889;10.1128/JVI.77.15.8207-8215.2003	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP065	IL2	human IL-2-responsive lymphocyte proliferation	pig->human	direct	IL2	10.1111/j.1399-3089.2006.00329.x	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP066	porcine IL2R (lymphocyte-response axis)	porcine IL-2-responsive lymphocyte proliferation	pig<-human	direct	IL2	10.1111/j.1399-3089.2006.00329.x	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP067	C5AR1	human C5a	pig<-human	direct	C5AR1	10.1111/j.1399-3089.2007.00421.x	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP068	SIRPA	human CD47	pig->human	control	SIRPA	10.1111/xen.12466	CD47|SIRPA	1	True	gene_pair_only_direction_unvalidated	0	0.862117981520967	0.983297796730633	91.0589907604833	True
+XP069	ICAM2	human LFA1 (ITGAL/ITGB2)	pig->human	control	ICAM2	10.1111/j.1600-6143.2004.00369.x	ICAM2|LFA1	0	False	no_atlas_match	0	NA	NA	NA	False
+XP070	ITGA5/ITGB1 (pVLA5)	human FN1	pig->human	direct	ITGA5	12060464	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP071	porcine IL3R/CD123 (hematopoietic response)	porcine IL3R/CD123 hematopoietic response	pig<-human	direct	IL3	10428510	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP072	porcine IL3	human IL3R/CD123 hematopoietic response	pig->human	direct	IL3	10428510	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP073	porcine CTLA4	human CD80/CD86 (B7)	pig->human	direct	CTLA4	10975832	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP074	porcine αGal (glycan)	human LGALS3/galectin-3	pig->human	direct	GGTA1	16818789	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP075	porcine CFH	human C3b/C3d	pig->human	direct	CFH	14517701	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP076	ITGA4/ITGB1 (pVLA4)	human VCAM1	pig->human	control	ITGA4	9721809	NA	0	False	compound_or_non_gene_endpoint	0	NA	NA	NA	False
+XP078	porcine terminal sialylated glycan / CD15s-like determinant	human SELL/CD62L	pig->human	direct	NA	10075584	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP079	ABO(glycanA)	human anti-A IgM	pig->human	direct	ABO	10.1080/00365590151030840	NA	0	False	compound_or_non_gene_endpoint	1	NA	NA	NA	False
+XP080	CSF1	CSF1R	pig->human	control	CSF1	22974529	CSF1|CSF1R	1	True	gene_pair_only_direction_unvalidated	0	0.799573560767591	0.101279317697228	52.0255863539446	False
+XP081	CSF1R	CSF1	pig<-human	control	CSF1R	22974529	CSF1|CSF1R	1	True	gene_pair_only_direction_unvalidated	0	0.799573560767591	0.101279317697228	52.0255863539446	False
+XP082	CSF1R	IL34	pig<-human	control	CSF1R	22974529	CSF1R|IL34	0	False	no_atlas_match	0	NA	NA	NA	False

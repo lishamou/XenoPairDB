@@ -1,0 +1,16 @@
+donor_a	donor_b	median_delta_R	sensitivity_low	sensitivity_high	fraction_a_lower	interpretation
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	ClonOrgan-8GE (Xijing kidney #2 2026)	10.9441554519678	6.84067960720427	16.2235544352589	0	parameter_sensitivity_not_probability_of_clinical_superiority
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	GTKO (NYU 2021-23)	-41.554820167805	-52.2021528437768	-31.4786739802254	1	parameter_sensitivity_not_probability_of_clinical_superiority
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	Revivicor-10GE (Maryland heart/NYU kidney)	21.8016318312027	15.7337427392286	28.7359586682488	0	parameter_sensitivity_not_probability_of_clinical_superiority
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	Yunnan-10GE (Anhui auxiliary liver 2024)	48.6161965945969	37.2858279902045	60.5550305546761	0	parameter_sensitivity_not_probability_of_clinical_superiority
+ClonOrgan-6GE (Xijing auxiliary liver/kidney 2024-25)	eGenesis-69GE (MGH kidney 2024-25)	26.6695988971533	19.2575748440865	35.192493216999	0	parameter_sensitivity_not_probability_of_clinical_superiority
+ClonOrgan-8GE (Xijing kidney #2 2026)	GTKO (NYU 2021-23)	-52.6017714833616	-64.6073926027788	-41.2357016010569	1	parameter_sensitivity_not_probability_of_clinical_superiority
+ClonOrgan-8GE (Xijing kidney #2 2026)	Revivicor-10GE (Maryland heart/NYU kidney)	10.6630357483715	7.19235541117866	15.04961101324	0	parameter_sensitivity_not_probability_of_clinical_superiority
+ClonOrgan-8GE (Xijing kidney #2 2026)	Yunnan-10GE (Anhui auxiliary liver 2024)	37.6529393498306	27.3922322673829	48.319895696296	0	parameter_sensitivity_not_probability_of_clinical_superiority
+ClonOrgan-8GE (Xijing kidney #2 2026)	eGenesis-69GE (MGH kidney 2024-25)	15.5428675653271	10.125976787906	22.1191830611843	0	parameter_sensitivity_not_probability_of_clinical_superiority
+GTKO (NYU 2021-23)	Revivicor-10GE (Maryland heart/NYU kidney)	63.232934827016	51.2450207227739	75.9274198021263	0	parameter_sensitivity_not_probability_of_clinical_superiority
+GTKO (NYU 2021-23)	Yunnan-10GE (Anhui auxiliary liver 2024)	90.2091167378375	74.4372292132029	106.756831775183	0	parameter_sensitivity_not_probability_of_clinical_superiority
+GTKO (NYU 2021-23)	eGenesis-69GE (MGH kidney 2024-25)	68.2177766966946	55.0711644226646	82.1560767903502	0	parameter_sensitivity_not_probability_of_clinical_superiority
+Revivicor-10GE (Maryland heart/NYU kidney)	Yunnan-10GE (Anhui auxiliary liver 2024)	26.7101661667535	15.3235882380688	38.3341807049451	0	parameter_sensitivity_not_probability_of_clinical_superiority
+Revivicor-10GE (Maryland heart/NYU kidney)	eGenesis-69GE (MGH kidney 2024-25)	4.76729277884783	-2.60168410183975	12.6926545844006	0.115	parameter_sensitivity_not_probability_of_clinical_superiority
+Yunnan-10GE (Anhui auxiliary liver 2024)	eGenesis-69GE (MGH kidney 2024-25)	-21.9319744792518	-34.6673849625687	-9.73765441016362	1	parameter_sensitivity_not_probability_of_clinical_superiority

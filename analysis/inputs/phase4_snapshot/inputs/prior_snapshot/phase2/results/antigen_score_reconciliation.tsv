@@ -1,0 +1,6 @@
+metric	value
+scoreable_universe	4122
+max_absolute_combined_score_difference_vs_frozen	0.0007267416175836
+n_differences_gt_1e_minus8	4122
+stored_divergence_percentile_max_error	0.000787774717095013
+stored_glyco_percentile_max_error	0.000808452919711988
