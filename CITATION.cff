@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite the published Zenodo record and the original public sources."
 authors:
-  - family-names: Mou
-    given-names: Lisha
-    orcid: "https://orcid.org/0000-0001-6232-8341"
+  - family-names: "Mou"
+    given-names: "Lisha"
 title: "XenoPairDB: data and reproducible analyses for pig–human molecular incompatibilities and donor-engineering coverage"
-version: v1.0.0
-date-released: 2026-11-14
+version: "v1.0.0"
+date-released: "2026-11-13"
