@@ -40,4 +40,4 @@ The catalogue has 75 axes: 59 direct-evidence, 4 disputed and 12 compatibility-c
 
 ## Reuse and citation
 
-Please cite this Zenodo record using the DOI assigned when it is published, and cite the original sources listed in `THIRD_PARTY_NOTICES.md`. Original project code is MIT; original curation and derived materials are CC BY 4.0. Third-party data retain their source licenses, including CC BY-NC 4.0 for the Liu supplements. These third-party files are not relicensed under the project data license. 
+Please cite this Zenodo record (https://doi.org/10.5281/zenodo.24221713), and cite the original sources listed in `THIRD_PARTY_NOTICES.md`. Original project code is MIT; original curation and derived materials are CC BY 4.0. Third-party data retain their source licenses, including CC BY-NC 4.0 for the Liu supplements. These third-party files are not relicensed under the project data license. 
