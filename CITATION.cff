@@ -14,5 +14,5 @@ authors:
 title: "XenoPairDB: data and reproducible analyses for pig–human molecular incompatibilities and donor-engineering coverage"
 version: "v1.1.0"
 date-released: 2026-11-14
-doi: "10.5281/zenodo.24221713"
+doi: "10.5281/zenodo.24221712"
 repository-code: "https://github.com/lishamou/XenoPairDB"
