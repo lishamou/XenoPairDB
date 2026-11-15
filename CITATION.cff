@@ -1,0 +1,18 @@
+cff-version: 1.1.0
+message: "If you use XenoPairDB, please cite this Zenodo release and the original data sources."
+authors:
+  - family-names: Mou
+    given-names: Lisha
+  - family-names: Lu
+    given-names: Ying
+  - family-names: Wu
+    given-names: Zijing
+  - family-names: Zhang
+    given-names: Qishan
+  - family-names: Pu
+    given-names: Zuhui
+title: "XenoPairDB: data and reproducible analyses for pig–human molecular incompatibilities and donor-engineering coverage"
+version: "v1.1.0"
+date-released: 2026-11-14
+doi: "10.5281/zenodo.24221713"
+repository-code: "https://github.com/lishamou/XenoPairDB"
